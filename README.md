@@ -1,4 +1,4 @@
-# AI Governance - practical artifacts, verified against primary law
+# AI Governance Series - practical artifacts, verified against primary law
 
 ## What is AI governance?
 
@@ -27,14 +27,23 @@ criminal penalties. A firm processing data from more than one country has to
 satisfy them all at once, which is why a generic "global AI policy" fails and
 jurisdiction-specific governance is the working answer.
 
-## What this repository covers
+## The series
 
-Working, usable artifacts - not think pieces. Today: complete AI acceptable
-use policy sets per jurisdiction, each with an enterprise governance annex and
-a research note that shows the verification working. Coming: risk
-classification walkthroughs, bias and fairness testing, risk registers, impact
-assessments, vendor assessment, incident response, and human oversight in
-practice.
+This repository is a series. Each part becomes a working, verified artifact
+here as it is published - policies people can follow, obligations checked
+against the consolidated primary legislation, and research notes that show
+the working.
+
+| # | In this series | Status |
+|---|---|---|
+| 1 | **AI acceptable use policies** | **Live** - UK published, Bahrain working draft ([below](#1-ai-acceptable-use-policies)) |
+| 2 | Classifying AI systems by risk | Coming |
+| 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
+| 4 | Bias and fairness testing | Coming |
+| 5 | AI risk registers and model inventories | Coming |
+| 6 | Impact assessments | Coming |
+| 7 | Assessing AI vendors | Coming |
+| 8 | Incident response and human oversight | Coming |
 
 **Educational, not legal advice.** Every artifact is a template for learning
 and adaptation. Have your data protection lead or qualified legal counsel
@@ -54,7 +63,12 @@ review anything before adoption.
 - **Usable rules.** Obligations are written as rules a team can follow. Article
   numbers live in the research notes, not the policy text.
 
-## AI policy sets
+## 1. AI acceptable use policies
+
+The first artifact of the series: complete, per-jurisdiction policy sets, each
+built on the same skeleton so they can be read side by side - the foundation
+for the comparison matrix at part 3. The India, Saudi Arabia, and UAE editions
+follow.
 
 ### United Kingdom - published
 
@@ -104,15 +118,6 @@ several duties:
   Bahraini law is enacted in Arabic, and comparing the enacted text with the
   official English translations surfaced substantive divergences, recorded in
   the research note
-
-Each jurisdiction folder follows the same skeleton, so the sets can be read
-side by side - the basis for the jurisdiction comparison matrix to come.
-
-## Coming next
-
-The India, Saudi Arabia, and UAE policy editions, classifying AI systems by
-risk, bias and fairness testing, risk registers, impact assessments, vendor
-assessment, incident response, and human oversight in practice.
 
 ## Formats
 
