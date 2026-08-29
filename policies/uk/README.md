@@ -1,6 +1,6 @@
 # AI Acceptable Use Policy set - United Kingdom
 
-**AIGP domain:** Domain 5 - Implementing and operating AI governance
+**Focus:** Implementing and operating AI governance - policies and oversight
 **Status:** Published. Verified against consolidated primary legislation, 27 August 2026.
 **Educational, not legal advice** - review by your DPO or legal counsel before adoption.
 

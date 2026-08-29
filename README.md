@@ -1,10 +1,9 @@
 # AI Governance - practical artifacts, verified against primary law
 
-A free, public collection of working AI governance artifacts, organised around
-the IAPP AIGP (Artificial Intelligence Governance Professional) body of
-knowledge. Everything here is educational and demonstrates how AI governance is
-actually done - policies people can follow, obligations verified against the
-consolidated primary legislation, and research notes that show the working.
+A free, public collection of working AI governance artifacts. Everything here
+is educational and demonstrates how AI governance is actually done - policies
+people can follow, obligations verified against the consolidated primary
+legislation, and research notes that show the working.
 
 **Educational, not legal advice.** Every artifact is a template for learning and
 adaptation. Have your data protection lead or qualified legal counsel review
@@ -26,17 +25,17 @@ anything before adoption.
 
 ## Artifacts
 
-| Artifact | Jurisdiction | AIGP domain | Status |
+| Artifact | Jurisdiction | Focus | Status |
 |---|---|---|---|
-| [AI Acceptable Use Policy set](policies/uk/) - policy, one-page staff guide, enterprise annex, research note | United Kingdom | Domain 5 (Implementing AI governance) | Published |
-| [AI Acceptable Use Policy set](policies/bahrain/) - policy, enterprise annex, research note, source register | Kingdom of Bahrain | Domain 5 | Draft - verification gates open, see folder README |
+| [AI Acceptable Use Policy set](policies/uk/) - policy, one-page staff guide, enterprise annex, research note | United Kingdom | Implementing and operating AI governance | Published |
+| [AI Acceptable Use Policy set](policies/bahrain/) - policy, enterprise annex, research note, source register | Kingdom of Bahrain | Implementing and operating AI governance | Working draft - verification gates stated in the folder README |
 
 Each jurisdiction folder follows the same skeleton, so the sets can be read
 side by side - the basis for the jurisdiction comparison matrix to come.
 
 ## Coming next
 
-India and GCC policy editions (Saudi Arabia, UAE), classifying AI systems by
+The India, Saudi Arabia, and UAE policy editions, classifying AI systems by
 risk, bias and fairness testing, risk registers, impact assessments, vendor
 assessment, incident response, and human oversight in practice.
 
@@ -55,6 +54,12 @@ share them, with attribution.
 Use it. Tell me what to improve - issues and pull requests welcome.
 
 ---
+
+*The topics covered broadly track the domains of recognised AI governance
+bodies of knowledge, including the IAPP's AIGP certification. This is an
+independent educational project with no affiliation to, endorsement by, or
+connection with the IAPP or any certification body. AIGP is a trademark of
+the International Association of Privacy Professionals.*
 
 *Narendra Karki - CISSP | CISM | CISA | CAISP | CMCPSE*
 *ORCID: 0009-0002-5757-8615*

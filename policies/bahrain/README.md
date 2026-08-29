@@ -1,6 +1,6 @@
 # AI Acceptable Use Policy set - Kingdom of Bahrain
 
-**AIGP domain:** Domain 5 - Implementing and operating AI governance
+**Focus:** Implementing and operating AI governance - policies and oversight
 **Status: DRAFT - verification gates open.** See below before relying on this set.
 **Educational, not legal advice** - review by Bahraini-qualified counsel before adoption.
 
