@@ -1,13 +1,44 @@
 # AI Governance - practical artifacts, verified against primary law
 
-A free, public collection of working AI governance artifacts. Everything here
-is educational and demonstrates how AI governance is actually done - policies
-people can follow, obligations verified against the consolidated primary
-legislation, and research notes that show the working.
+## What is AI governance?
 
-**Educational, not legal advice.** Every artifact is a template for learning and
-adaptation. Have your data protection lead or qualified legal counsel review
-anything before adoption.
+AI governance is how an organisation directs and controls its use of
+artificial intelligence: who may use which AI tools, on what data, under whose
+oversight, with what checks before an output is relied on or a system goes
+live - and who is accountable when it goes wrong. It covers everything from an
+employee pasting text into a chatbot to an autonomous agent acting on the
+organisation's behalf.
+
+## Why it matters
+
+Two forces make this urgent. First, AI has moved into decisions that affect
+people - hiring, credit, eligibility, access to services - and into everyday
+workflows that touch personal and confidential data. Ungoverned, that produces
+concrete harm: regulatory fines, biased outcomes, data privacy leaks,
+reputational damage, security vulnerabilities, intellectual property loss,
+shadow AI growth, financial waste, lack of accountability, and loss of
+customer trust.
+
+Second, the law has caught up. Jurisdictions now attach real obligations to
+automated processing - lawful grounds, impact assessments, transparency,
+human oversight, transfer restrictions, breach deadlines - and those
+obligations differ by country and stack rather than substitute. Some carry
+criminal penalties. A firm processing data from more than one country has to
+satisfy them all at once, which is why a generic "global AI policy" fails and
+jurisdiction-specific governance is the working answer.
+
+## What this repository covers
+
+Working, usable artifacts - not think pieces. Today: complete AI acceptable
+use policy sets per jurisdiction, each with an enterprise governance annex and
+a research note that shows the verification working. Coming: risk
+classification walkthroughs, bias and fairness testing, risk registers, impact
+assessments, vendor assessment, incident response, and human oversight in
+practice.
+
+**Educational, not legal advice.** Every artifact is a template for learning
+and adaptation. Have your data protection lead or qualified legal counsel
+review anything before adoption.
 
 ## What makes this different
 
@@ -23,12 +54,56 @@ anything before adoption.
 - **Usable rules.** Obligations are written as rules a team can follow. Article
   numbers live in the research notes, not the policy text.
 
-## Artifacts
+## AI policy sets
 
-| Artifact | Jurisdiction | Focus | Status |
-|---|---|---|---|
-| [AI Acceptable Use Policy set](policies/uk/) - policy, one-page staff guide, enterprise annex, research note | United Kingdom | Implementing and operating AI governance | Published |
-| [AI Acceptable Use Policy set](policies/bahrain/) - policy, enterprise annex, research note, source register | Kingdom of Bahrain | Implementing and operating AI governance | Working draft - verification gates stated in the folder README |
+### United Kingdom - published
+
+**[policies/uk/](policies/uk/)** - full policy, one-page staff guide,
+enterprise governance annex, and research note. Word versions in
+[downloads](policies/uk/downloads/).
+
+Built on the UK data protection regime as it stands after the Data (Use and
+Access) Act 2025:
+
+- [UK GDPR](https://www.legislation.gov.uk/eur/2016/679/contents) and the
+  [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents),
+  as amended - lawful basis, data minimisation, impact assessments,
+  automated decision-making safeguards, breach notification, transfers
+- [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/contents/data.html) -
+  the reframed automated-decision rules, the new complaints-handling duty,
+  and the reworded international transfer test
+- [Equality Act 2010](https://www.legislation.gov.uk/ukpga/2010/15/contents) -
+  non-discrimination in AI-informed decisions
+- [Copyright, Designs and Patents Act 1988](https://www.legislation.gov.uk/ukpga/1988/48/contents) -
+  intellectual property in AI inputs and outputs
+- [ICO guidance on AI and data protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/)
+
+### Kingdom of Bahrain - working draft
+
+**[policies/bahrain/](policies/bahrain/)** - full policy, enterprise
+governance annex, research note, and source register. Word versions in
+[downloads](policies/bahrain/downloads/). Verification gates are stated
+openly in the [folder README](policies/bahrain/README.md).
+
+Built on Bahrain's personal data protection regime - a system with features
+that reshape AI governance: prior notice to the regulator before automated
+processing, prior written authorisation for defined categories (where silence
+past the statutory period is a refusal), and criminal penalties attached to
+several duties:
+
+- Personal Data Protection Law - Law No. (30) of 2018
+  ([Personal Data Protection Authority](https://www.pdp.gov.bh/en/regulations.html))
+- The implementing Ministerial Orders Nos. 42-51 of 2022
+  ([executive decisions](https://www.pdp.gov.bh/en/executive-decisions.html)) -
+  transfers outside the Kingdom and the adequate-countries record, technical
+  and organisational measures, notifications and prior authorisation,
+  sensitive personal data, Data Protection Guardians, data subject rights,
+  complaints
+- Read against the enacted Arabic in the
+  [Official Gazette](https://www.legalaffairs.gov.bh/OG/3593.pdf) where held -
+  Bahraini law is enacted in Arabic, and comparing the enacted text with the
+  official English translations surfaced substantive divergences, recorded in
+  the research note
 
 Each jurisdiction folder follows the same skeleton, so the sets can be read
 side by side - the basis for the jurisdiction comparison matrix to come.
