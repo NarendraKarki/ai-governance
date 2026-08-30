@@ -262,3 +262,37 @@ when a notification template is drafted.
 - Re-verify the remaining PDPL rows in the table above against the held Arabic.
 - Whether the March 2022 adequate-countries record has been amended since.
 - Whether Finding 1 should change the registry entry for Order 43 Article 3.
+
+## ADDENDUM 30 August 2026 - watch items resolved
+
+### Order 48/2022 - no supersession found
+The 2025-supersession concern is closed as unfounded on present evidence. The
+Authority's public site currently serves Order No. (48) of 2022 (issued 17
+March 2022) as the operative data subject rights instrument; its article
+headings match the corpus copy (definitions; scope; obligations related to
+decisions based on automated processing; consent and its scope; unconsidered
+consent; withdrawal; objection procedure; entry into force) and it contains no
+amendment or repeal language. Searches surface no 2025 instrument on data
+subject rights. The "2025 date" previously seen on pdp.gov.bh most plausibly
+referred to a re-reviewed English translation (the current file is named
+"Data-Subjects-Rights-REVIEWED.pdf"), not a new order. Method note: per the
+source register, web material resolves doubt about existence and currency; it
+does not become authority. Citations to Order 48 remain translation-tier until
+the enacted Arabic (Gazette 3593 pp. 114-116, already held) is transcribed.
+
+### Adequate-countries record - current as published
+The record served today on the Authority's site is Order 42/2022's schedule
+with 83 entries, matching the dual-verified corpus list entry for entry. No
+amendment indicated. Policy 8.3's re-check-at-review instruction stands; the
+currency doubt is answered as at 30 August 2026.
+
+### One-page staff guide added
+Bahrain_AI_Use_OnePager.md added 30 August 2026, completing the two-layer
+structure. Its rules restate the policy; it introduces no new obligation and
+cites nothing directly.
+
+### Remaining before the draft banner lifts
+1. Re-verify the translation-grounded PDPL citations against the held Arabic
+   (dual-pipeline re-run recommended - platform-side work).
+2. Transcribe the Arabic of Orders 44, 45, 46 and 48 from Gazette 3593
+   (already held), starting with Order 44, on which policy Section 4 rests.

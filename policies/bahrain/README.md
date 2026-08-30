@@ -16,6 +16,7 @@ automated processing, **prior written authorisation** for defined categories
 | File | What it is |
 |---|---|
 | [Bahrain_AI_Acceptable_Use_Policy.md](Bahrain_AI_Acceptable_Use_Policy.md) | The full policy (v1.0), including Section 4 - regulatory clearance before deployment, and Level 4 regulated uses |
+| [Bahrain_AI_Use_OnePager.md](Bahrain_AI_Use_OnePager.md) | The one-page staff guide - including the Bahrain-specific rule staff most often trip over: AI that watches or identifies people needs the regulator's written permission before it starts |
 | [Bahrain_AI_Governance_Enterprise_Annex.md](Bahrain_AI_Governance_Enterprise_Annex.md) | Enterprise controls, including the Regulatory Filings Register (A2A) that gates deployment on the filing position |
 | [Bahrain_policy_research_note.md](Bahrain_policy_research_note.md) | Every obligation mapped to source and article, corrections recorded openly, findings from reading the enacted Arabic against the official translations |
 | [Bahrain_source_register.md](Bahrain_source_register.md) | The full source corpus: what is held, at what verification tier (enacted Arabic vs translation), what is missing, and what was deliberately not used |
@@ -34,13 +35,22 @@ research note records each divergence.
 
 ## Open verification gates (why this is a draft)
 
-1. **Order 48/2022 may have been superseded in 2025** - the data subject
-   rights provisions partly rest on it; the current text must be obtained.
-2. Most citations rest on official **translations**; enacted Arabic is held
-   and checked for the PDPL (key articles) and Orders 42 and 43 only.
-3. The March 2022 adequate-countries record (83 entries, dual-verified) must
-   be re-checked for amendments before any transfer position is relied on.
-4. A one-page staff guide, matching the UK set's two-layer structure, is
-   still to be added.
+1. Most citations rest on official **translations**; enacted Arabic is held
+   and checked for the PDPL (key articles) and Orders 42 and 43 only. Reading
+   the Arabic of Order 43 corrected five things - the remaining instruments
+   (Orders 44, 45, 46, 48) warrant the same pass before this set is treated
+   as verified.
+
+Resolved gates, for the record:
+
+- **Order 48/2022 supersession - resolved 30 August 2026.** No 2025
+  replacement found: the Authority currently publishes Order 48/2022 as the
+  operative data subject rights instrument, and no later instrument surfaced.
+  Its citations remain translation-tier until the enacted Arabic is read.
+- **Adequate-countries record - checked 30 August 2026** against the
+  Authority's current publication: 83 entries, unchanged from the gazetted
+  March 2022 record. Re-check at adoption remains the policy's own rule.
+- **One-page staff guide - added 30 August 2026**, completing the two-layer
+  structure used across jurisdictions.
 
 No provision in this set has been signed off by a Bahraini-qualified lawyer.
