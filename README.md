@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK published, Bahrain working draft ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - UK published; Bahrain and EU working drafts ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -118,6 +118,27 @@ several duties:
   Bahraini law is enacted in Arabic, and comparing the enacted text with the
   official English translations surfaced substantive divergences, recorded in
   the research note
+
+### European Union - working draft
+
+**[policies/eu/](policies/eu/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/eu/downloads/). Verification gates are stated openly in
+the [folder README](policies/eu/README.md).
+
+Built on Union law as it stands after the Digital Omnibus - a framework where
+some AI practices are prohibited outright and the rest commences in stages:
+
+- [AI Act - Regulation (EU) 2024/1689, consolidated 27 July 2026](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng) -
+  prohibited practices, the staged commencement schedule, and the transparency
+  obligations in force since August 2026
+- [Digital Omnibus - Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng) -
+  the amending instrument that deferred the high-risk regime to December 2027
+  and August 2028 (a deferral, not an exemption - the set includes a readiness
+  register so the time is used, not wasted)
+- [GDPR - Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) -
+  lawful basis, automated decisions, impact assessments, breach notification,
+  transfers
 
 ## Formats
 
