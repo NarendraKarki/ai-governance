@@ -47,7 +47,10 @@ Good-faith disclosure will not of itself be treated as a disciplinary matter.
 ## 4. Levels of use
 
 Controls apply according to risk. Where the level is unclear, the higher level
-applies.
+applies. These levels are [ORGANISATION]'s own classification for scaling
+controls; they are not categories defined in law. Their boundaries are set
+where legal duties begin, so a use's level also identifies the obligations
+that attach to it.
 
 - **Level 1:** No personal, confidential, or regulated data, and output not used to
   make decisions about individuals.

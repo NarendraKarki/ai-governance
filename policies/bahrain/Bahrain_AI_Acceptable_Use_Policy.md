@@ -94,7 +94,10 @@ required, the data subject's consent.
 ## 5. Levels of use
 
 Controls apply according to risk. Where the level is unclear, the higher level
-applies.
+applies. These levels are [ORGANISATION]'s own classification for scaling
+controls; they are not categories defined in law. Their boundaries are set
+where legal duties begin - and Level 4 records a statutory status: processing
+the law itself gates behind prior written authorisation.
 
 - **Level 1:** No personal, confidential, or regulated data, and output not used to
   make decisions about individuals.
