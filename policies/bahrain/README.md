@@ -23,6 +23,17 @@ automated processing, **prior written authorisation** for defined categories
 
 Word versions are in [downloads/](downloads/).
 
+## About the levels of use
+
+The policy scales controls through four levels of use. The levels are
+[ORGANISATION]'s own classification, not categories defined in law - the PDPL
+contains no such tiers. Their boundaries sit where legal duties begin: Level 3
+starts where the statutory triggers fire (personal data, sensitive personal
+data, decisions about individuals), and Level 4 wraps the categories the law
+itself gates - processing that may not begin at all without the Authority's
+prior written authorisation. The level labels are the policy's; the gates are
+the law's.
+
 ## Why the Arabic matters
 
 Bahraini legislation is enacted in Arabic; English versions are translations

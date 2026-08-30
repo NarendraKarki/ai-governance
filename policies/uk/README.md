@@ -18,6 +18,16 @@ the Data (Use and Access) Act 2025:
 
 Word versions are in [downloads/](downloads/).
 
+## About the levels of use
+
+The policy scales controls through three levels of use. The levels are
+[ORGANISATION]'s own classification - no UK statute defines them, and they
+are not legal categories. Their boundaries, however, are placed where legal
+duties actually begin: the step from Level 2 to Level 3 sits exactly where
+the law's own triggers fire - personal data, special category data, decisions
+about individuals, processing that requires an impact assessment. Classifying
+a use therefore also identifies which legal obligations attach to it.
+
 ## Primary sources used
 
 The UK GDPR and Data Protection Act 2018 **as amended** (revised consolidated

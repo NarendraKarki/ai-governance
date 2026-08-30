@@ -24,6 +24,17 @@ the wrong date is the most common error in this area.
 
 Word versions are in [downloads/](downloads/).
 
+## About the levels of use
+
+The policy scales controls through four levels of use. The levels are
+[ORGANISATION]'s own classification - no Union instrument defines them, and
+they are distinct from the AI Act's own legal categories (prohibited
+practices, high-risk systems, transparency-risk systems). Their boundaries
+sit where legal duties begin: Level 3 starts where the GDPR's triggers fire
+(personal data, special category data, DPIA-level risk), and Level 4 wraps
+the AI Act's statutory high-risk classification for the readiness track. The
+level labels are the policy's; the categories are the law's.
+
 ## The commencement finding
 
 Secondary reporting still describes the Digital Omnibus as provisionally

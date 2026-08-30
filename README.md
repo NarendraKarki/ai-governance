@@ -70,6 +70,12 @@ built on the same skeleton so they can be read side by side - the foundation
 for the comparison matrix at part 3. The India, Saudi Arabia, and UAE editions
 follow.
 
+Each policy scales its controls through **levels of use**. The levels are the
+organisation's own classification, not categories defined in any law - but
+every level boundary is placed where a statutory duty actually begins, so
+classifying a use also identifies the legal obligations that attach to it.
+Each folder README states how its levels map to that jurisdiction's law.
+
 ### United Kingdom - published
 
 **[policies/uk/](policies/uk/)** - full policy, one-page staff guide,
