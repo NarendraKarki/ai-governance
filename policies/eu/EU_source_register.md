@@ -31,7 +31,7 @@ page, and no figure, date or provision in this set was taken from it.
 | What is missing | Consequence |
 |---|---|
 | **Regulation (EU) 2022/2554 (DORA)** | **Requested but not supplied.** No financial-entity annex exists. Nothing about ICT third-party risk, the register of information, ICT incident classification and reporting, contractual requirements, exit strategies or critical-provider designation is asserted anywhere. Annex A11.2 says so explicitly rather than gesturing at it |
-| **Annex III, read item by item** | Closed 31 August 2026. Read in full; policy 12.1 now verified against points 4(a)-(b). Full item-by-item treatment in classification/eu/ |
+| **Annex III, read item by item** | Policy 12.1 says recruitment and employment-management systems are "expected" to be high-risk. That is a signposted uncertainty, not a verified classification |
 | **A current GDPR consolidation** | GDPR is cited from the 4 May 2016 OJ text. Corrigenda since should be checked before a position turns on precise wording |
 | **Member State data protection law** | The GDPR leaves national room on employment data, special categories and criminal-convictions data. None supplied, none asserted |
 | **Union equality / anti-discrimination law** | Policy 17 carries no citation and is a house standard |
