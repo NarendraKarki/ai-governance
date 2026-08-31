@@ -37,7 +37,7 @@ the working.
 | # | In this series | Status |
 |---|---|---|
 | 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, and EU published and verified ([below](#1-ai-acceptable-use-policies)) |
-| 2 | Classifying AI systems by risk | Coming |
+| 2 | Classifying AI systems by risk | **Live** - EU, verified against the consolidated AI Act of 27 July 2026 ([classification/eu](classification/eu)) |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
 | 5 | AI risk registers and model inventories | Coming |
