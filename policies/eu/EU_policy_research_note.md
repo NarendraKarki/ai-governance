@@ -78,7 +78,7 @@ exist because a deferral quietly consumed is a deferral wasted.
 | Deep fake disclosure by deployers | Policy 9.3 | **Art 50(4)** |
 | GPAI model obligations fall on the model provider | Policy 4.1 | Chapter V (Arts 51-56), from 2 Aug 2025 per Art 113(b) |
 | High-risk classification and requirements — deferred | Policy 4.2, 5 (Level 4), Annex A3 | Chapter III Sections 1-3; commencement Art 113(c) ▼M1 |
-| Recruitment / employment-management systems expected high-risk | Policy 12.1 | Annex III — **classification not individually verified; see Limitation 3** |
+| Recruitment / employment-management systems high-risk | Policy 12.1 | Annex III points 4(a)-(b), read item by item; see section below and classification/eu/ |
 
 ### Data protection
 
@@ -151,7 +151,7 @@ exist because a deferral quietly consumed is a deferral wasted.
    supplied notes the act has been changed and gives 04/05/2016 as the current
    consolidated version; the corrigenda published since should be checked before any
    position turns on precise wording.
-3. **Annex III was not individually verified.** Policy 12.1 says recruitment and
+3. **Annex III was not individually verified at v1.0 - closed 31 August 2026, see below and classification/eu/.** Policy 12.1 says recruitment and
    employment-management systems are "expected" to fall in the high-risk category. That
    word is doing real work: the Annex III list was not read item by item for this note,
    and the omnibus amended Annex I. **Any specific classification must be verified
@@ -172,7 +172,7 @@ exist because a deferral quietly consumed is a deferral wasted.
    annex cannot be written to this standard, and nothing about ICT third-party risk,
    the register of information, ICT incident classification and reporting, contractual
    requirements or critical-provider designation is asserted anywhere in this set.
-2. **Annex III of the consolidated AI Act**, read item by item, to replace "expected to
+2. (Closed 31 August 2026, see classification/eu/) **Annex III of the consolidated AI Act**, read item by item, to replace "expected to
    fall" with a verified classification for the specific systems [ORGANISATION] uses.
 3. **A current GDPR consolidation**, to close Limitation 2.
 4. **The relevant Member State data protection act**, for the national provisions at
