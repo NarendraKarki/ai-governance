@@ -323,9 +323,11 @@ customer-facing or decision-bearing output, verification must be recorded.
 - **HR and recruitment:** AI must not be used to make hiring, performance, or
   disciplinary decisions about individuals without human review (Section 10). Any
   tool that scores a candidate's or employee's emotional state is prohibited outright
-  (Section 6.1). Recruitment and employment-management systems are expected to fall
-  within the high-risk category when that regime commences, and must be recorded under
-  Section 4.3.
+  (Section 6.1). Systems used for recruitment or selection, or for decisions on
+  promotion, termination, task allocation, or the monitoring and evaluation of
+  performance and behaviour, are listed in the high-risk category that commences in
+  December 2027 - subject to the narrow statutory derogation, which cannot apply
+  where the system profiles individuals - and must be recorded under Section 4.3.
 - **Security and facilities:** biometric identification and categorisation, and
   emotion inference, are prohibited or tightly constrained. No pilot may be run
   without the policy owner's and data protection lead's approval.

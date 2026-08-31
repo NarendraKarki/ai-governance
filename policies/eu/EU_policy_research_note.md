@@ -187,3 +187,80 @@ exist because a deferral quietly consumed is a deferral wasted.
   will determine what "ready by December 2027" actually means in practice.
 - Guidance on the Article 50 transparency obligations, in force since 2 August 2026 and
   the newest live duty in the set.
+
+## ADDENDUM 31 August 2026 - gates closed
+
+### Annex III read item by item (Limitation 3 - CLOSED)
+
+Annex III of the consolidated text (02024R1689-20260727) was read in full.
+It lists eight areas: (1) biometrics - remote biometric identification
+(verification-only systems excluded), biometric categorisation on sensitive
+or protected attributes, emotion recognition; (2) critical infrastructure
+safety components; (3) education and vocational training - admission,
+evaluation of learning outcomes, level assessment, test monitoring;
+(4) employment, workers' management and access to self-employment;
+(5) essential services - public assistance eligibility, creditworthiness
+(fraud-detection excepted), life and health insurance risk assessment and
+pricing, emergency call handling; (6) law enforcement; (7) migration, asylum
+and border control; (8) administration of justice and democratic processes.
+**The whole Annex is base text (▼B): Regulation (EU) 2026/1744 did not amend
+it.** The omnibus's classification changes sit in Article 6(1a)-(1c) and
+concern Annex I safety components.
+
+What this changes in the set:
+
+- **Policy 12.1 rewritten from "expected" to verified.** Annex III point 4(a)
+  lists systems for recruitment or selection - targeted advertisements,
+  application filtering, candidate evaluation; point 4(b) lists decisions on
+  promotion, termination, task allocation based on behaviour or traits, and
+  monitoring and evaluation of performance and behaviour. The policy now
+  states the listing directly.
+- **The listing is not automatic classification.** Article 6(3) derogates
+  systems posing no significant risk (narrow procedural tasks, improving a
+  completed human activity, deviation detection without replacing human
+  assessment, preparatory tasks) - but the derogation **cannot apply where
+  the system profiles natural persons**, and a provider invoking it must
+  document the assessment before market placement (Art 6(4)). Most
+  employment-context AI evaluating people involves profiling; the policy's
+  wording reflects the listing with the derogation caveat.
+- Other policy touchpoints confirmed in the list: creditworthiness scoring
+  (5(b)), emotion recognition where not already prohibited by Art 5(1)(f)
+  (1(c)), biometric categorisation (1(b)) - consistent with how Policy 6.1,
+  12.1 and the Level 4 register treat them.
+- **Article 6(5) guidelines:** the Commission was required to issue
+  classification guidelines by 2 February 2026. They are not held in the
+  corpus and nothing here rests on them; obtain before any contested
+  classification call. (Watch item retained.)
+
+### GDPR consolidation (Limitation 2 - currency CLOSED, wording check open)
+
+Checked 31 August 2026: the current consolidated GDPR remains
+`02016R0679-20160504`. The amending proposals in the data-side Digital
+Omnibus package were **not adopted** as at this date - the adopted
+Regulation (EU) 2026/1744 amends the AI Act, the aviation regulation and
+the machinery regulation only, per its own title and text (held in corpus).
+Web sources were used solely to confirm that no amending act exists to
+obtain; no obligation rests on them. The corrigenda-wording pass against
+the consolidated text (►C markers) remains the one open step; no position
+in this set has been identified that turns on corrected wording, and the
+cited obligations are structural rather than fine-worded.
+
+### Member State overlay note (Limitation 6 - stated and scoped)
+
+The GDPR is a regulation with opening clauses, and the AI Act leaves
+national machinery to Member States. An organisation deploying in a specific
+Member State must overlay, at minimum: national employment-data provisions
+(the GDPR permits more specific national rules for the employment context,
+including collective agreements); national conditions on special categories
+and genetic, biometric or health data (Member States may maintain or
+introduce further conditions); national rules on criminal-convictions data;
+the national age of consent for information-society services (13 to 16 by
+Member State); mandatory DPO designation beyond the GDPR's cases (some
+Member States extend it); worker-representation rights over workplace AI
+(works-council codetermination regimes can require agreement before
+deployment of monitoring or evaluation systems); the Member State's AI Act
+implementation - notified market surveillance authorities and the national
+penalty regime; and sector supervisors. **None of this is mapped in this
+set, by design** - it is a Union-law baseline; the overlay is stated so it
+is planned for, not discovered late. Per-state columns belong to the
+jurisdiction comparison matrix (series part 3).

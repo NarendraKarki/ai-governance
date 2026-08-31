@@ -296,3 +296,88 @@ cites nothing directly.
    (dual-pipeline re-run recommended - platform-side work).
 2. Transcribe the Arabic of Orders 44, 45, 46 and 48 from Gazette 3593
    (already held), starting with Order 44, on which policy Section 4 rests.
+
+**Both items were closed on 31 August 2026 - see the addendum below. The
+draft banner is lifted.**
+
+## ADDENDUM 31 August 2026 - the Arabic verification, completed
+
+Every translation-grounded citation in the table above has now been read
+against the enacted Arabic. **No divergence affecting any policy position was
+found.** Method and results follow.
+
+### Sources and method
+
+- **PDPL.** A second, independent extraction of the enacted Arabic: the
+  mola.gov.bh source document (`L3018`, Word format) read through its native
+  text layer - a different extraction path from the corpus transcription's
+  single `geometric_rtl` strategy, which closes the transcription-confidence
+  caveat in Correction 1. Digits and article numbers in the native text layer
+  are reliable.
+- **Orders 44, 45, 46 and 48.** Read in the enacted Arabic from Official
+  Gazette issue 3593 (pages 98-101, 102-103, 104-110, 114-116) through the
+  PDF's embedded text layer, which carries a systematic glyph substitution
+  that was decoded consistently. The operative clauses that bear the
+  policy's weight - Order 44 Articles 4 and 6 above all - were additionally
+  confirmed **visually against the Gazette page images** (pages 99-100).
+
+### PDPL articles verified against the Arabic (31 August 2026)
+
+Articles 3(2)-(5), 4, 5, 7, 8(1), 8(3), 9, 10, 12, 13(1)-(2), 14(1) with
+exemptions (a)-(d), 14(6), 17(1)-(2), 18, 19, 20, 21, 23, 24, 25, 38, 58(1),
+59 - every remaining translation-grounded row in the table. Articles 15 and
+22, verified 3 August against the corpus transcription, were re-confirmed
+against the second extraction. All match the obligations as expressed.
+Precision notes, none of which changes a policy position:
+
+- **Art 8(1):** the technical and organisational measures must be recorded
+  and accessible to the Authority, controller and processor **and to persons
+  concerned** (ذوي الشأن) - the table row omitted the last. The policy is
+  unaffected (Policy 12.4 does not enumerate the audience).
+- **Art 18(1):** where a decision is intended based solely on the data,
+  affecting a personal and direct interest, the controller must explain the
+  method **in terms clear to an ordinary person**, without prejudice to
+  intellectual property or trade secrets - a stronger transparency duty than
+  the table row recorded, and further support for Policy 15.
+- **Art 15(3) / Order 44 Art 4:** the Authority must decide **and notify the
+  outcome** within thirty days; silence past the period is an implied
+  rejection (رفضاً ضمنياً) - confirmed verbatim in both instruments.
+
+### Orders verified against the enacted Arabic (31 August 2026)
+
+- **Order 44 Arts 2, 4, 5, 6, 7** - all match the table rows: the
+  notification procedure with the 10-day completion demand and processing
+  suspension; the 30-day decision with implied rejection; the authorised
+  processor's four obligations; the mandatory DPIA with authorisation
+  requests for visual-recording and automated biometric processing (**the
+  Finding 1 corroboration now stands in enacted text, not only in
+  translation**); the 30-day change notification.
+- **Order 45 Arts 2, 3, 4** - match, including the Art 5(2)-case scoping
+  that Correction 2 narrowed the policy to.
+- **Order 46 Arts 2, 4, 13** - match: appointment and the three-working-day
+  notification; register enrolment; the Guardian's conflict-of-interest
+  disclosure and confidentiality duties.
+- **Order 48 Arts 3, 4** - match. One precision note: Art 3(2) requires the
+  objection rules to be laid down **electronically or otherwise** (بصورة
+  إلكترونية أو غيرها); the table row said "electronic". An electronic
+  procedure satisfies the duty; the duty is not limited to one.
+
+### New findings from the Arabic, recorded for future versions
+
+- **Order 48 Art 5 - cookie walls invalidate consent.** Consent given where
+  a "cookies wall" conditions site access on prior consent is of no effect.
+  Not currently reflected in the policy body; relevant to any AI tooling
+  embedded in web properties. Candidate for v1.1.
+- **Order 48 Art 6 - withdrawal.** Where processing rests on consent alone,
+  withdrawal must be free of charge, without liability, by simple
+  procedures, answered within a reasonable period, and is non-retroactive.
+  Consistent with Policy 7; worth an express clause in v1.1.
+
+### Status change
+
+Limitation 1 is resolved: every citation in this note now rests on enacted
+Arabic, verified either by the platform's dual-extraction transcriptions
+(Orders 42, 43) or by this in-session reading of the Gazette text layer with
+visual confirmation of operative clauses (PDPL; Orders 44, 45, 46, 48). The
+standing caveats remain: no Bahraini-qualified lawyer has signed off any
+provision, and these documents are educational templates, not legal advice.

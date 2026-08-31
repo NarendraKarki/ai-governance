@@ -1,7 +1,7 @@
 # AI Acceptable Use Policy set - European Union
 
 **Focus:** Implementing and operating AI governance - policies and oversight
-**Status: WORKING DRAFT - verification gates stated below.**
+**Status: PUBLISHED - verification record below.**
 **Educational, not legal advice** - review by qualified counsel before adoption.
 
 ## What this is
@@ -51,18 +51,29 @@ and bind since **2 August 2026**.
 - [Digital Omnibus - Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng) - the amending instrument
 - [GDPR - Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)
 
-## Open verification gates (why this is a draft)
+## Verification record (gates stated, then closed - in public)
 
-1. **Annex III has not been read item by item** - the policy says recruitment
-   and employment-management systems are "expected" to be high-risk, and that
-   word is doing real work until the Annex is verified.
-2. **GDPR is cited from the 2016 OJ text** - the current consolidation should
-   be checked before any position turns on precise wording.
-3. **Member State law is not addressed** - national provisions on employment
-   data, special categories and criminal-convictions data must be overlaid per
-   country.
-4. **DORA is absent by design** - financial entities need a separate annex
-   grounded in Regulation (EU) 2022/2554 and its technical standards; nothing
-   about digital operational resilience is asserted here.
+1. **Annex III - read item by item, 31 August 2026.** All eight areas of the
+   consolidated text were read; the omnibus did not amend the Annex. Policy
+   12.1 now states the employment listing directly instead of "expected",
+   with the statutory derogation caveat - which cannot apply where the
+   system profiles individuals. Full reading in the research note.
+2. **GDPR consolidation - currency confirmed 31 August 2026.** The current
+   consolidated version remains that of 4 May 2016; the data-side Digital
+   Omnibus proposals affecting the GDPR were not adopted as at that date
+   (the adopted 2026 omnibus amends the AI Act, aviation and machinery
+   regulations only). The corrigenda-wording pass is recorded in the
+   research note; no cited position turns on corrected wording.
+3. **Member State overlay - stated and scoped, 31 August 2026.** The
+   research note now lists what national law can add - employment-data
+   rules, special-category conditions, DPO extensions, works-council
+   rights, national AI Act machinery and penalties. Per-state mapping
+   belongs to the jurisdiction comparison matrix (series part 3), by design.
+
+Still absent by design:
+
+- **DORA** - financial entities need a separate annex grounded in
+  Regulation (EU) 2022/2554 and its technical standards; nothing about
+  digital operational resilience is asserted here.
 
 No provision in this set has been reviewed by qualified counsel.

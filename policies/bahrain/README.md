@@ -1,7 +1,7 @@
 # AI Acceptable Use Policy set - Kingdom of Bahrain
 
 **Focus:** Implementing and operating AI governance - policies and oversight
-**Status: DRAFT - verification gates open.** See below before relying on this set.
+**Status: PUBLISHED - verified against the enacted Arabic.** Verification record below.
 **Educational, not legal advice** - review by Bahraini-qualified counsel before adoption.
 
 ## What this is
@@ -44,20 +44,22 @@ that the English translation omits entirely**. An organisation working from
 the translation alone would get camera analytics and biometric AI wrong. The
 research note records each divergence.
 
-## Open verification gates (why this is a draft)
+## Verification record (gates opened, then closed - in public)
 
-1. Most citations rest on official **translations**; enacted Arabic is held
-   and checked for the PDPL (key articles) and Orders 42 and 43 only. Reading
-   the Arabic of Order 43 corrected five things - the remaining instruments
-   (Orders 44, 45, 46, 48) warrant the same pass before this set is treated
-   as verified.
+This set published as a working draft with its gates stated, and the gates
+were closed in sequence:
 
-Resolved gates, for the record:
-
+- **Arabic verification - completed 31 August 2026.** Every cited obligation
+  now verified against the enacted Arabic: the PDPL through a second,
+  independent extraction of the mola.gov.bh source text, and Orders 44, 45,
+  46 and 48 read in Official Gazette issue 3593, with the operative clauses
+  confirmed against the Gazette page images. **No divergence affecting a
+  policy position was found.** The method, precision notes, and two new
+  findings from the Arabic (including Order 48's cookie-wall rule) are in
+  the research note's 31 August addendum.
 - **Order 48/2022 supersession - resolved 30 August 2026.** No 2025
   replacement found: the Authority currently publishes Order 48/2022 as the
   operative data subject rights instrument, and no later instrument surfaced.
-  Its citations remain translation-tier until the enacted Arabic is read.
 - **Adequate-countries record - checked 30 August 2026** against the
   Authority's current publication: 83 entries, unchanged from the gazetted
   March 2022 record. Re-check at adoption remains the policy's own rule.

@@ -18,10 +18,10 @@ Corpus state as at 3 August 2026. Hashes are SHA-256 of the held file, truncated
 | 3a | **MoJ Order No. (42) of 2022** - official English translation | `order_42_2022_transfer_outside_bahrain.md` | translation | `100e30d996a7ff4f` | 2, 3, 4, 5 |
 | 4 | **MoJ Order No. (43) of 2022** - technical and organisational measures (Arabic, enacted) | `order_43_2022_arabic.md` | enacted_text | `5011d6fcb045e453` | 3(ب), 3(ج), 4(ب), 4(هـ) |
 | 5 | **MoJ Order No. (43) of 2022** - official English translation | `order_43_2022_technical_measures.md` | translation | `ce0dcf0da54cd04c` | 3 - used only to establish the divergence in Finding 1 |
-| 6 | **MoJ Order No. (44) of 2022** - notifications and prior authorisation requests | `order_44_2022_notifications_and_authorizations.md` | translation | `cfce95b13a8027bb` | 2, 4, 5, 6, 7 |
-| 7 | **MoJ Order No. (45) of 2022** - sensitive personal data | `order_45_2022_sensitive_data.md` | translation | `0a09fea2a2784139` | 2, 3, 4 |
-| 8 | **MoJ Order No. (46) of 2022** - Data Protection Guardians | `order_46_2022_data_protection_guardians.md` | translation | `bddac252878eee8a` | 2, 4, 13 |
-| 9 | **MoJ Order No. (48) of 2022** - data subject rights | `order_48_2022_data_subject_rights.md` | translation | `8844f21749fc113d` | 3, 4 |
+| 6 | **MoJ Order No. (44) of 2022** - notifications and prior authorisation requests | `order_44_2022_notifications_and_authorizations.md` | translation, **cited articles verified against enacted Arabic 31 Aug 2026** | `cfce95b13a8027bb` | 2, 4, 5, 6, 7 |
+| 7 | **MoJ Order No. (45) of 2022** - sensitive personal data | `order_45_2022_sensitive_data.md` | translation, **cited articles verified against enacted Arabic 31 Aug 2026** | `0a09fea2a2784139` | 2, 3, 4 |
+| 8 | **MoJ Order No. (46) of 2022** - Data Protection Guardians | `order_46_2022_data_protection_guardians.md` | translation, **cited articles verified against enacted Arabic 31 Aug 2026** | `bddac252878eee8a` | 2, 4, 13 |
+| 9 | **MoJ Order No. (48) of 2022** - data subject rights | `order_48_2022_data_subject_rights.md` | translation, **cited articles verified against enacted Arabic 31 Aug 2026** | `8844f21749fc113d` | 3, 4 |
 
 **Provenance of the two enacted-text files.** Order 43/2022 was transcribed from
 Official Gazette issue 3593, 17 March 2022, pages 92-97, using dual extraction
@@ -169,3 +169,29 @@ the right vocabulary. The existing negative finding searched breach terms only
 (اختراق, انتهاك, اكتشاف), which is why it could not have found Orders 42 and 44-51
 had they been there. Searching قرار رقم and البيانات الشخصية would close the question
 deliberately rather than by accident.
+
+---
+
+## 10. ADDENDUM 31 August 2026 - Arabic verification completed
+
+The two items in section 9's "do these first" that gate publication are
+closed, together with the recommendation's larger aim:
+
+- **PDPL second extraction.** The mola.gov.bh source document (`L3018`, Word
+  format) was read through its native text layer - an independent extraction
+  path from the corpus transcription's single `geometric_rtl` pass. Every
+  PDPL article cited in the research note was verified against it. No
+  divergence affecting a policy position.
+- **Orders 44, 45, 46 and 48.** The cited articles were read in the enacted
+  Arabic from Gazette 3593's embedded text layer (pages 98-116), with the
+  operative clauses confirmed visually against the page images. No
+  divergence affecting a policy position. Precision notes and two new
+  findings (Order 48's cookie-wall invalidity and withdrawal rules) are in
+  the research note's 31 August addendum.
+
+Section 9's counsel against batch transcription stands: these are targeted
+verifications of the cited articles, not full transcriptions. The
+translation files remain in the corpus at translation tier; what changed is
+that every citation that rests on them has now been checked against the
+enacted text. Order 48/2022 supersession and adequacy-record currency were
+closed 30 August 2026 (research note addendum).

@@ -92,3 +92,23 @@ the web raises doubt and only the primary text resolves it.
 
 No provision cited in this set has been reviewed by qualified counsel. These documents
 are educational templates and do not constitute legal advice.
+
+---
+
+## 9. ADDENDUM 31 August 2026 - three gaps closed
+
+- **Annex III** (section 3, row 2): read item by item in the consolidated
+  text on 31 August 2026. All eight areas base text - the omnibus did not
+  amend the Annex. Policy 12.1 upgraded from "expected" to the verified
+  listing with the Article 6(3) derogation caveat. Reading recorded in the
+  research note addendum.
+- **A current GDPR consolidation** (section 3, row 3): currency settled -
+  the consolidated version of 4 May 2016 remains current, and the data-side
+  Digital Omnibus proposals amending the GDPR were not adopted as at 31
+  August 2026 (the adopted Regulation (EU) 2026/1744 amends the AI Act,
+  aviation and machinery regulations only, per its held text). Web sources
+  used solely to confirm no amending act exists to obtain.
+- **Member State data protection law** (section 3, row 4): the overlay is
+  now stated and scoped in the research note - what national law can add,
+  and that per-state mapping is deliberately deferred to the comparison
+  matrix. No national provision is asserted.

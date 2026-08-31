@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK published; Bahrain and EU working drafts ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, and EU published and verified ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -98,12 +98,13 @@ Access) Act 2025:
   intellectual property in AI inputs and outputs
 - [ICO guidance on AI and data protection](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/)
 
-### Kingdom of Bahrain - working draft
+### Kingdom of Bahrain - published
 
-**[policies/bahrain/](policies/bahrain/)** - full policy, enterprise
-governance annex, research note, and source register. Word versions in
-[downloads](policies/bahrain/downloads/). Verification gates are stated
-openly in the [folder README](policies/bahrain/README.md).
+**[policies/bahrain/](policies/bahrain/)** - full policy, one-page staff
+guide, enterprise governance annex, research note, and source register. Word
+versions in [downloads](policies/bahrain/downloads/). Every cited obligation
+verified against the enacted Arabic; the verification record - gates stated,
+then closed in public - is in the [folder README](policies/bahrain/README.md).
 
 Built on Bahrain's personal data protection regime - a system with features
 that reshape AI governance: prior notice to the regulator before automated
@@ -125,12 +126,13 @@ several duties:
   official English translations surfaced substantive divergences, recorded in
   the research note
 
-### European Union - working draft
+### European Union - published
 
 **[policies/eu/](policies/eu/)** - full policy, enterprise governance annex,
 research note, and source register. Word versions in
-[downloads](policies/eu/downloads/). Verification gates are stated openly in
-the [folder README](policies/eu/README.md).
+[downloads](policies/eu/downloads/). Annex III read item by item against the
+consolidated text; the verification record is in the
+[folder README](policies/eu/README.md).
 
 Built on Union law as it stands after the Digital Omnibus - a framework where
 some AI practices are prohibited outright and the rest commences in stages:
