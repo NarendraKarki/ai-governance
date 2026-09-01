@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, and EU published and verified ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU and India published and verified ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -147,6 +147,29 @@ some AI practices are prohibited outright and the rest commences in stages:
 - [GDPR - Regulation (EU) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) -
   lawful basis, automated decisions, impact assessments, breach notification,
   transfers
+
+### India - published
+
+**[policies/india/](policies/india/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/india/downloads/). Verified against the Act, its commencement
+notification and the rules; the verification record, including one correction
+made when the Act was obtained, is in the
+[folder README](policies/india/README.md).
+
+Built on a framework that is enacted but largely not yet in force - the operating
+obligations, the individual rights and the penalties all commence on 13 May 2027:
+
+- [Digital Personal Data Protection Act, 2023 - No. 22 of 2023](https://www.meity.gov.in/static/uploads/2024/06/2bf1f0e9f04e6fb4f8fef35e82c42aa5.pdf) -
+  grounds for processing, consent, the legitimate uses, the accuracy duty for
+  decisions, children's data, Significant Data Fiduciaries, rights, and the
+  penalty Schedule
+- [Commencement notification - G.S.R. 843(E), 13 November 2025](https://www.meity.gov.in/static/uploads/2025/11/c56ceae6c383460ca69577428d36828b.pdf) -
+  the Act's three tranches; read with the rules' own commencement in rule 1,
+  since citing one without the other gives the wrong answer
+- [Digital Personal Data Protection Rules, 2025 - G.S.R. 846(E)](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) -
+  notice, security safeguards, breach intimation on two clocks, the one-year
+  retention floor, rights machinery, and the ninety-day grievance period
 
 ## Formats
 
