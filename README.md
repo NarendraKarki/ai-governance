@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - eight jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, and US published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - nine jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, US, and China published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -344,12 +344,6 @@ share them, with attribution.
 Use it. Tell me what to improve - issues and pull requests welcome.
 
 ---
-
-*The topics covered broadly track the domains of recognised AI governance
-bodies of knowledge, including the IAPP's AIGP certification. This is an
-independent educational project with no affiliation to, endorsement by, or
-connection with the IAPP or any certification body. AIGP is a trademark of
-the International Association of Privacy Professionals.*
 
 *Narendra Karki - CISSP | CISM | CISA | CAISP | CMCPSE*
 *ORCID: 0009-0002-5757-8615*
