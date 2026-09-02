@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - seven jurisdictions: UK, Bahrain, EU, India, Singapore, and UAE published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - eight jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, and US published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -67,8 +67,8 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. Seven jurisdictions are live: the UK,
-Bahrain, the EU, India, Singapore, Saudi Arabia, and the UAE.
+for the comparison matrix at part 3. Eight jurisdictions are live: the UK,
+Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, and the United States.
 
 Each policy scales its controls through **levels of use**. The levels are the
 organisation's own classification, not categories defined in any law - but
@@ -255,6 +255,41 @@ from discovery**. Built on:
   alternatives, purpose limitation, accuracy, protection, retention,
   transfers, access and correction, breach notification, the data
   intermediary regime, offences and enforcement
+
+### United States - published, scoped
+
+**[policies/us/](policies/us/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/us/downloads/). Scoped honestly: the federal sectoral
+baseline plus California and Colorado, with every other state named as not
+held - because there is no single US AI or privacy statute, and a set claiming
+otherwise would be wrong the way a single global policy is wrong, one level
+down. Open gates are in the [folder README](policies/us/README.md).
+
+Three findings shape this edition. Colorado's AI Act duties are **in force
+now** - the special-session amendment moved every operative date to 30 June
+2026, so citing the 2024 act alone gives the wrong commencement. **Two
+different AI tests cover overlapping ground** - Colorado catches systems that
+are a substantial factor in a consequential decision, California's ADMT
+regulations catch technology that substantially replaces human decisionmaking,
+and the same tool can be inside one and outside the other. And in Colorado, a
+**governance framework has legal effect**: the statute names the NIST AI RMF
+and ISO/IEC 42001, with compliance supporting a rebuttable presumption of
+reasonable care and an affirmative defense. Built on:
+
+- Colorado SB 24-205 as amended by SB 25B-004
+  ([leg.colorado.gov](https://leg.colorado.gov/bills/sb24-205)) - the high-risk
+  AI regime: developer and deployer duties, impact assessments, consumer
+  notices, adverse-decision rights, the ninety-day discrimination notice
+- [CCPA as amended](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
+  and the [CPPA's approved regulations](https://cppa.ca.gov/regulations/) -
+  automated decisionmaking technology, risk assessments submitted to the
+  regulator, cybersecurity audits
+- The federal sectoral baseline - FTC Act s.5, FCRA adverse action, COPPA,
+  GLBA Safeguards, HIPAA ([govinfo.gov](https://www.govinfo.gov),
+  [ecfr.gov](https://www.ecfr.gov)) - and the
+  [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf),
+  which Colorado's statute names in its own text
 
 ## Formats
 
