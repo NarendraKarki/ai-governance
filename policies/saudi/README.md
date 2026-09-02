@@ -1,10 +1,13 @@
 # Saudi Arabia - AI Acceptable Use Policy set
 
-**Status: WORKING DRAFT - government data only.** Verified against the three NDMO
-instruments held. **The Kingdom's Personal Data Protection Law and its implementing
-regulations are not held.** This set cannot serve a private organisation processing
-its own customers' or employees' personal data, and it does not pretend to. Read
-section 1.1 of the policy before anything else.
+**Status: PUBLISHED - verified within its stated scope: government data.**
+Every citation verified by direct reading of the three NDMO instruments; the
+Implementing Regulation of the Personal Data Protection Law, now held, was read
+in full on 2 September 2026 and contradicts nothing in the set. **The Personal
+Data Protection Law itself and the Transfer Regulation are not yet held**, so
+this set still cannot serve a private organisation processing its own customers'
+or employees' personal data, and it does not pretend to. Read section 1.1 of
+the policy before anything else.
 
 ## Purpose
 
@@ -39,6 +42,9 @@ reviewed by qualified counsel. Adapt before use, and have counsel review.
 | **National Data Management and Personal Data Protection Standards** | Version 1.5, January 2021 (version inconsistency recorded in source register section 1) | National Data Management Office (NDMO) | 31 Aug 2026 |
 | **National Data Governance Policies - Data Classification Policy** | Version 1, 5/5/2020 | NDMO | 31 Aug 2026 |
 | **Data Sharing Policy** | Version 2.0, 2024 | NDMO | 31 Aug 2026 |
+| **Implementing Regulation of the Personal Data Protection Law** (English; translation tier - no version marker or disclaimer in the file; enacted Arabic not held) | Undated file, 38 articles | SDAIA | 2 Sep 2026 - read in full; corroborations and AI hooks recorded in the research note |
+| **Generative AI Guidelines for the Public** (guidance tier, not yet cited) | 2025 | SDAIA | 2 Sep 2026 - intake |
+| **Generative AI Guidelines for Government** (guidance tier, not yet cited) | 2025 | SDAIA | 2 Sep 2026 - intake |
 
 ## Scope - read this first
 
@@ -70,10 +76,18 @@ labelled as such where it appears.
 
 ## Open gates (stated, not hidden)
 
-1. **The Personal Data Protection Law and its implementing regulations are not held.**
-   The set cannot state the lawful bases for processing personal data, the conditions
-   for transferring personal data outside the Kingdom, or any penalty. Those
-   instruments close all of it.
+1. **The Personal Data Protection Law and the Transfer Regulation are not held -
+   the Implementing Regulation now is.** The Regulation (SDAIA, English) was read
+   in full on 2 September 2026: it independently corroborates the set's 72-hour
+   breach position, and it carries the AI-specific hooks for the private-sector
+   extension - impact assessment triggered by linking datasets, new technologies
+   and automated decisions; explicit consent for solely-automated decisions;
+   enhanced transparency; the DPO monitoring trigger - all recorded in the
+   research note, none yet asserted in the policy body. What still gates the
+   extension: the Law itself (lawful bases, definitions, penalties), the
+   Transfer Regulation (cross-border conditions), and the enacted Arabic of
+   all of it - the English is a translation with no version marker, and on the
+   Bahrain evidence divergence verification is not a formality.
 2. **The NDMO Personal Data Protection Regulations are not held.** Nine of the ten
    PDP specifications direct the reader to them. The set states what the standards
    themselves require and stops where they point elsewhere.

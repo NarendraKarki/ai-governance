@@ -573,3 +573,97 @@ copies of the standards were supplied and the duplicates discarded.
 
 No provision cited in this set has been reviewed by qualified counsel. These documents
 are educational templates and do not constitute legal advice.
+
+---
+
+## ADDENDUM 2 September 2026 - the Implementing Regulation, read in full
+
+The Implementing Regulation of the Personal Data Protection Law (SDAIA,
+English, 38 articles) was supplied on 2 September 2026 and read in full.
+Tier and caveats are in source register section 11: translation tier, enacted
+Arabic not held, no version marker or disclaimer in the file, currency
+unverified. Nothing below changes a policy clause yet - the set remains
+scoped to government data - but three classes of result are recorded now so
+the private-sector extension starts from a verified base.
+
+### 1. What the Regulation independently corroborates in the existing set
+
+- **The 72-hour breach clock.** Article 24(1): the Controller notifies the
+  Competent Authority "within a delay not exceeding (72) hours of becoming
+  aware", where the incident potentially causes harm; Article 24(2) permits
+  phased information with justification for delay. The existing set states
+  72 hours from the NDMO standards. Two instruments of different provenance,
+  one number - the same shape of corroboration as Bahrain Order 44 Article 6.
+  They remain distinct regimes: the NDMO duty binds entities in scope of the
+  standards; Article 24 binds Controllers under the Law. The policy's breach
+  section is consistent with both.
+- **Records and registers.** Article 33 requires written records of
+  processing activities, kept for the processing period plus five years,
+  with content including transfer descriptions - consistent with, and
+  stricter in retention than, the register practice the annex prescribes.
+- **Processor discipline.** Article 17 requires guarantees, an agreement
+  with stated contents, controller instructions, periodic compliance
+  assessment, and prior acceptance of sub-processors - the same shape as the
+  annex's supplier terms. One content item has no analogue elsewhere in the
+  corpus and matters for AI vendors: **17(1)(e), the agreement must state
+  whether the Processor is subject to regulations of other countries and the
+  impact on compliance** - a foreign-legal-exposure disclosure squarely
+  aimed at the cross-border cloud and AI supply chain.
+
+### 2. The AI-specific hooks the Regulation adds (for the extension)
+
+Four provisions reach AI processing by name or by nature, and none of them
+is currently stated in the policy body - they are the spine of the
+private-sector v1.1 when the Law text arrives:
+
+- **Article 25(1) - impact assessment triggers** include collecting,
+  comparing, or **linking two or more datasets from different sources**
+  (which is what a corpus, index, fine-tuning set, or multi-document prompt
+  is - the same insight route 1 of this set already built on classification
+  grounds); processing based on **newly adopted technologies**; and
+  **decisions based on automated processing**. Article 25(2) fixes the
+  assessment's minimum content; 25(4) requires causes addressed and the
+  assessment re-run where harm is indicated.
+- **Article 11(2)(c) - consent must be EXPLICIT where decisions are made
+  solely on automated processing** of personal data (alongside sensitive and
+  credit data).
+- **Article 4(5) - enhanced transparency** for controllers whose activities
+  involve continuous monitoring, new technologies, or automated decisions:
+  the data subject must additionally be told **whether decisions will be
+  made solely on automated processing**.
+- **Article 32(1)(b) - DPO appointment** is triggered where core activities
+  involve regular and systematic monitoring of data subjects - which
+  AI-driven monitoring squarely is; 32(3) fixes the officer's duties.
+
+Supporting mechanics verified for the extension: rights handled within 30
+days, extendable by 30 with notice and reasons (Art 3); withdrawal of consent
+as easy as giving it, cease without undue delay, recipients notified with
+destruction requested (Art 12); legitimate interest unavailable to public
+entities and for sensitive data, bounded by reasonable expectations, and
+gated on a documented assessment (Art 16); sectoral overlays for health and
+credit data deferring to the health regulators and the Saudi Central Bank
+(Arts 26-27) - the future sector-annex pointers.
+
+### 3. What the Regulation does NOT provide
+
+- **Lawful bases, definitions, and penalties live in the Law**, which is not
+  held. The Regulation presupposes them (it cites the Law's articles
+  throughout and defines its own commencement by the Law's enforcement,
+  Art 38).
+- **No transfer conditions.** The Regulation contains no article on
+  transfers outside the Kingdom; Article 33(5)(g) records transfers in the
+  processing register but their conditions are governed by the separate
+  Transfer Regulation, not held.
+- **No divergence findings are possible** until the enacted Arabic is held -
+  on the Bahrain evidence, that verification is not a formality.
+
+### Status consequence
+
+Within its stated scope - government data under the three NDMO instruments -
+every citation in this set was verified by direct reading on 31 August 2026,
+and nothing in the newly held Regulation contradicts any position taken. The
+working-draft banner lifts to **published - verified within its stated
+scope**. The gates that remain (the Law text, the Transfer Regulation, the
+enacted Arabic, NDMO PDP Regulations, NCA specifications, the Organizational
+Manual) are the boundary of what the set may claim, stated in the README -
+not unverified assertions inside it.

@@ -247,3 +247,51 @@ labelled as one where it appears.
 No provision cited in this set has been reviewed by qualified counsel. These documents
 are educational templates, apply to government data only, and do not constitute legal
 advice.
+
+---
+
+## 11. ADDENDUM 2 September 2026 - the personal-data corpus arrives
+
+Three SDAIA documents were supplied on 2 September 2026 and are now HELD.
+Hashes as supplied, truncated to 16 characters.
+
+| # | Instrument | Version and date | Tier | SHA-256 |
+|---|---|---|---|---|
+| 4 | **Implementing Regulation of the Personal Data Protection Law** - English | **No version, issue date, or issuing decision number appears anywhere in the file** (see finding below). 27 pp, 38 articles. SDAIA | translation | `7607ea92027e1f10` |
+| 5 | **Generative AI Guidelines for the Public** | 2025. 22 pp. SDAIA | guidance | `c4a2451c19eb3e78` |
+| 6 | **Generative AI Guidelines for Government** | 2025. 30 pp, incl. operational appendix and checklist. SDAIA | guidance | `fb2427075540afee` |
+
+**Finding - the Implementing Regulation file carries no translation disclaimer,
+no version marker, and no dates.** The file was checked cover to cover, text
+and page images. It does not state the decision that issued it, the date it
+was issued, whether it reflects any amendment, or that the Arabic text
+prevails. The register therefore records the Arabic-prevails position as a
+matter of how Saudi law is enacted - the model proven on Bahrain Order 43 -
+not as a quotation from this file. Two consequences:
+
+- **Tier is translation, and the enacted Arabic is NOT held.** No divergence
+  finding is possible until it is. On the Bahrain evidence (five divergences
+  in one order's translation, none in another's), neither fidelity nor
+  divergence should be assumed.
+- **Currency is unverified.** A position that turns on precise wording must
+  first establish that this text reflects the Regulation as amended.
+
+**Still NOT held, and therefore still not asserted:**
+
+| What is missing | Consequence |
+|---|---|
+| **The Personal Data Protection Law itself** (Royal Decree M/19 of 1443H as amended by M/148 of 5/9/1444H) | The Regulation is subordinate to it and cites it throughout. Lawful bases live in the Law; penalties live in the Law; the Regulation's own commencement is defined by reference to the Law's enforcement (Art 38). **The private-sector extension cannot be written from the Regulation alone** |
+| **The Personal Data Transfer Regulation** (a separate SDAIA instrument) | The Implementing Regulation contains no transfer-conditions article; Art 33(5)(g) presupposes transfers are governed elsewhere. Cross-border conditions remain unstated |
+| The enacted Arabic of the Implementing Regulation | Divergence verification blocked (finding above) |
+
+Rows 5 and 6 are **guidance tier**: SDAIA guidance documents, not enacted
+instruments. They can ground good-practice controls and the government-entity
+GenAI overlay; they cannot ground a statement of legal obligation. Nothing in
+the policy set yet cites them; they are recorded here on receipt so that the
+GenAI overlay, when written, starts from declared sources.
+
+Gap 3.1 is therefore **narrowed, not closed**: the Regulation is held and has
+been read in full; the Law and the Transfer Regulation remain the gate to the
+private-sector set. The research note's 2 September addendum records what the
+Regulation independently corroborates in the existing set and the AI-specific
+hooks it adds for the extension.

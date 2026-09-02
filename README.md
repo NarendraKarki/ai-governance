@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU and India published and verified; Saudi Arabia working draft, government data only ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU and India published and verified; Saudi Arabia published and verified within its stated scope, government data only ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -171,18 +171,24 @@ obligations, the individual rights and the penalties all commence on 13 May 2027
   notice, security safeguards, breach intimation on two clocks, the one-year
   retention floor, rights machinery, and the ninety-day grievance period
 
-### Kingdom of Saudi Arabia - working draft
+### Kingdom of Saudi Arabia - published, government data scope
 
 **[policies/saudi/](policies/saudi/)** - full policy, enterprise governance annex,
 research note, and source register. Word versions in
-[downloads](policies/saudi/downloads/). Verified against the three NDMO instruments
-held; scope and open gates are in the
+[downloads](policies/saudi/downloads/). Every citation verified against the three
+NDMO instruments held; the Implementing Regulation of the Personal Data
+Protection Law, read in full on 2 September 2026, corroborates the set and
+contradicts nothing in it. Scope and the remaining gates are in the
 [folder README](policies/saudi/README.md).
 
 **This set governs government data only** - public entities and business partners
-handling government data. The PDPL and its implementing regulations are not held;
-this set cannot serve a private organisation processing its own customers or
-employees, and says so at section 1.1. Three NDMO instruments underpin it:
+handling government data. The PDPL itself and the Transfer Regulation are not yet
+held; this set cannot serve a private organisation processing its own customers or
+employees, and says so at section 1.1. The private-sector extension is the recorded
+next step, with the Implementing Regulation's AI hooks - impact assessment on
+dataset-linking, new technologies and automated decisions; explicit consent for
+solely-automated decisions - already mapped in the research note. Three NDMO
+instruments underpin the set:
 
 - [National Data Management and Personal Data Protection Standards - v1.5 (2021)](https://ndmo.gov.sa) -
   personal data protection domain, classification controls, and the data management
