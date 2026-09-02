@@ -410,6 +410,12 @@ refer to a document [ENTITY] does not hold.
 
 ---
 
+**Version history:**
+1.0 - initial annex, published 2 September 2026; verified within its stated
+scope (government data) per the research note and source register.
+
+---
+
 *This document is an educational policy template and does not constitute legal advice.
 It reflects obligations under the national data management, classification and data
 sharing instruments as set out in the accompanying research note, applies to government
