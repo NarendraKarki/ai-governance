@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU and India published and verified ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU and India published and verified; Saudi Arabia working draft, government data only ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -170,6 +170,29 @@ obligations, the individual rights and the penalties all commence on 13 May 2027
 - [Digital Personal Data Protection Rules, 2025 - G.S.R. 846(E)](https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf) -
   notice, security safeguards, breach intimation on two clocks, the one-year
   retention floor, rights machinery, and the ninety-day grievance period
+
+### Kingdom of Saudi Arabia - working draft
+
+**[policies/saudi/](policies/saudi/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/saudi/downloads/). Verified against the three NDMO instruments
+held; scope and open gates are in the
+[folder README](policies/saudi/README.md).
+
+**This set governs government data only** - public entities and business partners
+handling government data. The PDPL and its implementing regulations are not held;
+this set cannot serve a private organisation processing its own customers or
+employees, and says so at section 1.1. Three NDMO instruments underpin it:
+
+- [National Data Management and Personal Data Protection Standards - v1.5 (2021)](https://ndmo.gov.sa) -
+  personal data protection domain, classification controls, and the data management
+  organisation roles
+- [Data Classification Policy - v1 (2020)](https://ndmo.gov.sa) -
+  the four classification levels and the principle that the highest level governs a
+  combined dataset
+- [Data Sharing Policy - v2.0 (2024)](https://ndmo.gov.sa) -
+  the eight principles and the agreement contents that govern sharing government data
+  with any external party, including AI vendors
 
 ## Formats
 
