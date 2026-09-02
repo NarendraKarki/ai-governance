@@ -67,8 +67,9 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. Eight jurisdictions are live: the UK,
-Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, and the United States.
+for the comparison matrix at part 3. Nine jurisdictions are live: the UK,
+Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, the United States,
+and China.
 
 Each policy scales its controls through **levels of use**. The levels are the
 organisation's own classification, not categories defined in any law - but
@@ -290,6 +291,43 @@ reasonable care and an affirmative defense. Built on:
   [ecfr.gov](https://www.ecfr.gov)) - and the
   [NIST AI Risk Management Framework](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf),
   which Colorado's statute names in its own text
+
+### People's Republic of China - published
+
+**[policies/china/](policies/china/)** - full policy, enterprise governance
+annex, research note, and source register. Word versions in
+[downloads](policies/china/downloads/). PRC law is enacted in Chinese with no
+official English translation, so every citation was verified against the
+Chinese texts directly; the verification record is in the
+[folder README](policies/china/README.md).
+
+China regulates AI by regulating service types - recommendation algorithms,
+deep synthesis, generative AI, content labelling, and, since July 2026,
+anthropomorphic interaction services - all resting on three pillar laws and
+the 2025 data regulations. Two findings shape this edition. The **2025
+amendment to the Cybersecurity Law renumbered the law** and added an AI
+article, so eight years of familiar citations now point at the wrong
+provisions. And the generative AI measures reach **services offered to the
+public in China while excluding internal enterprise use** - one feature
+toggle can convert an internal tool into a regulated public service, so the
+policy makes that line a recorded determination for every tool. Built on:
+
+- The three pillar laws - the
+  [Cybersecurity Law as amended 2025](https://flk.npc.gov.cn/), the
+  [Data Security Law](https://flk.npc.gov.cn/), and the
+  [Personal Information Protection Law](https://flk.npc.gov.cn/) - from the
+  National Database of Laws and Regulations
+- The [Network Data Security Management Regulations](https://flk.npc.gov.cn/),
+  in force January 2025 - the operational layer across all three laws
+- The six CAC AI instruments -
+  [algorithm recommendation](https://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm),
+  [deep synthesis](https://www.cac.gov.cn/2022-12/11/c_1672221949354811.htm),
+  [generative AI](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm),
+  [content labelling](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm),
+  [cross-border data flows](https://www.cac.gov.cn/2024-03/22/c_1712776611775634.htm),
+  and the
+  [anthropomorphic interaction measures](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm) -
+  the last in force 15 July 2026, the newest AI instrument in this series
 
 ## Formats
 
