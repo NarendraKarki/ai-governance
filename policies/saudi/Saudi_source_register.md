@@ -155,10 +155,10 @@ register.
 
 | Document | Version | Status |
 |---|---|---|
-| `Saudi_AI_Acceptable_Use_Policy.md` | 1.0 | Draft |
-| `Saudi_AI_Governance_Enterprise_Annex.md` | 1.0 | Draft |
-| `Saudi_policy_research_note.md` | 1.0 | Citations, findings, the map of the gaps |
-| `Saudi_source_register.md` | 1.0 | This document |
+| `Saudi_AI_Acceptable_Use_Policy.md` | 1.0 | **Published 2 Sep 2026** - verified within stated scope (government data) |
+| `Saudi_AI_Governance_Enterprise_Annex.md` | 1.0 | **Published 2 Sep 2026** - verified within stated scope (government data) |
+| `Saudi_policy_research_note.md` | 1.0 + addendum | Citations, findings, the map of the gaps; 2 Sep addendum on the Implementing Regulation |
+| `Saudi_source_register.md` | 1.1 | This document |
 
 ## 8. Sources NOT used, as a matter of method
 
