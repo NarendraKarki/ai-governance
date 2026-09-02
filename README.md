@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU and India published and verified; Saudi Arabia published and verified within its stated scope, government data only ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU, India, and UAE published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -67,8 +67,8 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. The India, Saudi Arabia, and UAE editions
-follow.
+for the comparison matrix at part 3. Six jurisdictions are live: the UK,
+Bahrain, the EU, India, Saudi Arabia, and the UAE.
 
 Each policy scales its controls through **levels of use**. The levels are the
 organisation's own classification, not categories defined in any law - but
@@ -199,6 +199,36 @@ instruments underpin the set:
 - [Data Sharing Policy - v2.0 (2024)](https://ndmo.gov.sa) -
   the eight principles and the agreement contents that govern sharing government data
   with any external party, including AI vendors
+
+### United Arab Emirates - published, DIFC scope
+
+**[policies/uae/](policies/uae/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/uae/downloads/). Written for a DIFC-registered entity,
+with the ADGM and federal breach positions stated - and nothing else asserted
+about those regimes. Evidence tiers and open gates are in the
+[folder README](policies/uae/README.md).
+
+Three things make this edition unlike any other in the series. The UAE is
+**three data protection jurisdictions, not one** - DIFC, ADGM and the federal
+regime, with three different answers to the same breach question, and the free
+zones an exclusion from the federal law rather than a variation on it. The
+DIFC has the series' only **genuinely AI-specific instrument** - a
+certification regime for autonomous and semi-autonomous systems processing
+personal data, where high-risk use is gated on certification rather than
+documented after the fact. And the regime's boundary is **autonomy, not
+automation** - a tool becomes a regulated System the moment a vendor adds
+tool-use, retrieval, memory or planning. Built on:
+
+- DIFC Regulation 10 Accreditation and Certification Framework for Autonomous
+  and Semi-Autonomous Systems Processing Personal Data
+  ([DIFC Commissioner of Data Protection](https://www.difc.com/business/registrars-and-commissioners/commissioner-of-data-protection)) -
+  read in full; the certification gate, the System definition, self-defined
+  purposes, the Automated Systems Officer, bias and data quality evidence
+- The three regimes' breach positions, verified against the official texts -
+  including the finding that the widely repeated federal "72 hours" is a
+  misattribution: the federal Executive Regulations that would set a period
+  have not been issued, and the real 72-hour duty sits in ADGM
 
 ## Formats
 
