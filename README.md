@@ -53,8 +53,8 @@ review anything before adoption.
 
 - **Jurisdiction depth.** Most AI governance material stops at the EU and US.
   This project builds verified, jurisdiction-specific artifacts - including the
-  GCC (Bahrain, Saudi Arabia, UAE), where published material is thinnest and
-  most often wrong.
+  GCC (Bahrain, Saudi Arabia, UAE), where verified, primary-source coverage
+  is hardest to find.
 - **Primary sources only.** Obligations are verified against the consolidated
   legislation texts, not summaries or blog posts. Each artifact ships with a
   research note recording every obligation, its source, and the verification
