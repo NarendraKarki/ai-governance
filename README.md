@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - UK, Bahrain, EU, India, and UAE published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - seven jurisdictions: UK, Bahrain, EU, India, Singapore, and UAE published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -67,8 +67,8 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. Six jurisdictions are live: the UK,
-Bahrain, the EU, India, Saudi Arabia, and the UAE.
+for the comparison matrix at part 3. Seven jurisdictions are live: the UK,
+Bahrain, the EU, India, Singapore, Saudi Arabia, and the UAE.
 
 Each policy scales its controls through **levels of use**. The levels are the
 organisation's own classification, not categories defined in any law - but
@@ -229,6 +229,32 @@ tool-use, retrieval, memory or planning. Built on:
   including the finding that the widely repeated federal "72 hours" is a
   misattribution: the federal Executive Regulations that would set a period
   have not been issued, and the real 72-hour duty sits in ADGM
+
+### Singapore - published
+
+**[policies/singapore/](policies/singapore/)** - full policy, enterprise
+governance annex, research note, and source register. Word versions in
+[downloads](policies/singapore/downloads/). Every citation verified by direct
+reading of the enacted Act; open gates - the subordinate legislation and the
+regulator's AI guidelines - are stated in the
+[folder README](policies/singapore/README.md).
+
+Singapore's law is technology-neutral: no AI statute, no prohibited-practice
+list, no right against automated decisions - and the set says so instead of
+importing obligations from elsewhere. What it does have reshapes an
+acceptable use policy from an unusual angle: **unauthorised disclosure or use
+of personal data is a personal criminal offence turning on what the
+organisation authorised**, which makes the policy itself the boundary of an
+individual's criminal exposure; AI-inferred data about a person is
+**accessible but not correctable** under the statute (a house standard closes
+the gap); and the breach clock runs **from the notifiability assessment, not
+from discovery**. Built on:
+
+- [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) -
+  2020 Revised Edition as amended, current to Act 19 of 2025: consent and its
+  alternatives, purpose limitation, accuracy, protection, retention,
+  transfers, access and correction, breach notification, the data
+  intermediary regime, offences and enforcement
 
 ## Formats
 
