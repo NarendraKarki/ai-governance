@@ -2,7 +2,7 @@
 
 **Organisation:** [ORGANISATION]
 **Effective date:** [DATE]  **Version:** 1.0
-**Policy owner:** [CISO]  **Personal Data Protection Officer:** [PDPO - see Section 13]
+**Policy owner:** [CISO]  **Personal Data Protection Officer:** [PDPO - see clause 13]
 **Classification:** Internal
 **Review:** at least every six months, and on material change in tools or regulation
 
@@ -32,7 +32,7 @@ institutions subject to regulation by the regulatory authorities, across the who
 lifecycle - implementation, data collection, system design, training, operation and
 continuous evaluation.
 
-Sections 5 to 9 set out what it requires. Section 4.2 explains how it is enforced,
+Clauses 5 to 9 set out what it requires. Clause 4.2 explains how it is enforced,
 which is not through the ministry that issued it.
 
 ### 1.2 Processing requires explicit consent, in writing, as the default
@@ -43,7 +43,7 @@ The request for processing must be written, clear, explicit and comprehensible, 
 **the organisation bears the burden of proving that consent was given**.
 
 This is a stricter default than a legitimate-interests or contract-necessity model.
-Section 10 sets out what valid consent requires and what it does not permit.
+Clause 10 sets out what valid consent requires and what it does not permit.
 
 ### 1.3 Some processing needs a permit before it starts
 
@@ -52,14 +52,14 @@ origin, sexual life, political or religious opinions or beliefs, criminal convic
 or security measures is **prohibited without a permit from the Ministry**.
 
 **This is a licence, not a notification.** It takes up to 45 days to obtain, silence is
-a refusal, and it lasts five years. Section 11 sets out the process and the timetable,
-and Section 3.6 makes it a bar to tool approval.
+a refusal, and it lasts five years. Clause 11 sets out the process and the timetable,
+and clause 3.6 makes it a bar to tool approval.
 
 ### 1.4 There are two breach clocks, both 72 hours, with different triggers
 
 The organisation must notify the regulator **and, separately, the affected individual**,
 each within 72 hours of becoming aware - but the two duties are triggered by different
-tests. Section 15 sets them out. The most common error would be to run one clock and
+tests. Clause 15 sets them out. The most common error would be to run one clock and
 assume it discharges both.
 
 ### 1.5 Unlawful cross-border transfer is the most expensive thing in the law
@@ -68,7 +68,7 @@ The fine for contravening the cross-border transfer provision is **OMR 100,000 t
 500,000**. Every other contravention in the statute tops out at OMR 20,000.
 
 **A single misconfigured cloud region is the largest financial exposure in this
-policy**, which is why Section 17 is the longest operational section and why processing
+policy**, which is why clause 17 is the longest operational clause and why processing
 location is a gating question at tool approval rather than a detail of it.
 
 ## 2. Scope
@@ -98,13 +98,13 @@ remain the controller's.
 
 The national AI policy uses a second, independent pair: the **entity using** AI systems
 and the **entity developing** them. Either may be a government or a private institution,
-and an organisation can be both. Section 5 states which controls attach to which, and
+and an organisation can be both. Clause 5 states which controls attach to which, and
 the AI system inventory records both role sets.
 
 ### 2.2 What is not covered
 
 This policy does not cover processing carried out by units of the State's administrative
-apparatus. A separate national policy governs those, and Section 22 records it.
+apparatus. A separate national policy governs those, and clause 22 records it.
 
 ## 3. Approved tools
 
@@ -113,7 +113,7 @@ apparatus. A separate national policy governs those, and Section 22 records it.
 
 3.2 A tool is added to the list only after: the role determination at 2.1; a personal
 data assessment; establishment and recording of the **actual processing and storage
-locations** (Section 17); security and data protection review; and a written contract
+locations** (clause 17); security and data protection review; and a written contract
 with the supplier.
 
 3.3 Use of any tool not on the list - including free or personal-account versions of
@@ -128,11 +128,11 @@ Good-faith disclosure will not of itself be treated as a disciplinary matter.
 3.6 **A tool may not be approved for any category of data requiring a permit until the
 permit has been issued.** The permit names the processor contracted with, the recipients
 of disclosure, and the places to which data will be transferred or kept - so a tool
-that is not in the permit is not covered by it. Section 11.5.
+that is not in the permit is not covered by it. Clause 11.5.
 
 3.7 The approved list records, for each tool: the maximum data category it is approved
 for; whether a permit covers it and the permit reference; its processing and storage
-locations; and whether it is treated as an AI system for the purposes of Sections 5 to 9.
+locations; and whether it is treated as an AI system for the purposes of clauses 5 to 9.
 
 ## 4. What the framework requires, and who enforces it
 
@@ -158,7 +158,7 @@ This differs between the instruments and matters for how [ORGANISATION] prepares
   and take any other measure it considers necessary.
 - **The national AI policy**: the issuing ministry monitors government units and reports
   to the Council of Ministers. **For a private-sector institution, the monitoring body
-  is its own sector regulator.** Section 21.3 makes the sector regulator relationship a
+  is its own sector regulator.** Clause 21.3 makes the sector regulator relationship a
   standing committee item for that reason.
 
 ### 4.3 Sector regulators may add to this
@@ -169,7 +169,7 @@ conflict with the national policy. They are also required to align the policy wi
 own regulatory documents and circulate it to the institutions they supervise.
 
 **[ORGANISATION] must therefore track its own regulator's issuances, not only the
-national ones.** This policy does not state any sector requirement - Section 22.
+national ones.** This policy does not state any sector requirement - clause 22.
 
 ## 5. Levels of use
 
@@ -183,10 +183,10 @@ recorded explicit consent or another recorded basis, entry in the processing act
 register, and a recorded processing location.
 
 **Level 4 - Permit categories, or decisions about people.** Any processing of the
-categories at Section 11.1, **or** AI output that materially informs a decision about a
+categories at clause 11.1, **or** AI output that materially informs a decision about a
 person - employment, health, financial services, eligibility, discipline, or any
 decision with a legal or similarly significant effect. Requires everything at Level 3,
-plus Sections 6 to 9, 11 where applicable, and approval by the AI Governance Committee.
+plus clauses 6 to 9, 11 where applicable, and approval by the AI Governance Committee.
 
 Where a use sits between two levels, the higher applies.
 
@@ -223,7 +223,7 @@ upon detection".
 6.5 **Production of documents to the regulator.** [ORGANISATION] provides all documents
 and information relating to the use of a system to the regulatory authorities to verify
 compliance, in the event of an official investigation into what AI use may have produced.
-Section 20.3 governs how those records are kept so they can be produced.
+Clause 20.3 governs how those records are kept so they can be produced.
 
 6.6 **Personal data in AI systems is restricted** to what complies with local law and
 regulation, used **only for the specified and authorised purposes**, with the necessary
@@ -243,7 +243,7 @@ periods and **secure deletion when the data is no longer needed**.
 6.10 **Purpose limitation on results.** The use of analysis results is restricted to the
 purpose for which the AI system was used, and that purpose must be compatible with the
 reasons and objectives on which the use was based. **Reusing a model's output for a new
-purpose is a new processing decision**, and it goes back through Section 10.
+purpose is a new processing decision**, and it goes back through clause 10.
 
 ## 7. Developing or adapting AI systems
 
@@ -267,7 +267,7 @@ used to generate harmful or misleading content, and **mechanisms are provided fo
 detecting generative content through labelling or explanatory notices** to
 ensure it is not misused.
 
-**This is a marking obligation on generated output**, and Section 19.2 carries it into
+**This is a marking obligation on generated output**, and clause 19.2 carries it into
 [ORGANISATION]'s external communications.
 
 7.5 **Transparency in how algorithms work**, through documents explaining **the logic of
@@ -308,7 +308,7 @@ The national policy states ethical principles for both using and developing AI s
 ### 8.1 Humanity and society
 
 8.1.1 **Respect for human dignity, and the individual's right to human intervention in
-sensitive decisions that directly affect their life, safety or rights.** Section 12
+sensitive decisions that directly affect their life, safety or rights.** Clause 12
 implements this.
 
 8.1.2 AI is harnessed for societal welfare, including in health, education and social
@@ -354,35 +354,35 @@ improvement measures with the participation of users and concerned parties.
 that generated content can be analysed and its effects understood.
 
 **8.3.5 is a design requirement, not a reporting preference.** A system whose data
-provenance cannot be traced cannot satisfy it, and Section 14.4 makes that a bar to
+provenance cannot be traced cannot satisfy it, and clause 14.4 makes that a bar to
 approval at Level 4.
 
 ## 9. Prohibited by [ORGANISATION]
 
-9.1 Processing any category of personal data listed at Section 11.1 in any AI tool
+9.1 Processing any category of personal data listed at clause 11.1 in any AI tool
 before the required permit has been issued and the tool is covered by it.
 
 9.2 Entering customer, employee or candidate personal data into any tool not on the
 approved list.
 
 9.3 Transferring personal data outside Oman, or using a tool that does so, without the
-requirements in Section 17 being satisfied and recorded.
+requirements in clause 17 being satisfied and recorded.
 
 9.4 Entering credentials, keys, secrets or security configuration into any AI tool.
 
 9.5 Processing a child's personal data, or that of a person lacking or having diminished
-legal capacity, without the verified consent of the guardian - Section 16.
+legal capacity, without the verified consent of the guardian - clause 16.
 
 9.6 Using AI output as the sole basis for a Level 4 decision about a person.
 
-9.7 Publishing AI-generated content externally without the marking required by Section
-19.2 where that section applies.
+9.7 Publishing AI-generated content externally without the marking required by clause
+19.2 where that clause applies.
 
 9.8 Sending any advertising, marketing or commercial material generated or targeted with
-AI assistance without the written consent and the stop mechanism required by Section 18.
+AI assistance without the written consent and the stop mechanism required by clause 18.
 
 9.9 Disabling, bypassing or reducing logging, audit records, or any evidence required by
-Sections 6 to 8.
+clauses 6 to 8.
 
 9.10 Using AI to covertly monitor, profile or score employees.
 
@@ -421,7 +421,7 @@ notify the data subject **in writing** of:
 
 10.5 **"A comprehensive and precise description of the processing" is the clause AI
 deployments fail.** If the notice does not describe what the AI system does with the
-data and to whom it is disclosed, it does not support the processing, and Section 3.2
+data and to whom it is disclosed, it does not support the processing, and clause 3.2
 makes the notice part of tool approval rather than a downstream task.
 
 10.6 [ORGANISATION] maintains a **personal data protection policy in a visible place**,
@@ -527,7 +527,7 @@ details**, and the data subject has the right to contact the officer on all matt
 relating to the processing of their personal data. The officer's contact details also
 appear in the notice at 10.4.
 
-13.5 The officer's role in AI governance is set out at Section 21. **Designating the
+13.5 The officer's role in AI governance is set out at clause 21. **Designating the
 officer does not transfer accountability from the business owners of AI systems.**
 
 ## 14. Records, registers and audit
@@ -570,7 +570,7 @@ examine the records, processing systems and data necessary** for the audit, and 
 of appointing the auditor**.
 
 14.6 **60 days is short for an audit of an AI estate.** The committee maintains, in
-advance, an inventory-derived pack the auditor can be given on day one - Section 21.
+advance, an inventory-derived pack the auditor can be given on day one - clause 21.
 
 14.7 [ORGANISATION] must **cooperate with the Ministry** and provide the data and
 documents it requires within the period prescribed, and in any case within **30 days** of
@@ -670,7 +670,7 @@ person's, and it is recorded.
 
 ## 17. Cross-border transfer - the largest exposure
 
-**Read Section 1.5 before this section.**
+**Read clause 1.5 before this clause.**
 
 17.1 [ORGANISATION] must, **before transferring personal data outside Oman**, obtain the
 **explicit consent of the data subject**, and the transfer must **not prejudice national
@@ -723,12 +723,12 @@ described as a transfer, and whether or not [ORGANISATION] chose the region.
   data**.
 - **A supplier's change of region reopens the assessment before the change takes
   effect**, and where a permit is in force it engages the 15-day amendment notification
-  at Section 11.4.
+  at clause 11.4.
 - The transfer basis, the consent record and the assessment reference are held in the
   inventory against each tool.
 
 17.9 The fine for contravention of the transfer provision is **OMR 100,000 to 500,000**.
-No exception under this policy may be granted against Section 9.3.
+No exception under this policy may be granted against clause 9.3.
 
 ## 18. Marketing and advertising
 
@@ -818,7 +818,7 @@ and the national AI policy. **All three are held in full.**
   the national AI policy with their own regulatory documents and may add further
   provisions on AI technologies and algorithms with the ministry's approval. **For a
   private-sector institution the sector regulator is also the body that monitors
-  compliance** with the national AI policy. Section 4.2 and 4.3;
+  compliance** with the national AI policy. Clause 4.2 and 4.3;
 - **the national data governance and management regulatory framework**, the national
   records law, the cybercrime law, the IT risk management framework, or the national AI
   and advanced digital technologies programme - all named as related issuances by the
@@ -836,12 +836,12 @@ refer to something [ORGANISATION] does not hold.
 ## 23. Knowledge, skills and acknowledgement
 
 23.1 Staff who use AI tools with personal data complete training covering this policy,
-**consent and notice (Section 10)**, **processing location (Section 17)** and **the two
-breach clocks (Section 15)**, before access is granted and at least [annually]
+**consent and notice (clause 10)**, **processing location (clause 17)** and **the two
+breach clocks (clause 15)**, before access is granted and at least [annually]
 thereafter.
 
 23.2 Staff who operate, oversee or make decisions informed by a Level 4 system complete
-additional training on Sections 6 to 8 and 12.
+additional training on clauses 6 to 8 and 12.
 
 23.3 Staff acknowledge this policy on joining, on material revision, and at least
 annually.
