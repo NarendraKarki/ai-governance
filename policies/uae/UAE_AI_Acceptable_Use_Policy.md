@@ -5,7 +5,7 @@
 **Organisation:** [ORGANISATION]
 **Effective date:** [DATE]  **Version:** 1.0
 **Policy owner:** [CISO]  **Data protection lead:** [Data Protection Officer]
-**Automated Systems Officer:** [ASO - see Section 12]
+**Automated Systems Officer:** [ASO - see clause 12]
 **Classification:** Internal
 **Review:** at least every six months, and on material change in tools or regulation
 
@@ -27,11 +27,11 @@ different breach clocks. **They do not share rules, and the free zones are not a
 variation on the federal law - they are an exclusion from it.** The federal law's own
 scope provision excludes free-zone companies that have their own data protection law.
 
-Section 3 routes each entity to its regime. **An organisation applying the wrong one is
+Clause 3 routes each entity to its regime. **An organisation applying the wrong one is
 not partly compliant; it is complying with a law that does not govern it.**
 
-This policy is written for a **DIFC-registered** entity. Section 3 states what changes
-for ADGM and for federal-regime entities, and Section 22 states the limits of what this
+This policy is written for a **DIFC-registered** entity. Clause 3 states what changes
+for ADGM and for federal-regime entities, and clause 22 states the limits of what this
 set can say about either.
 
 ### 1.2 The DIFC has a genuine AI-specific regime, and it is a certification regime
@@ -43,7 +43,7 @@ provide, offer or otherwise make available for commercial use such a system to e
 High Risk Processing Activities unless all audit and certification requirements
 established by the Commissioner are satisfied.**
 
-That is a licence-style gate, not a documentation duty. Sections 5 to 13 set out what it
+That is a licence-style gate, not a documentation duty. Clauses 5 to 13 set out what it
 requires.
 
 ### 1.3 The regime turns on autonomy, and deliberately excludes deterministic software
@@ -57,7 +57,7 @@ basis of that processing.
 autonomy, whose operation is deterministically controlled by humans - because the
 underlying law already governs automated processing.
 
-Section 4 explains why that boundary decides which of your tools are in scope, and why
+Clause 4 explains why that boundary decides which of your tools are in scope, and why
 it is not the same boundary other frameworks draw.
 
 ### 1.4 A system that can define its own purposes is contemplated, and constrained
@@ -67,7 +67,7 @@ contemplates a system **defining further purposes for itself**, requires the
 human-defined limits within which it may do so to be stated, and requires that **any
 self-defined purpose conform to a predefined set of human-approved principles**.
 
-Section 11 sets this out. It is the most forward-looking requirement in the instrument
+Clause 11 sets this out. It is the most forward-looking requirement in the instrument
 and the one most likely to bite on agentic deployments.
 
 ## 2. Scope
@@ -92,11 +92,11 @@ is written for them.
 
 3.2 **ADGM-registered entities** are governed by the ADGM Data Protection Regulations and
 supervised by the **ADGM Commissioner**. The obligations differ. **The single difference
-most likely to cause a failure is the breach clock** - Section 14.2.
+most likely to cause a failure is the breach clock** - clause 14.2.
 
 3.3 **Entities elsewhere in the UAE** are governed by the federal personal data
-protection regime and supervised by the **UAE Data Office**. Section 14.3 states the
-breach position, and Section 22 the limits of what this set says about it.
+protection regime and supervised by the **UAE Data Office**. Clause 14.3 states the
+breach position, and clause 22 the limits of what this set says about it.
 
 3.4 **Being in a free zone does not put an entity outside all UAE data protection law for
 every purpose.** In-zone entities commonly process some personal data outside the zone,
@@ -114,11 +114,11 @@ does not state what that regime requires.
 3.6 **Sector rules are separate and may bite harder.** Both free zones exist to host
 financial institutions, and the financial services regulator in each zone maintains its
 own requirements on outsourcing, technology risk and incident reporting. **This policy
-does not cover them and does not assert them** - Section 22.
+does not cover them and does not assert them** - clause 22.
 
 ## 4. Which of your tools are in scope
 
-4.1 A tool is a **System** for the purposes of Sections 5 to 13 if it operates in an
+4.1 A tool is a **System** for the purposes of clauses 5 to 13 if it operates in an
 **autonomous or semi-autonomous manner**, processes personal data for human-defined
 purposes or purposes it defines itself, and generates output on that basis.
 
@@ -140,7 +140,7 @@ AI system inventory, and **revisited whenever the tool gains autonomy** - which 
 adding tool-use, retrieval, memory or planning to an existing product does.
 
 4.5 **A tool can become a System without being replaced.** A vendor enabling an agentic
-feature changes the analysis, which is why Section 6.4 makes material vendor changes
+feature changes the analysis, which is why clause 6.4 makes material vendor changes
 reopen the approval.
 
 ## 5. The certification gate
@@ -182,7 +182,7 @@ reasoning. **Where the determination is uncertain, [ORGANISATION] proceeds as th
 does** until advice says otherwise, and considers prior consultation under 5.6.
 
 5.8 **The timeline for implementing the certification framework is at the Commissioner's
-discretion.** [ORGANISATION] does not treat that as a reason to defer readiness - Section
+discretion.** [ORGANISATION] does not treat that as a reason to defer readiness - clause
 21.2 - and the committee tracks the Commissioner's position at each meeting.
 
 ## 6. Roles, and which one [ORGANISATION] holds
@@ -223,9 +223,9 @@ purposes. The two role sets are independent and both are recorded.
 7.1 Only AI tools on the [ORGANISATION] Approved AI Tools list may be used with
 [ORGANISATION] or personal data.
 
-7.2 A tool is added to the list only after: the System determination at Section 4; the
-role determination at Section 6; a High Risk determination at 5.7 where it is a System;
-security and data protection review; and a written contract meeting Section 10.
+7.2 A tool is added to the list only after: the System determination at clause 4; the
+role determination at clause 6; a High Risk determination at 5.7 where it is a System;
+security and data protection review; and a written contract meeting clause 10.
 
 7.3 Use of any tool not on the list - including free or personal-account versions of
 listed tools - is not permitted for [ORGANISATION] work or data.
@@ -250,7 +250,7 @@ contract.
 recorded lawful basis, and registration in the AI system inventory.
 
 **Level 4 - System engaged in High Risk Processing.** Everything at Level 3, plus
-Sections 5, 11, 12 and 13, and approval by the AI Governance Committee.
+clauses 5, 11, 12 and 13, and approval by the AI Governance Committee.
 
 Where a use sits between two levels, the higher applies.
 
@@ -313,7 +313,7 @@ and must in particular address:
 
 10.3 The third item is the one no ordinary privacy notice contains. **If [ORGANISATION]
 cannot state the limits within which a System may define its own purposes, it cannot give
-a compliant notice for it** - and Section 11.3 makes that a bar to deployment rather than
+a compliant notice for it** - and clause 11.3 makes that a bar to deployment rather than
 a drafting problem.
 
 10.4 Where consent is the lawful basis, the System's consent mechanism is documented, and
@@ -336,8 +336,8 @@ in the supply chain must be clear.** Where they are not, the arrangement is not 
 
 ## 11. Autonomy, self-defined purposes and human oversight
 
-**This section carries the requirements most specific to autonomous systems. It applies
-in addition to Section 15.**
+**This clause carries the requirements most specific to autonomous systems. It applies
+in addition to clause 15.**
 
 11.1 A System must act in accordance with technical and organisational measures and
 appropriate safeguards and controls, including disposal, vulnerability and attack
@@ -464,10 +464,10 @@ risk. **Neither the period nor the risk threshold applies in the DIFC.**
 14.3 **Federal.** The controller must notify the Bureau on becoming aware of the breach,
 **within the period and in accordance with the measures and requirements set by the
 Executive Regulations**. Those Executive Regulations **have not been issued**, so no
-period is established. See Section 22.3 on what circulates to the contrary.
+period is established. See clause 22.3 on what circulates to the contrary.
 
 14.4 **Do not carry a period across regimes.** A 72-hour figure attached to the DIFC or
-to the federal law is wrong, however widely it is repeated, and Section 22.3 explains
+to the federal law is wrong, however widely it is repeated, and clause 22.3 explains
 where that figure actually comes from.
 
 14.5 Any suspected breach involving an AI tool - a wrong recipient, an unapproved tool,
@@ -504,8 +504,8 @@ System under 13.4, this is how it operates in practice.
 person's own credentials must never be given to an agent.
 
 15.4 **An agent that selects its own tools, data sources or next steps is exercising the
-autonomy that makes a tool a System** (Section 4) and, where it may define further
-purposes, engages Section 11 in full. Its human-defined limits are recorded before it
+autonomy that makes a tool a System** (clause 4) and, where it may define further
+purposes, engages clause 11 in full. Its human-defined limits are recorded before it
 runs.
 
 15.5 Consequential actions - making payments, sending external communications, changing
@@ -537,15 +537,15 @@ and the contractual obligations of joint controllers, processors and sub-process
 underlying regulations require it, and the design materials evidencing that are held.
 
 16.5 The privacy notice must address **the impact of the System's use on the exercise of
-individuals' rights** - Section 10.2.
+individuals' rights** - clause 10.2.
 
 ## 17. Prohibited by [ORGANISATION]
 
 17.1 Deploying a System for High Risk Processing without satisfying the certification
-gate at Section 5, or without a current ASO under Section 12.
+gate at clause 5, or without a current ASO under clause 12.
 
 17.2 Deploying a System whose human-defined limits on self-defined purposes cannot be
-stated - Section 11.3.
+stated - clause 11.3.
 
 17.3 Stating or implying that a System is certified when it is not, or when the
 certification has expired, been revoked or been modified such that it is no longer valid.
@@ -557,7 +557,7 @@ certification has expired, been revoked or been modified such that it is no long
 17.6 Using AI output as the sole basis for a Level 4 decision about a person.
 
 17.7 Disabling, bypassing or reducing processing purpose logging, algorithmic audit
-records, or any other evidence required by Sections 9 to 13.
+records, or any other evidence required by clauses 9 to 13.
 
 17.8 Using AI to covertly monitor, profile or score employees.
 
@@ -580,7 +580,7 @@ terms and dependencies the model has introduced.
 18.4 AI-generated citations are verified to exist and to say what they are said to say.
 
 18.5 **Regulatory references in AI output are verified against the applicable regime.**
-Section 22.3 records a real instance of a widely repeated citation error in this
+Clause 22.3 records a real instance of a widely repeated citation error in this
 jurisdiction, and it is the reason this clause exists.
 
 ## 19. Preventing harm
@@ -628,7 +628,7 @@ impact assessment, the supplier relationship.
 independent review of audit documentation, the gap analysis and management action plan.
 
 **Data protection lead** - the High Risk determinations, notices, individuals' rights, the
-register, breach notification, and which regime applies under Section 3.
+register, breach notification, and which regime applies under clause 3.
 
 **Policy owner** - the approved tools list, security review, exceptions, and this policy.
 
@@ -657,7 +657,7 @@ them, **this policy states the Framework's requirement and not the underlying pr
 Accordingly this policy does not state:
 
 - **the definition of High Risk Processing Activities** - the trigger for the whole
-  regime. Section 5.7 routes it to the data protection lead;
+  regime. Clause 5.7 routes it to the data protection lead;
 - the content of the regulation provisions the Framework cites for notice particulars,
   design principles and the certification obligation;
 - the articles of the DIFC law governing prior consultation, contract clauses, government
@@ -672,7 +672,7 @@ wrong is the most consequential error available here. **It states nothing else a
 either regime.** An ADGM or federal-regime entity needs its own document.
 
 It also does not state the financial services regulators' requirements in either zone -
-Section 3.6.
+clause 3.6.
 
 ### 22.3 A caution about published sources
 
@@ -689,7 +689,7 @@ Regulations were issued in 2023 - they have not been, as at the date of this pol
 a specific maximum fine is set in the federal decree-law - it is not; and that a
 subject-access response period is specified in it - none is.
 
-**This is why Section 18.5 exists.** A citation that verifies against a plausible source
+**This is why clause 18.5 exists.** A citation that verifies against a plausible source
 and fails against the primary text is the failure mode this policy is most concerned
 with, and it has been performed here by humans, in print, before any AI tool was
 involved.
@@ -697,11 +697,11 @@ involved.
 ## 23. Knowledge, skills and acknowledgement
 
 23.1 Staff who use AI tools with personal data complete training covering this policy,
-**which regime applies (Section 3)**, the System determination (Section 4), and the
-breach duties (Section 14), before access is granted and at least [annually] thereafter.
+**which regime applies (clause 3)**, the System determination (clause 4), and the
+breach duties (clause 14), before access is granted and at least [annually] thereafter.
 
 23.2 Staff who operate, oversee or make decisions informed by a System used for High Risk
-Processing complete additional training on Sections 9 to 13.
+Processing complete additional training on clauses 9 to 13.
 
 23.3 Staff acknowledge this policy on joining, on material revision, and at least
 annually.
