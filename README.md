@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - nine jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, US, and China published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - ten jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, and China published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -53,8 +53,8 @@ review anything before adoption.
 
 - **Jurisdiction depth.** Most AI governance material stops at the EU and US.
   This project builds verified, jurisdiction-specific artifacts - including the
-  GCC (Bahrain, Saudi Arabia, UAE), where verified, primary-source coverage
-  is hardest to find.
+  GCC (Bahrain, Saudi Arabia, UAE, Oman), where verified, primary-source
+  coverage is hardest to find.
 - **Primary sources only.** Obligations are verified against the consolidated
   legislation texts, not summaries or blog posts. Each artifact ships with a
   research note recording every obligation, its source, and the verification
@@ -67,9 +67,9 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. Nine jurisdictions are live: the UK,
-Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, the United States,
-and China.
+for the comparison matrix at part 3. Ten jurisdictions are live: the UK,
+Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, Oman, the United
+States, and China.
 
 Each policy scales its controls through **levels of use**. The levels are the
 organisation's own classification, not categories defined in any law - but
@@ -230,6 +230,38 @@ tool-use, retrieval, memory or planning. Built on:
   including the finding that the widely repeated federal "72 hours" is a
   misattribution: the federal Executive Regulations that would set a period
   have not been issued, and the real 72-hour duty sits in ADGM
+
+### Sultanate of Oman - published
+
+**[policies/oman/](policies/oman/)** - full policy, enterprise governance
+annex, research note, and source register. Word versions in
+[downloads](policies/oman/downloads/). Written from the enacted Arabic texts
+and checked against MTCIT's official English renderings - the Arabic governs,
+and the divergences found between the two are recorded in the
+[folder README](policies/oman/README.md) and source register.
+
+Oman is one of the few jurisdictions anywhere with a **national AI policy that
+binds by its own terms**: it states controls that using and developing
+organisations commit to, it reaches the private sector, and it is enforced
+through each institution's own sector regulator. Two findings shape the rest of
+the edition. There are **two 72-hour breach clocks with different triggers** -
+one to the regulator, one to the individual - and a breach can cross one
+threshold and not the other. And **cross-border transfer carries the
+framework's dominant penalty**: OMR 100,000 to 500,000, against a maximum of
+OMR 20,000 for anything else in the law, which makes processing location a
+gating question for every AI tool. Built on:
+
+- [Personal Data Protection Law - Royal Decree 6/2022](https://mjla.gov.om/eng/legislation/decrees/details.aspx?Id=1397&type=L) -
+  explicit consent as the default, the sensitive-category permit, data subject
+  rights, breach notification, cross-border transfer, and the penalty structure
+- Executive Regulations - Ministerial Decision 34/2024
+  ([MTCIT personal data protection](https://mtcit.gov.om/sectors/governance/personal)) -
+  the permit machinery and timetable, the two breach clocks, the transfer
+  assessment, the Personal Data Protection Officer, and the complaints process
+- The national policy for the safe and ethical use of AI systems (MTCIT,
+  April 2025) - ten controls for using AI systems, thirteen for developing
+  them, and the ethical principles, including a data-source traceability
+  requirement that must be designed in
 
 ### Singapore - published
 
