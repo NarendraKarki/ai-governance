@@ -47,7 +47,7 @@ generative capability to the domestic public sit outside the generative AI
 measures - but remain fully inside the pillar laws and the data regulations. The
 moment [ORGANISATION] exposes a generative feature to the Chinese public, an
 entirely different tier of duties engages: content responsibility, security
-assessment, algorithm filing, labelling. Section 4 makes this determination
+assessment, algorithm filing, labelling. Clause 4 makes this determination
 mandatory and recorded for every tool.
 
 ### 1.3 Labelling is law, not etiquette
@@ -109,18 +109,18 @@ anthropomorphic interaction measures: emotional-safety duties, intervention in
 extreme situations, strict minors rules, usage-time reminders, exit rights, and
 security assessment. Customer service bots, knowledge Q&A, work assistants, and
 educational tools without continuous emotional interaction are outside this
-regime; Section 4 records the determination either way.
+regime; clause 4 records the determination either way.
 
 3.6 **Cross-border.** Any AI use that moves personal information or important
 data out of mainland China - including prompts sent to an overseas-hosted model -
-engages the cross-border regime in Section 10.
+engages the cross-border regime in clause 10.
 
 ## 4. The two determinations
 
 4.1 Every AI tool is assessed and recorded, before approval and at every reopen
 event, on two determinations:
 
-**Determination A - service-type routing.** Which of the regimes in Section 3
+**Determination A - service-type routing.** Which of the regimes in clause 3
 the tool engages: recommendation, deep synthesis, generative AI, anthropomorphic
 interaction - or none of them beyond the baseline. The determination is made
 against what the tool actually does, not what it is called.
@@ -143,9 +143,9 @@ almost every obligation that applies to it.
 AI inventory. Using an unapproved tool for [ORGANISATION] business - including
 free public chatbots on personal accounts - is a policy violation.
 
-5.2 Approval requires: the two determinations at Section 4; supplier checks at
-Section 13; where the tool is supplied from outside mainland China, the
-cross-border analysis at Section 10; and, for tools [ORGANISATION] provides to
+5.2 Approval requires: the two determinations at clause 4; supplier checks at
+clause 13; where the tool is supplied from outside mainland China, the
+cross-border analysis at clause 10; and, for tools [ORGANISATION] provides to
 the public, the filings and assessments the Enterprise Annex governs.
 
 5.3 Personnel must use approved tools through [ORGANISATION] accounts, not
@@ -167,14 +167,14 @@ non-sensitive code.
 **Level 2 - Personal information involved.** Any prompt, upload, or output that
 contains personal information engages the Personal Information Protection Law:
 lawful basis, minimum necessity, notice, and the impact-assessment triggers at
-Section 9. Requires an approved tool with a data processing agreement.
+clause 9. Requires an approved tool with a data processing agreement.
 
 **Level 3 - Sensitive personal information, important data, or cross-border.**
 Sensitive personal information (biometrics, religious belief, specific identity,
 medical health, financial accounts, location tracks, and any personal
 information of a minor under fourteen) requires separate consent, strict
 protection measures, and a prior impact assessment. Important data engages risk
-assessment and reporting duties. Any cross-border transfer engages Section 10.
+assessment and reporting duties. Any cross-border transfer engages clause 10.
 Level 3 use requires the privacy lead's prior approval.
 
 **Level 4 - Decisions about people, and services to the public.** Automated
@@ -219,8 +219,8 @@ trading habits - or to induce excessive consumption or addiction.
 
 7.7 Using AI tools to make solely automated decisions with a major impact on an
 individual - hiring, credit, discipline, significant pricing - without the
-human determination Section 11 requires and the individual's rights at
-Section 12.
+human determination clause 11 requires and the individual's rights at
+clause 12.
 
 7.8 Providing any personal information or data stored in mainland China to a
 foreign judicial or law enforcement authority - including through an AI vendor's
@@ -254,7 +254,7 @@ dedicated processing rules.
 supplier acting as an independent processor - requires notice of the recipient's
 identity, contact details, purposes, methods and categories, and the
 individual's separate consent; entrusted processing requires the contract and
-supervision at Section 13.
+supervision at clause 13.
 
 8.5 Where [ORGANISATION] uses interaction data from an AI service it provides,
 interaction data that is sensitive personal information is not used for model
@@ -339,7 +339,7 @@ them against [ORGANISATION] wherever AI processing involves their personal
 information: to know and to decide; to access and copy; to data portability on
 the statutory conditions; to correct and complete; to delete on the statutory
 grounds - including withdrawal of consent; to an explanation of processing
-rules; and, for automated decisions, the rights at Section 11.2.
+rules; and, for automated decisions, the rights at clause 11.2.
 
 12.2 Requests are received through convenient channels, acted on promptly, and
 refusals are explained with the reason. Requests touching AI tools route to the
@@ -358,7 +358,7 @@ protection measures for entrusted processing; the supplier's security
 obligations and breach notification without undue delay; no use of
 [ORGANISATION] data for the supplier's own purposes, including model training,
 without agreement; no sub-entrustment without consent; return or deletion at
-termination; and the storage and processing locations that drive Section 10.
+termination; and the storage and processing locations that drive clause 10.
 
 13.2 Suppliers of tools engaging the CAC regimes evidence their compliance
 posture: algorithm filing numbers where required, security assessments
