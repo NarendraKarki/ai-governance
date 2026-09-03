@@ -41,13 +41,13 @@ conflict.
 A2.1 Every AI system used or deployed by [ORGANISATION] - bought, built, or embedded
 in other software - must be recorded in the AI system inventory before use. The record
 states: business owner; purpose; **the role [ORGANISATION] holds for that system,
-provider or deployer**; risk level (policy Section 5); **whether the system would fall
+provider or deployer**; risk level (policy clause 5); **whether the system would fall
 in the high-risk category and on what basis**; data categories processed; lawful basis;
 supplier and underlying model where known; the point of human oversight; processing
 locations and transfer basis; and the next review date.
 
 A2.2 An AI system not in the inventory is treated as an unapproved tool under policy
-Section 3. The inventory is reviewed [quarterly]. Material changes to a recorded
+clause 3. The inventory is reviewed [quarterly]. Material changes to a recorded
 system reopen its approval and require the role and classification fields to be
 re-assessed.
 
@@ -56,7 +56,7 @@ under data protection law; the two must not diverge.
 
 ## A3. Commencement readiness register
 
-**This section exists because the artificial intelligence regime commences in stages.
+**This clause exists because the artificial intelligence regime commences in stages.
 Its purpose is to make sure the deferral of the high-risk regime is used rather than
 forgotten.**
 
@@ -76,7 +76,7 @@ at A1.2.
 
 A3.4 The register also tracks obligations that commence for [ORGANISATION] between now
 and then, including the two further prohibited practices taking effect in December
-2026 (policy Section 6.2), so that tooling is checked before rather than after each
+2026 (policy clause 6.2), so that tooling is checked before rather than after each
 date.
 
 A3.5 **Regulatory change is a standing agenda item.** The artificial intelligence
@@ -89,17 +89,17 @@ organisation's position rests on.
 A4.1 Before deployment: documented purpose and success criteria; the role and
 classification assessment under A2.1; testing for accuracy, robustness, security and
 bias proportionate to the risk level; the data protection impact assessment where
-policy Section 7.6 requires one; and sign-off by the business owner and, where
+policy clause 7.6 requires one; and sign-off by the business owner and, where
 personal data is involved, the data protection lead.
 
 A4.2 In change: modifications with a material effect on behaviour - model, prompt,
 configuration, or training data changes - go through change management and re-testing
 proportionate to the change, **and a re-assessment of whether the change makes
-[ORGANISATION] a provider** (policy Section 2.1).
+[ORGANISATION] a provider** (policy clause 2.1).
 
 A4.3 In operation: deployed systems are monitored for degraded performance, drift, and
 misuse; agreed thresholds trigger review by the business owner. Where a system falls
-within the transparency obligations, the disclosures required by policy Section 9 are
+within the transparency obligations, the disclosures required by policy clause 9 are
 verified as actually present in the live product, not merely specified.
 
 A4.4 At retirement: a decommissioning step covering data disposal, dependent
@@ -112,7 +112,7 @@ covered that use, and what was done about accuracy and bias.
 ## A5. Suppliers and supply chain
 
 A5.1 No AI service is procured or renewed without the security and data protection
-review in policy Section 3, and a written contract covering: processing only on
+review in policy clause 3, and a written contract covering: processing only on
 [ORGANISATION]'s documented instructions; confidentiality; security measures;
 sub-processor authorisation and flow-down; assistance with individuals' rights,
 impact assessments and breach notification; deletion or return at end of service; and
@@ -144,7 +144,7 @@ are time-bound (maximum [6 months]), carry compensating controls, and are record
 an exceptions register with expiry dates. The committee reviews the register at every
 meeting; expired exceptions lapse automatically.
 
-A6.2 **No exception may be granted against a prohibited practice** (policy Section
+A6.2 **No exception may be granted against a prohibited practice** (policy clause
 6.1). Those are not risks the organisation is able to accept, and no assessment,
 consent or business justification changes that.
 
@@ -165,7 +165,7 @@ basis, and must not take any action within a prohibited practice. An agent that 
 select its own tools or data sources is assessed for whether it can reach such
 processing at all.
 
-A7.4 Where an agent interacts with a person, the disclosure in policy Section 9.1
+A7.4 Where an agent interacts with a person, the disclosure in policy clause 9.1
 applies to the agent.
 
 A7.5 Agent activity is logged and attributable to a named human owner. Agent sessions
