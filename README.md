@@ -36,7 +36,7 @@ the working.
 
 | # | In this series | Status |
 |---|---|---|
-| 1 | **AI acceptable use policies** | **Live** - ten jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, and China published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
+| 1 | **AI acceptable use policies** | **Live** - thirteen jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, China, Australia, Canada, and Japan published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | Classifying AI systems by risk | Coming |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
@@ -67,9 +67,9 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. Ten jurisdictions are live: the UK,
+for the comparison matrix at part 3. Thirteen jurisdictions are live: the UK,
 Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, Oman, the United
-States, and China.
+States, China, Australia, Canada, and Japan.
 
 Each policy scales its controls through **levels of use**. The levels are the
 organisation's own classification, not categories defined in any law - but
