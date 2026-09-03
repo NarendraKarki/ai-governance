@@ -436,6 +436,42 @@ make personal information free to take. Built on:
   [Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
   (December 2023)
 
+### Japan - published
+
+**[policies/japan/](policies/japan/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/japan/downloads/). Open gates are in the
+[folder README](policies/japan/README.md).
+
+Japan's is a soft-law, innovation-first regime, and the set says so. Four findings
+shape this edition. **Japan's AI Act binds no one and penalises nothing** - the AI
+Promotion Act (Act No. 53 of 2025) sets principles, a national basic plan and an AI
+Strategic Headquarters, and asks operators only to *endeavour* to use AI and cooperate
+with government; it creates no operator obligation, no individual right and no penalty.
+So **the binding law is the APPI**, which does not mention AI: purpose of use, no
+wrongful acquisition, consent for sensitive information, security, leak reporting,
+third-party and cross-border limits, and disclosure, correction and cessation all apply
+to AI handling unchanged. The APPI gives no automated-decision right; **its lever
+against harmful AI processing is the cessation right** - a person may demand a business
+cease using, delete, or cease providing their data where the handling is likely to harm
+their rights or interests - so the set builds the individual-facing duty on it and
+supplies automated-decision explanation and human review as house standards from the
+guidelines. And the AI-specific expectations are the voluntary METI/MIC AI Guidelines
+for Business; a **2026 APPI amendment** (statistics/AI consent exception, under-16
+rules, facial-feature-data duties, administrative monetary penalties) is decided and
+expected in the Diet in spring 2026, stated and relied on for nothing. Built on:
+
+- [Act on the Protection of Personal Information](https://www.japaneselawtranslation.go.jp/en/laws/view/4241/en) -
+  the government English translation of Act No. 57 of 2003 as amended: the
+  business-operator duties, the sensitive-information regime, and the cessation right
+- [AI Promotion Act](https://www.japaneselawtranslation.go.jp/en/laws/view/5066/en) -
+  the government English translation of Act No. 53 of 2025, read in full
+- [AI Guidelines for Business v1.1](https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20240419_14.pdf)
+  (METI and MIC, 2025) and its Appendix
+- The Personal Information Protection Commission's
+  [Outline of the System Reform Policy under the Triennial Review of the APPI](https://www.ppc.go.jp/en/)
+  (January 2026), for the pending amendment
+
 ## Formats
 
 Markdown files are canonical. Word versions of each document are in the
