@@ -361,6 +361,42 @@ policy makes that line a recorded determination for every tool. Built on:
   [anthropomorphic interaction measures](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm) -
   the last in force 15 July 2026, the newest AI instrument in this series
 
+### Australia - published
+
+**[policies/australia/](policies/australia/)** - full policy, enterprise
+governance annex, research note, and source register. Word versions in
+[downloads](policies/australia/downloads/). Open gates are in the
+[folder README](policies/australia/README.md).
+
+Australia has no AI Act and, since the National AI Plan of December 2025, has
+said it will regulate AI through existing law; the six practices in the
+National AI Centre's Guidance for AI Adoption are guidance, and the set adopts
+them as labelled house standards. Three findings shape this edition. The
+Privacy Act reaches AI without naming it, because personal information is
+information about a person **whether true or not** - a hallucination about a
+customer is personal information, entering it is a use or disclosure, and
+generating it is a collection. The **automated-decision transparency duty
+commences 10 December 2026 and the compiled Act does not show it** - the
+provisions are uncommenced and live only in the amending Act and the endnotes,
+and they attach to decisions made after that date whatever the age of the
+system or the data. And the duty is disclosure only, so the set supplies
+explanation, human review and notification as house standards. Built on:
+
+- [Privacy Act 1988 (Cth)](https://www.legislation.gov.au/C2004A03712/latest/text) -
+  compilation No. 104 of 4 June 2026: the thirteen Australian Privacy
+  Principles, the notifiable data breaches scheme, the penalty tiers, and the
+  statutory tort for serious invasions of privacy in force since 10 June 2025
+- [Privacy and Other Legislation Amendment Act 2024](https://www.legislation.gov.au/C2024A00128/asmade) -
+  the automated-decision provisions and their application rule, the security
+  amendment, and the commencement table
+- The Information Commissioner's guidance on
+  [using commercially available AI products](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-the-use-of-commercially-available-ai-products)
+  and on
+  [developing and training generative AI](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/guidance-on-privacy-and-developing-and-training-generative-ai-models),
+  and the May 2026 issues paper on automated-decision transparency
+- The [National AI Plan](https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf)
+  and the [Guidance for AI Adoption](https://www.industry.gov.au/publications/guidance-for-ai-adoption/our-approach)
+
 ## Formats
 
 Markdown files are canonical. Word versions of each document are in the
