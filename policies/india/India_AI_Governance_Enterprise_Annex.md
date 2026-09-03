@@ -44,7 +44,7 @@ provides independent assurance (A10).
 A2.1 Every AI system used or deployed by [ORGANISATION] - bought, built, or embedded
 in other software - must be recorded in the AI system inventory before use. The record
 states: business owner; purpose; **the role [ORGANISATION] holds, Data Fiduciary or
-Data Processor**; risk level (policy Section 5); the categories of personal data
+Data Processor**; risk level (policy clause 5); the categories of personal data
 processed and whether any belongs to a child or a person with disability who has a
 lawful guardian; the basis and the notice used; supplier and underlying model where
 known; the point of human determination; **processing and storage locations**;
@@ -53,7 +53,7 @@ erasure duty**; **whether the system can identify whose data a given exposure to
 (policy 15.6); and the next review date.
 
 A2.2 An AI system not in the inventory is treated as an unapproved tool under policy
-Section 3.
+clause 3.
 
 A2.3 The inventory is reviewed [quarterly]. Material changes to a recorded system -
 model, supplier, processing location, retention behaviour, or purpose - reopen its
@@ -64,7 +64,7 @@ processes by AI and must not diverge from the organisation's wider data inventor
 
 ## A3. Commencement readiness register
 
-**This section exists because the compliance obligations commence on 13 May 2027 and
+**This clause exists because the compliance obligations commence on 13 May 2027 and
 almost nothing binds before then. Its purpose is to make sure the interval is used
 rather than forgotten.**
 
@@ -164,7 +164,7 @@ effect against it, and, where that is not possible, does not fine-tune on that d
 ## A6. Suppliers and the Data Processor relationship
 
 A6.1 No AI service is procured or renewed without the security and data protection
-review in policy Section 3 and a written contract.
+review in policy clause 3 and a written contract.
 
 A6.2 The contract must include, from today and regardless of commencement dates:
 
@@ -283,7 +283,7 @@ policy. Those are not risks the organisation is able to accept.
 
 A9.3 An exception may not be granted to process a child's personal data, or that of a
 person with disability who has a lawful guardian, without the verification at policy
-Section 9. Verification is a factual determination, not a risk to be accepted.
+clause 9. Verification is a factual determination, not a risk to be accepted.
 
 ## A10. Agentic AI, assurance and metrics
 
@@ -372,7 +372,7 @@ reporting and data localisation requirements, and AI suppliers fall within them.
 **Those requirements are not covered by this annex and are not asserted in it.** They
 require their own document grounded in the relevant regulator's own instruments, which
 this set does not hold. Where a sector incident-reporting clock is shorter than the
-clocks at policy Section 15, the shorter one governs.
+clocks at policy clause 15, the shorter one governs.
 
 ## A13. What this annex rests on, and what remains open
 
