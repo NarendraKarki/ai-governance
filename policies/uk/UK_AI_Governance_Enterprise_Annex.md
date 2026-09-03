@@ -27,25 +27,25 @@ organisation and reports on it to the board at least [twice yearly].
 
 A1.3 Responsibility follows three lines: business functions own the risks of
 the AI they use; risk and compliance functions set standards and challenge;
-internal audit provides independent assurance (Section A7).
+internal audit provides independent assurance (clause A7).
 
 ## A2. AI system inventory
 
 A2.1 Every AI system used or deployed by [ORGANISATION] - bought, built, or
 embedded in other software - must be recorded in the AI system inventory
 before use. The record states: business owner; purpose; risk level (policy
-Section 4); data categories processed; lawful basis where personal data is
+clause 4); data categories processed; lawful basis where personal data is
 involved; supplier and underlying model where known; the point of human
 oversight; and the next review date.
 
 A2.2 An AI system not in the inventory is treated as an unapproved tool under
-policy Section 3. The inventory is reviewed [quarterly] and material changes
+policy clause 3. The inventory is reviewed [quarterly] and material changes
 to a recorded system reopen its approval.
 
 ## A3. Lifecycle controls for systems the organisation builds or adapts
 
 A3.1 Before deployment: documented purpose and success criteria; testing for
-accuracy, robustness, security, and bias (policy Section 14) proportionate to
+accuracy, robustness, security, and bias (policy clause 14) proportionate to
 the risk level; and sign-off by the business owner and, where personal data is
 involved, the data protection lead.
 
@@ -62,7 +62,7 @@ processes, and closure of the inventory record.
 ## A4. Suppliers and supply chain
 
 A4.1 No AI service is procured or renewed without the security and data
-protection review in policy Section 3, and contract terms covering: no use of
+protection review in policy clause 3, and contract terms covering: no use of
 [ORGANISATION] data to train the supplier's models without express approval;
 breach notification; transparency over sub-processors and material model
 changes; and audit and exit rights.
@@ -96,7 +96,7 @@ sessions are bounded in scope and duration, and every agent has a documented
 means of immediate suspension.
 
 A6.4 Content an agent ingests from outside the organisation is treated as
-untrusted input (policy Section 10.3), including instructions embedded in
+untrusted input (policy clause 10.3), including instructions embedded in
 that content.
 
 ## A7. Assurance and metrics
