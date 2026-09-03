@@ -38,7 +38,7 @@ provides independent assurance (A10).
 ## A2. The two determinations
 
 A2.1 Every AI tool that touches decisions about people carries both determinations
-(policy Section 4), recorded separately, each with a date, a named decision-maker,
+(policy clause 4), recorded separately, each with a date, a named decision-maker,
 and the basis:
 
 - **Colorado:** high-risk AI system or not - the substantial-factor test against the
@@ -74,7 +74,7 @@ processing and storage locations; the retention position across prompts, logs,
 embeddings, and caches; the point of human determination; the notice position (
 pre-use, adverse-decision, interaction disclosure); and the next review date.
 
-A3.2 A tool not in the inventory is unapproved under policy Section 5.
+A3.2 A tool not in the inventory is unapproved under policy clause 5.
 
 A3.3 The inventory is reviewed [quarterly]; any A2.3 event reopens the record
 immediately.
@@ -105,7 +105,7 @@ time under a deadline.
 
 ## A5. The framework-compliance position
 
-**This section exists because Colorado's statute gives framework compliance legal
+**This clause exists because Colorado's statute gives framework compliance legal
 effect: a rebuttable presumption of reasonable care, and - with discovery and cure -
 an affirmative defense.**
 
@@ -252,7 +252,7 @@ are engaged at the points the policy cites and are otherwise governed by
 
 A13.3 Where the attorney general adopts rules under the Colorado Act, or the
 California regulator issues further regulations, the committee records the version
-relied on and reopens the affected sections.
+relied on and reopens the affected clauses.
 
 ---
 
