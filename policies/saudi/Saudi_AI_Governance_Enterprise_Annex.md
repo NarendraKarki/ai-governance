@@ -16,7 +16,7 @@ and the policy overlap, the stricter requirement applies.
 
 **This annex covers government data.** It does not govern an organisation's processing
 of its own commercial personal data where no government data is involved - policy
-Section 1.1 and A13.
+clause 1.1 and A13.
 
 ---
 
@@ -60,11 +60,11 @@ of personal data; **the data sharing agreement reference where government data l
 [ENTITY]**; supplier, sub-processors and underlying model where known; **actual
 processing and storage locations**; the point of human determination; the retention and
 destruction position; **whether the system can identify whose personal data a given
-exposure touched**; the dates of the three assessments at policy Section 11; and the
+exposure touched**; the dates of the three assessments at policy clause 11; and the
 next review date.
 
 A2.2 An AI system not in the inventory is treated as an unapproved tool under policy
-Section 3.
+clause 3.
 
 A2.3 The inventory is reviewed [quarterly]. Material changes - model, supplier,
 processing location, retention behaviour, purpose, or the classification of data the
@@ -76,7 +76,7 @@ sufficient for the Compliance Officer to use it in the annual assessment.
 
 ## A3. Classification governance for AI
 
-**This section exists because classification is the gate through which every AI use
+**This clause exists because classification is the gate through which every AI use
 passes, and because AI is unusually good at silently creating integrated datasets.**
 
 A3.1 Every AI system in the inventory carries an approved maximum classification level,
@@ -165,7 +165,7 @@ effect against it, and where that is not possible, does not fine-tune on that da
 ## A6. Sharing government data with AI suppliers
 
 A6.1 No AI service receives government data without a **data sharing agreement** meeting
-policy Section 9.2. Procurement does not treat a supplier's standard terms as
+policy clause 9.2. Procurement does not treat a supplier's standard terms as
 satisfying it; the agreement is assessed clause by clause against that list and the gaps
 are closed or the supplier is declined.
 
@@ -326,7 +326,7 @@ documented actions.
 
 ## A11. The annual compliance assessment
 
-**This section exists because [ENTITY]'s compliance is scored, submitted, consolidated
+**This clause exists because [ENTITY]'s compliance is scored, submitted, consolidated
 and published - and because the scoring is unforgiving.**
 
 A11.1 [ENTITY] conducts a compliance audit annually and submits the report to the
