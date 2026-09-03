@@ -18,7 +18,7 @@ provided that use protects government data, the individuals whose personal data
 classification and sharing instruments. This policy sets the requirements for all such
 use.
 
-**Read this section before any other. Four features of the framework shape this
+**Read this clause before any other. Four features of the framework shape this
 document, and the first is a limit on the document itself.**
 
 ### 1.1 This policy governs government data
@@ -31,7 +31,7 @@ government data within their control and custody.
 **This is therefore not a general private-sector AI policy.** An organisation
 processing only its own customers' or employees' personal data, with no government
 data, is governed by the Kingdom's personal data protection legislation, **which is
-not the basis of this document**. Section 22 says so plainly and explains what would
+not the basis of this document**. Clause 22 says so plainly and explains what would
 be needed to write that document instead.
 
 If [ENTITY] holds both government data and its own commercial personal data, this
@@ -48,7 +48,7 @@ provision in the personal-data sense.
 
 That is the position, not a gap in research. Every AI obligation in this policy
 therefore reaches AI as an obligation about **data classification, personal data,
-or data sharing**. Sections 4, 6 and 9 are the three routes, and every clause in this
+or data sharing**. Clauses 4, 6 and 9 are the three routes, and every clause in this
 policy that goes further is labelled a house standard where it appears.
 
 ### 1.3 Classification is the gate, and it is not optional
@@ -56,7 +56,7 @@ policy that goes further is labelled a house standard where it appears.
 Data is classified on creation or receipt, by an impact assessment, into four levels.
 Where a dataset combines levels, **the highest level governs the whole**. Classification
 determines who may handle the data, how it is protected, and - for the purposes of this
-policy - **whether it may be placed in an AI tool at all**. Section 4 is the operational
+policy - **whether it may be placed in an AI tool at all**. Clause 4 is the operational
 spine of this document.
 
 ### 1.4 Security is deliberately not specified here
@@ -68,7 +68,7 @@ from the annual data management compliance assessment. One classification
 specification likewise carries no priority of its own and is left to that authority.
 
 **[ENTITY] therefore cannot derive its AI security controls from the instruments behind
-this policy**, and this policy does not pretend otherwise. Section 13 states the
+this policy**, and this policy does not pretend otherwise. Clause 13 states the
 controls [ENTITY] applies as house standards and directs the reader to the cybersecurity
 authority's own requirements, which this policy does not reproduce.
 
@@ -97,7 +97,7 @@ a **Chief Data Officer**; a **Compliance Officer** to audit and monitor the data
 agenda; a **Personal Data Protection Officer**; **Business Data Executives** and
 **Business Data Stewards** for each domain; and **IT Data Stewards**. This policy
 allocates AI responsibilities to those existing roles rather than creating new ones -
-Section 21.
+clause 21.
 
 Where [ENTITY] handles personal data, it acts as **data controller** or **data
 processor** as the case may be. An AI supplier processing government data on [ENTITY]'s
@@ -111,7 +111,7 @@ of any classification above Public, or with any personal data.
 3.2 A tool is added to the list only after: an impact assessment against the
 classification levels it will handle; a personal data assessment where personal data is
 involved; a review against the cybersecurity authority's requirements; and, where
-government data will leave [ENTITY], **a data sharing agreement** meeting Section 9.
+government data will leave [ENTITY], **a data sharing agreement** meeting clause 9.
 
 3.3 Use of any tool not on the list - including free or personal-account versions of
 listed tools - is not permitted for [ENTITY] work or data.
@@ -157,7 +157,7 @@ combining Public and Restricted material is Restricted.
 |---|---|---|
 | **Top Secret** | High | **Never.** No AI tool, internal or external, under any exception |
 | **Secret** | Medium | **Never in an external tool.** Internal systems only, with written approval of the Chief Data Officer and the entity's security function |
-| **Restricted** | Low | Approved tools only, at the approved classification level, with the controls in Sections 6, 9 and 13. Sub-category is recorded |
+| **Restricted** | Low | Approved tools only, at the approved classification level, with the controls in clauses 6, 9 and 13. Sub-category is recorded |
 | **Public** | None | Approved tools. Ordinary care applies |
 
 Restricted data carries a sub-category by the scale of impact: **Category (A)** where
@@ -200,14 +200,14 @@ catalogued like any other artefact.
 approved level, recorded in the AI system inventory.
 
 **Level 3 - Personal data.** Any personal data. Everything at Level 2, plus the
-requirements of Section 6, and inclusion in the personal data register.
+requirements of clause 6, and inclusion in the personal data register.
 
 **Level 4 - Consequential.** AI output that materially informs a decision about a
 person, or that concerns Restricted Category (A) or (B) data. Everything at Level 3,
-plus Sections 10 and 11, and approval by the Data Governance Committee.
+plus clauses 10 and 11, and approval by the Data Governance Committee.
 
 Where a use sits between two levels, the higher level applies. Secret and Top Secret
-data sit outside this scheme entirely - Section 4.2.
+data sit outside this scheme entirely - clause 4.2.
 
 ## 6. Personal data
 
@@ -290,7 +290,7 @@ occurrence; and evaluated against current regulatory obligations and criticality
 resolve.
 
 6.4.4 A finding that identifies a measure is not closed until the measure is
-implemented and the implementation is dated. This is a house standard and Section 11.4
+implemented and the implementation is dated. This is a house standard and clause 11.4
 carries it into the annex's register.
 
 ### 6.5 Compliance monitoring and audit
@@ -313,7 +313,7 @@ to [ENTITY] and the individual; the definition of personal data; individuals' ri
 individual should be notified, and how to handle inquiries about collection, processing
 and sharing.
 
-6.6.2 The AI module at Section 23 is delivered as part of that training, not separately
+6.6.2 The AI module at clause 23 is delivered as part of that training, not separately
 from it.
 
 ### 6.7 The register
@@ -344,7 +344,7 @@ approved list.
 7.5 Entering credentials, keys, secrets or security configuration into any AI tool.
 
 7.6 Using AI output as the sole basis for a Level 4 decision, without the human
-determination at Section 10.
+determination at clause 10.
 
 7.7 Combining datasets in a prompt, index or corpus without reclassifying the result at
 the highest level present.
@@ -353,7 +353,7 @@ the highest level present.
 or aggregated, without written authorisation from the Personal Data Protection Officer.
 
 7.9 Sharing government data with an AI supplier outside a data sharing agreement
-meeting Section 9.
+meeting clause 9.
 
 7.10 Using AI to covertly monitor, profile or score employees.
 
@@ -375,7 +375,7 @@ not trustworthy; a system that has not been tested for unjustified differences i
 outcome cannot be said to be fair; and a system operated without a named accountable
 owner is not operated responsibly.
 
-8.3 Section 20 sets out what [ENTITY] does about fairness in practice. That content is
+8.3 Clause 20 sets out what [ENTITY] does about fairness in practice. That content is
 [ENTITY]'s own; the ethical use requirement supplies the obligation, not the method.
 
 ## 9. Sharing government data with an AI supplier
@@ -466,7 +466,7 @@ determination; and the route by which a person can contest the outcome.
 
 10.4 An individual affected by a Level 4 decision is told, on request, that an AI system
 was used, in general terms what it considered, and how to contest the outcome. The
-right to object and the right to restrict processing at Section 6.3 remain available.
+right to object and the right to restrict processing at clause 6.3 remain available.
 
 10.5 Where a decision is contested, a person not involved in the original decision
 reviews it. The review and its result are recorded.
@@ -510,7 +510,7 @@ a formatting one.**
 
 13.1 **The security specifications for data are the mandate of the National
 Cybersecurity Authority and are not set out in the instruments behind this policy.**
-This section states what [ENTITY] applies as a house standard. It does not reproduce,
+This clause states what [ENTITY] applies as a house standard. It does not reproduce,
 summarise or assert that authority's requirements, and it does not displace them. Where
 they differ, they govern.
 
@@ -590,16 +590,16 @@ uploaded files; vector embeddings and indexes; caches; session transcripts;
 supplier-side logs; and any copy in a monitoring, analytics or support system.
 
 15.3 Where data has been shared with a supplier, the retention period and destruction
-mechanism agreed under Section 9.2 govern, and destruction is evidenced rather than
+mechanism agreed under clause 9.2 govern, and destruction is evidenced rather than
 asserted.
 
-15.4 The personal data register at Section 6.7 is retained for not less than 24 months
+15.4 The personal data register at clause 6.7 is retained for not less than 24 months
 irrespective of the retention applied to the underlying data.
 
 ## 16. Open data and freedom of information
 
 16.1 AI output is not published as open data without classification, verification under
-Section 12, and the approval that any other open data release requires.
+clause 12, and the approval that any other open data release requires.
 
 16.2 Where [ENTITY] receives a request for information, AI-generated material held by
 [ENTITY] is within the scope of the search like any other record. **A prompt log is a
@@ -649,18 +649,18 @@ human being. This is a house standard.
 19.4 What the system may commit [ENTITY] to is bounded and documented. Where it cannot
 answer, it says so rather than producing a plausible answer.
 
-19.5 Where the system collects personal data, the notice at Section 6.2 is presented in
+19.5 Where the system collects personal data, the notice at clause 6.2 is presented in
 the flow, before or at the time approval is requested.
 
 ## 20. Fairness
 
 20.1 AI systems used in decisions about people must not produce unjustified differences
 in outcome between groups. [ENTITY] adopts this under the ethical use requirement at
-Section 8; the content of the standard is [ENTITY]'s own.
+clause 8; the content of the standard is [ENTITY]'s own.
 
 20.2 Level 4 systems are tested before deployment and at least [annually] for disparate
 outcomes across the groups relevant to the decision, and the results are recorded and
-fed into the yearly risk assessment at Section 6.4.
+fed into the yearly risk assessment at clause 6.4.
 
 20.3 Where a difference is found and cannot be justified, the system is not deployed, or
 is withdrawn.
@@ -717,10 +717,10 @@ It therefore does not state:
   state;
 - any penalty for contravention;
 - **any data security specification**, which is the mandate of the National
-  Cybersecurity Authority - Section 1.4 and 13.1.
+  Cybersecurity Authority - clause 1.4 and 13.1.
 
 It also does not govern an organisation's processing of its own commercial personal
-data where no government data is involved - Section 1.1.
+data where no government data is involved - clause 1.1.
 
 The accompanying research note lists every point at which the standards refer to a
 document [ENTITY] does not hold, so that the gap is legible and can be closed.
@@ -728,12 +728,12 @@ document [ENTITY] does not hold, so that the gap is legible and can be closed.
 ## 23. Knowledge, skills and acknowledgement
 
 23.1 Staff who use AI tools with [ENTITY] data complete training covering this policy,
-**the classification rules at Section 4**, the personal data requirements at Section 6,
-and the breach duties at Section 14, before access is granted and at least [annually]
-thereafter. It is delivered within the personal data protection training at Section 6.6.
+**the classification rules at clause 4**, the personal data requirements at clause 6,
+and the breach duties at clause 14, before access is granted and at least [annually]
+thereafter. It is delivered within the personal data protection training at clause 6.6.
 
 23.2 Staff who make or inform Level 4 decisions complete additional training on the
-limits of AI output and on the determination required at Section 10.
+limits of AI output and on the determination required at clause 10.
 
 23.3 Staff acknowledge this policy on joining, on material revision, and at least
 annually.

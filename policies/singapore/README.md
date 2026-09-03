@@ -29,7 +29,7 @@ Focus 5 of the series (implementing and operating).
    carrying imprisonment - and the offences turn on what the *organisation*
    authorised. That converts this acceptable use policy from an internal
    control document into the instrument that sets the boundary of an
-   individual's criminal exposure. Policy Section 11 is built on it, and no
+   individual's criminal exposure. Policy clause 11 is built on it, and no
    exception may blur the boundary.
 3. **AI-inferred data about a person is accessible but not correctable** -
    the statutory correction right excepts derived personal data while the

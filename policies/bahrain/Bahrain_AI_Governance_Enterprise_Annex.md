@@ -31,7 +31,7 @@ officers.
 
 A1.3 Responsibility follows three lines: business functions own the risks of the AI
 they use; risk and compliance functions set standards and challenge; internal audit
-provides independent assurance (Section A8).
+provides independent assurance (clause A8).
 
 A1.4 Where a Data Protection Guardian is appointed - whether internal or external -
 the Guardian's statutory duties are discharged independently and impartially, and are
@@ -45,26 +45,26 @@ Authority.
 
 A2.1 Every AI system used or deployed by [ORGANISATION] - bought, built, or embedded
 in other software - must be recorded in the AI system inventory before use. The
-record states: business owner; purpose; risk level (policy Section 5); data
+record states: business owner; purpose; risk level (policy clause 5); data
 categories processed; lawful ground and, where relied on, the form and date of
 consent; supplier and underlying model where known; the point of human oversight;
 processing locations and the transfer basis; and the next review date.
 
 A2.2 An AI system not in the inventory is treated as an unapproved tool under policy
-Section 3. The inventory is reviewed [quarterly] and material changes to a recorded
+clause 3. The inventory is reviewed [quarterly] and material changes to a recorded
 system reopen its approval **and** trigger the change-notification assessment in
 A2A.4.
 
 ## A2A. Regulatory filings register
 
-**This section exists because Bahraini law gates deployment on prior notice and, for
+**This clause exists because Bahraini law gates deployment on prior notice and, for
 some processing, on prior written permission. Governing AI as a portfolio here means
 governing the filings, not only the systems.**
 
 A2A.1 [ORGANISATION] maintains a Regulatory Filings Register alongside the AI system
 inventory. For every AI system that processes personal data it records: whether prior
 notice to the Authority is required or an exemption applies and which; the date notice
-was given; whether the processing falls in policy Section 4.2; the date any
+was given; whether the processing falls in policy clause 4.2; the date any
 authorisation request was submitted; the decision and its date, or the date on which
 the statutory period expired without reply; and any conditions or time limits
 attached to an authorisation.
@@ -90,8 +90,8 @@ A1.2 immediately, not at the next meeting.
 ## A3. Lifecycle controls for systems the organisation builds or adapts
 
 A3.1 Before deployment: documented purpose and success criteria; testing for
-accuracy, robustness, security, and bias (policy Section 16) proportionate to the
-risk level; the data protection impact assessment where policy Section 7.6 requires
+accuracy, robustness, security, and bias (policy clause 16) proportionate to the
+risk level; the data protection impact assessment where policy clause 7.6 requires
 one, with the Data Protection Guardian's advice sought where designated; the
 regulatory filing position resolved under A2A; and sign-off by the business owner
 and, where personal data is involved, the data protection lead.
@@ -114,7 +114,7 @@ use, and whether the training itself required notice or authorisation.
 ## A4. Suppliers and supply chain
 
 A4.1 No AI service is procured or renewed without the security and data protection
-review in policy Section 3, and a **written** contract covering: processing only on
+review in policy clause 3, and a **written** contract covering: processing only on
 [ORGANISATION]'s instructions; security and confidentiality obligations equivalent to
 those on [ORGANISATION]; no use of [ORGANISATION] data to train the supplier's models
 without express approval; breach notification to [ORGANISATION] fast enough to meet a
@@ -122,7 +122,7 @@ clock that starts on discovery; transparency over sub-processors and material mo
 changes; and audit and exit rights.
 
 A4.2 Where the supplier processes personal data outside the Kingdom, the contract
-must additionally carry the transfer terms required by policy Section 8.4, and the
+must additionally carry the transfer terms required by policy clause 8.4, and the
 transfer basis must be recorded in A2A.1 before go-live.
 
 A4.3 [ORGANISATION] takes reasonable steps to satisfy itself that the supplier
@@ -168,7 +168,7 @@ are bounded in scope and duration, and every agent has a documented means of
 immediate suspension.
 
 A6.5 Content an agent ingests from outside the organisation is treated as untrusted
-input (policy Section 12.3), including instructions embedded in that content.
+input (policy clause 12.3), including instructions embedded in that content.
 
 ## A7. Individual rights operations
 

@@ -55,7 +55,7 @@ and backup**; the transfer assessment reference; the retention position; **wheth
 system can identify whose personal data a given exposure touched**; **whether the data
 sources it uses can be traced**; and the next review date.
 
-A2.2 A tool not in the inventory is treated as unapproved under policy Section 3.
+A2.2 A tool not in the inventory is treated as unapproved under policy clause 3.
 
 A2.3 The inventory is reviewed [quarterly]. **The following reopen the record
 immediately** rather than at the next review: a change of supplier or sub-processor; a
@@ -93,7 +93,7 @@ committee records the reason and the period per system**, not per organisation.
 
 ## A4. Permits
 
-**This section exists because a permit is a precondition to processing, takes up to 45
+**This clause exists because a permit is a precondition to processing, takes up to 45
 days, and is silently refused if the ministry does not reply.**
 
 A4.1 [ORGANISATION] maintains a Permit Register recording, for each permit: the reference
@@ -366,7 +366,7 @@ dates. The committee reviews the register at every meeting; expired exceptions l
 automatically.
 
 A13.2 **No exception may be granted** to: process a permit category without a permit;
-transfer personal data outside Oman otherwise than in accordance with policy Section 17;
+transfer personal data outside Oman otherwise than in accordance with policy clause 17;
 process a child's data without verified guardian consent; or disable logging or audit
 evidence.
 

@@ -22,7 +22,7 @@ how the policy has to be written.
 law is technology-neutral. It contains no list of prohibited AI practices, no
 classification of systems by risk, and no standalone right against automated
 decisions. Every obligation that reaches an AI system reaches it as an obligation
-about personal data. Section 4 explains what follows from that, because the most
+about personal data. Clause 4 explains what follows from that, because the most
 common error here is looking for an AI rulebook, not finding one, and concluding that
 nothing applies.
 
@@ -34,8 +34,8 @@ afterwards is a decision that cannot be defended.
 **An individual can be prosecuted personally.** Where a member of staff discloses or
 uses personal data held by the organisation without the organisation's authorisation,
 that individual - not only the organisation - commits an offence carrying a fine and
-a term of imprisonment. Section 11 of this policy sets this out, and it is the single
-most important section for anyone who handles customer or employee data.
+a term of imprisonment. Clause 11 of this policy sets this out, and it is the single
+most important clause for anyone who handles customer or employee data.
 
 ## 2. Scope
 
@@ -47,7 +47,7 @@ internal AI systems. It applies on company devices and accounts, and on personal
 devices or accounts whenever used for [ORGANISATION] work or data.
 
 Compliance is mandatory. Breaches may result in disciplinary action up to and
-including termination, and, in the circumstances described in Section 11, referral to
+including termination, and, in the circumstances described in clause 11, referral to
 the authorities.
 
 ### 2.1 Which role [ORGANISATION] holds
@@ -93,11 +93,11 @@ CHANNEL]; requests are assessed within [N] business days.
 3.5 Staff already using an unapproved tool must disclose this to the policy owner.
 Good-faith disclosure will not of itself be treated as a disciplinary matter.
 **Continuing to use it after reading this policy will be**, and may additionally
-engage Section 11.
+engage clause 11.
 
 ## 4. What the law actually reaches
 
-**Read this section before Section 5.**
+**Read this clause before clause 5.**
 
 There is no AI-specific licence, registration, conformity assessment or
 classification requirement in Singapore personal data protection law. A team looking
@@ -109,7 +109,7 @@ systems because AI systems handle personal data.
 
 - **Consent, or a lawful basis in place of it.** Personal data may not be collected,
   used or disclosed without consent unless the law permits it without consent.
-  Section 7 sets out the bases [ORGANISATION] may rely on and what each one requires.
+  Clause 7 sets out the bases [ORGANISATION] may rely on and what each one requires.
 - **Purpose limitation.** Data may be used only for purposes a reasonable person would
   consider appropriate, and of which the individual was informed where that applies.
   Feeding data collected for one purpose into an AI system serving another is the
@@ -119,15 +119,15 @@ systems because AI systems handle personal data.
 - **Accuracy.** Where personal data is likely to be used to make a decision affecting
   the individual, or to be disclosed to another organisation, the organisation must
   make a reasonable effort to ensure it is accurate and complete. This obligation
-  applies to AI-assisted decisions with full force (Section 9).
+  applies to AI-assisted decisions with full force (clause 9).
 - **Protection.** Reasonable security arrangements against unauthorised access, use,
   disclosure, copying, modification or disposal, and against loss of the medium.
 - **Retention.** Data must cease to be retained, or be de-identified, once the purpose
   is served and no legal or business need remains. Prompts, uploads, embeddings,
-  caches and logs are within this (Section 13).
-- **Transfer outside Singapore**, only on the prescribed basis (Section 8).
-- **Access and correction** on request (Section 17).
-- **Breach assessment and notification** (Section 16).
+  caches and logs are within this (clause 13).
+- **Transfer outside Singapore**, only on the prescribed basis (clause 8).
+- **Access and correction** on request (clause 17).
+- **Breach assessment and notification** (clause 16).
 - **A designated individual responsible for compliance**, whose business contact
   information is publicly available.
 
@@ -138,14 +138,14 @@ exist, and assuming that their absence means nothing applies.
 
 - **There is no general right not to be subject to an automated decision**, and no
   statutory right to an explanation of one. [ORGANISATION] nonetheless imposes the
-  requirements in Section 10 as a house standard, because the accuracy obligation and
+  requirements in clause 10 as a house standard, because the accuracy obligation and
   the reasonable-person standard cannot be met by a process nobody can account for.
-- **There is no prohibited-practice list.** Section 6 is therefore a policy
+- **There is no prohibited-practice list.** Clause 6 is therefore a policy
   prohibition, not a statutory one, and is labelled as such.
 - **There is no special category of sensitive personal data** carrying its own
   heightened rules across the Act. Sensitivity instead enters through the
-  reasonable-person standard, through the assessments in Section 7, and through the
-  breach thresholds in Section 16. [ORGANISATION] treats the categories listed at 7.5
+  reasonable-person standard, through the assessments in clause 7, and through the
+  breach thresholds in clause 16. [ORGANISATION] treats the categories listed at 7.5
   as high-sensitivity as a matter of policy.
 - **A data portability obligation is referred to in the law but its provisions are not
   yet in the statute.** [ORGANISATION] does not build against it, and does not assume
@@ -178,7 +178,7 @@ the AI system inventory.
 **Level 4 - Consequential.** AI output that materially informs a decision about a
 person - hiring, promotion, discipline, credit, pricing, eligibility, access to a
 service, or any decision with a legal or similarly significant effect. Requires
-everything at Level 3, plus the controls in Section 10 and approval by the AI
+everything at Level 3, plus the controls in clause 10 and approval by the AI
 Governance Committee.
 
 Where a use sits between two levels, the higher level applies.
@@ -186,10 +186,10 @@ Where a use sits between two levels, the higher level applies.
 ## 6. Prohibited by [ORGANISATION]
 
 These are policy prohibitions. Singapore personal data protection law contains no list
-of prohibited AI practices, and this section does not claim otherwise. [ORGANISATION]
+of prohibited AI practices, and this clause does not claim otherwise. [ORGANISATION]
 imposes them because each carries risk that the organisation is not prepared to
 accept and, in several cases, because the underlying conduct would in any event breach
-an obligation in Section 4.
+an obligation in clause 4.
 
 6.1 Entering customer, employee or candidate personal data into any tool not on the
 approved list.
@@ -197,13 +197,13 @@ approved list.
 6.2 Entering credentials, keys, secrets, or security configuration into any AI tool.
 
 6.3 Using AI output as the sole basis for a Level 4 decision, without the human
-determination required by Section 10.
+determination required by clause 10.
 
 6.4 Using AI to generate content presented as the work of a named individual without
 that person's agreement, or to imitate a real person's voice, likeness or signature.
 
 6.5 Re-identifying, or attempting to re-identify, anonymised information without
-written authorisation. **This one is also an offence** - see Section 12.
+written authorisation. **This one is also an offence** - see clause 12.
 
 6.6 Using AI to covertly monitor, profile or score employees.
 
@@ -328,7 +328,7 @@ the statutory correction right does not reach it.** That is an exemption
 [ORGANISATION] does not intend to rely on. Where an individual demonstrates that
 derived output about them is wrong, it is corrected or removed on the same terms as
 any other error, and the underlying data it was derived from is checked. This is a
-house standard and is deliberately more generous than the law requires. Section 17.5
+house standard and is deliberately more generous than the law requires. Clause 17.5
 states how it operates.
 
 9.5 Where AI output about an individual is recorded in a system of record, its source
@@ -360,9 +360,9 @@ system was used, in general terms what it considered, and how to contest the out
 10.5 Where a decision is contested, a person not involved in the original decision
 reviews it. The review and its result are recorded.
 
-## 11. Personal criminal liability - read this section
+## 11. Personal criminal liability - read this clause
 
-**This section applies to you personally, not only to [ORGANISATION].**
+**This clause applies to you personally, not only to [ORGANISATION].**
 
 11.1 Singapore law makes it an offence for an individual to disclose, or cause the
 disclosure of, personal data in the possession or under the control of an organisation
@@ -378,7 +378,7 @@ person.
 11.3 **Pasting customer or employee personal data into an AI tool that
 [ORGANISATION] has not approved is an unauthorised disclosure of that data to the
 tool's provider.** This policy is the document by which [ORGANISATION] states what is
-and is not authorised. Section 3 is therefore not only an internal rule; it is the
+and is not authorised. Clause 3 is therefore not only an internal rule; it is the
 boundary of the authorisation on which the lawfulness of an individual's conduct
 depends.
 
@@ -507,7 +507,7 @@ separate obligation at 16.2, and the organisation will be judged on both.
 
 16.6 A breach confined to unauthorised handling of personal data **within**
 [ORGANISATION] is not a notifiable breach. It remains a disciplinary matter, may
-engage Section 11, and is recorded and investigated in the same way.
+engage clause 11, and is recorded and investigated in the same way.
 
 16.7 Where [ORGANISATION] acts as a data intermediary for another organisation and has
 reason to believe a breach has occurred in the data it processes for them, it must
@@ -654,11 +654,11 @@ metrics, and regulatory change.
 ## 23. Knowledge, skills and acknowledgement
 
 23.1 Staff who use AI tools with personal data complete training covering this policy,
-the lawful bases at Section 7, and **Section 11**, before access is granted and at
+the lawful bases at clause 7, and **clause 11**, before access is granted and at
 least [annually] thereafter.
 
 23.2 Staff who make or inform Level 4 decisions complete additional training on the
-limits of AI output and on the determination required at Section 10.
+limits of AI output and on the determination required at clause 10.
 
 23.3 Staff acknowledge this policy on joining, on material revision, and at least
 annually.

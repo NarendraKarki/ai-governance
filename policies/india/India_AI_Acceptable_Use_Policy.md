@@ -22,24 +22,24 @@ has to be written, and three of them cut against instincts formed elsewhere.
 legislation commences in three stages, and the stage carrying the compliance
 machinery - notice, security safeguards, breach intimation, erasure, rights,
 transfers, and the additional duties on large organisations - lands on **13 May 2027**.
-Section 4 states precisely what binds today and what lands when, because planning
+Clause 4 states precisely what binds today and what lands when, because planning
 against the wrong date is the most common and most expensive error in this area.
 
 **Every personal data breach must be intimated. There is no threshold.** No test of
 significant harm, no minimum number of affected individuals, no risk gate. Every
-affected individual is told, and the Board is told, on becoming aware. Section 15
+affected individual is told, and the Board is told, on becoming aware. Clause 15
 sets this out.
 
 **There is a minimum retention period, not only a maximum.** Personal data, the
 associated traffic data and the processing logs must be kept for **at least one year**.
 An AI tool configured to purge prompts weekly is not a privacy-protective
-configuration under this framework; it is a non-compliant one. Section 12 explains
+configuration under this framework; it is a non-compliant one. Clause 12 explains
 what this means in practice, because it is the requirement teams get wrong most often.
 
 **The one AI-specific duty falls on large organisations only.** An organisation
 notified as a Significant Data Fiduciary must exercise due diligence to verify that
 the technical measures it adopts, **including algorithmic software**, are not likely to
-pose a risk to the rights of individuals. Section 11 covers it, and Section 4.4
+pose a risk to the rights of individuals. Clause 11 covers it, and clause 4.4
 explains why [ORGANISATION] applies a version of it regardless.
 
 ## 2. Scope
@@ -81,7 +81,7 @@ A separate role, the **Consent Manager**, exists in this framework: a registered
 company through which individuals give, manage, review and withdraw consent, and which
 must not be able to read the personal data that flows through it. [ORGANISATION] is
 not a Consent Manager and does not become one without board approval. Where a Consent
-Manager is used as the route to consent, Section 7.4 applies.
+Manager is used as the route to consent, clause 7.4 applies.
 
 ### 2.2 Where the law reaches, and where it does not
 
@@ -96,7 +96,7 @@ Two consequences for AI use:
 
 - **Public availability is about the individual's own act, not about reachability.**
   Personal data scraped from a website is not "publicly available" in this sense
-  unless the individual, or someone legally obliged to, made it so. Section 6
+  unless the individual, or someone legally obliged to, made it so. Clause 6
   prohibits scraping for that reason among others.
 - **Client data from outside India.** Where [ORGANISATION] processes, under a contract
   with a person outside India, the personal data of individuals who are not in India,
@@ -127,13 +127,13 @@ CHANNEL]; requests are assessed within [N] business days.
 Good-faith disclosure will not of itself be treated as a disciplinary matter.
 
 3.6 **A tool cannot be approved for personal data unless its retention behaviour can
-be made to satisfy Section 12.** A tool that purges prompt and log data before the
+be made to satisfy clause 12.** A tool that purges prompt and log data before the
 minimum period, and cannot be configured otherwise, fails approval - not for security
 reasons but for compliance ones.
 
 ## 4. What binds today, and what lands next
 
-**Read this section before Section 5.** The subordinate legislation commences in three
+**Read this clause before clause 5.** The subordinate legislation commences in three
 stages and most of it is not yet live. Treating a deferred obligation as live wastes
 effort; treating a live one as deferred is a breach; and treating the whole regime as
 distant means arriving at May 2027 with tooling that cannot meet it.
@@ -172,16 +172,16 @@ the Board's powers of inquiry and its procedure; appeals; mediation and voluntar
 undertakings; and **the penalties**. **In the rules:**
 
 - the contents and presentation of the notice given to individuals;
-- the reasonable security safeguards, including the minimum list at Section 13;
-- the intimation of personal data breaches, at Section 15;
-- the erasure duties and the minimum retention period, at Section 12;
+- the reasonable security safeguards, including the minimum list at clause 13;
+- the intimation of personal data breaches, at clause 15;
+- the erasure duties and the minimum retention period, at clause 12;
 - the publication of contact information for questions about processing;
 - verifiable consent for the personal data of children and of persons with disability
   who have a lawful guardian, and the exemptions from it;
 - the additional obligations of Significant Data Fiduciaries, including the
-  algorithmic due diligence duty at Section 11;
+  algorithmic due diligence duty at clause 11;
 - the machinery by which individuals exercise their rights, and the grievance
-  redressal period at Section 16;
+  redressal period at clause 16;
 - transfers of personal data outside India;
 - the research, archiving and statistical exemption;
 - appeals, and the Central Government's power to call for information.
@@ -199,9 +199,9 @@ records state how.
 4.4.2 A system may not be approved on the basis that the obligations do not apply yet.
 Approval must state when they will apply and who owns readiness.
 
-4.4.3 [ORGANISATION] applies the algorithmic due diligence standard at Section 11 to
+4.4.3 [ORGANISATION] applies the algorithmic due diligence standard at clause 11 to
 its own decision-bearing AI from today, whether or not it is notified as a Significant
-Data Fiduciary. This is a house standard, and Section 11 says so.
+Data Fiduciary. This is a house standard, and clause 11 says so.
 
 4.4.4 **Regulatory change is tracked, not assumed.** The subordinate legislation has
 already been corrected once since publication. The corrections were typographical and
@@ -222,12 +222,12 @@ secrets, internal processes. Approved tools with a written contract only.
 **Level 3 - Personal data.** Any personal data about customers, staff, candidates or
 any other individual. Requires an approved tool, a written contract carrying the
 security safeguards term, a recorded consent or other lawful basis, a recorded
-retention position meeting Section 12, and registration in the AI system inventory.
+retention position meeting clause 12, and registration in the AI system inventory.
 
 **Level 4 - Consequential.** AI output that materially informs a decision about a
 person - hiring, promotion, discipline, credit, pricing, eligibility, access to a
 service, or any decision with a legal or similarly significant effect. Requires
-everything at Level 3, plus the controls in Sections 10 and 11, and approval by the AI
+everything at Level 3, plus the controls in clauses 10 and 11, and approval by the AI
 Governance Committee.
 
 Where a use sits between two levels, the higher level applies.
@@ -245,13 +245,13 @@ approved list.
 
 6.3 Entering the personal data of a child, or of a person with disability who has a
 lawful guardian, into any AI tool without the data protection lead's written approval.
-Section 9 explains why the bar is set here.
+Clause 9 explains why the bar is set here.
 
 6.4 Using AI output as the sole basis for a Level 4 decision, without the human
-determination required by Section 10.
+determination required by clause 10.
 
 6.5 Configuring, or asking a supplier to configure, an AI tool to delete personal data,
-traffic data or processing logs before the minimum retention period at Section 12.
+traffic data or processing logs before the minimum retention period at clause 12.
 
 6.6 Using AI to generate content presented as the work of a named individual without
 that person's agreement, or to imitate a real person's voice, likeness or signature.
@@ -337,14 +337,14 @@ any category defined as sensitive in [ORGANISATION] data classification.
 7.8 Minimisation applies at Level 3 and Level 4: the smallest amount of personal data
 that will serve the purpose, de-identified wherever the purpose survives
 de-identification. **Minimisation governs what goes in; it does not authorise early
-deletion of what has gone in** - see Section 12.
+deletion of what has gone in** - see clause 12.
 
 7.9 **Accuracy is a statutory duty where a decision is involved.** Where personal data
 is likely to be used to make a decision that affects the individual, or to be disclosed
 to another Data Fiduciary, [ORGANISATION] must ensure its **completeness, accuracy and
 consistency**. For AI this reaches the input data, the inferred data, and the data
 passed onward: a Level 4 system fed from a stale or partial record breaches this duty
-before it makes a single decision. Section 10.6 applies it.
+before it makes a single decision. Clause 10.6 applies it.
 
 ## 8. Contact information and transparency
 
@@ -360,7 +360,7 @@ carry it.
 
 8.3 Where AI is used to draft or send responses to individuals, the template must
 carry the contact information and the response must be checked before it is sent.
-Section 14 governs verification generally.
+Clause 14 governs verification generally.
 
 ## 9. Children and persons with disability
 
@@ -389,7 +389,7 @@ necessary. **[ORGANISATION] does not assume an exemption applies.** The data pro
 lead determines it in writing, against the conditions, before any such processing.
 
 9.5 Until that determination exists, children's personal data does not go into an AI
-tool. Section 6.3.
+tool. Clause 6.3.
 
 9.6 **Two prohibitions apply to children's data regardless of consent.** [ORGANISATION]
 must not undertake processing likely to cause a detrimental effect on a child's
@@ -424,11 +424,11 @@ system was used, in general terms what it considered, and how to contest the out
 
 10.5 Where a decision is contested, a person not involved in the original decision
 reviews it. The review and its result are recorded, and the grievance redressal route
-at Section 16 remains available in parallel.
+at clause 16 remains available in parallel.
 
 10.6 Before a Level 4 system is approved, the owner demonstrates how the completeness,
 accuracy and consistency of the personal data it uses for decisions is assured, and
-how the individual's right to correction, completion and updating at Section 16 flows
+how the individual's right to correction, completion and updating at clause 16 flows
 through to the system's inputs and its stored inferences. A system that keeps deciding
 on data the individual has corrected breaches the accuracy duty at 7.9.
 
@@ -473,7 +473,7 @@ undone mitigations is an open finding, not a completed assessment.
 
 ## 12. Retention - the minimum, not only the maximum
 
-**This section reverses an instinct most teams bring to AI tooling. Read it before
+**This clause reverses an instinct most teams bring to AI tooling. Read it before
 configuring any tool.**
 
 12.1 Personal data, the associated traffic data, and the other logs of the processing
@@ -528,7 +528,7 @@ framework sets a minimum list, and every item on it applies to AI systems:
   unauthorised access, investigate it, and remediate to prevent recurrence;
 - **continuity measures**, such as backups, for the case where confidentiality,
   integrity or availability is compromised;
-- **retention of those logs and the personal data for one year** (Section 12);
+- **retention of those logs and the personal data for one year** (clause 12);
 - **an appropriate contractual provision** with the Data Processor for taking
   reasonable security safeguards; and
 - appropriate technical and organisational measures to ensure the safeguards are
@@ -573,7 +573,7 @@ say. This is the most common single failure of generative tools.
 
 14.5 Communications to individuals about their personal data - responses to rights
 requests, breach intimations, notices - are **not sent from AI output without a named
-person checking them**. Section 15 in particular carries prescribed contents, and an
+person checking them**. Clause 15 in particular carries prescribed contents, and an
 omission is a compliance failure rather than a drafting one.
 
 ## 15. Personal data breach - no threshold, two clocks
@@ -659,7 +659,7 @@ approved for personal data.**
 in accordance with [ORGANISATION]'s terms of service and applicable law. The nomination
 route is documented and the identity checks are recorded.
 
-16.5 Every response carries the contact information required by Section 8.2.
+16.5 Every response carries the contact information required by clause 8.2.
 
 16.6 The rights an individual may exercise, where [ORGANISATION] processes her data on
 consent or on the voluntary-provision ground, are:
@@ -672,13 +672,13 @@ consent or on the voluntary-provision ground, are:
 - **Correction, completion, updating and erasure:** on request, inaccurate or
   misleading data is corrected, incomplete data completed, and data updated. Erasure
   follows a request unless retention is necessary for the specified purpose or
-  required by law, and is subject to the floor at Section 12.
+  required by law, and is subject to the floor at clause 12.
 - **Grievance redressal:** readily available means, with a response within the period
   at 16.2. The individual must use this route before approaching the Board, which is
   why it must work.
 - **Nomination:** at 16.4.
 
-The data protection lead maintains the procedure for each, and Section 10.6 carries
+The data protection lead maintains the procedure for each, and clause 10.6 carries
 correction through to decision-bearing systems.
 
 ## 17. Transfers outside India
@@ -724,7 +724,7 @@ disclosure is required by contract, by a client, or by a regulator.
 18.4 Records supporting compliance - notices, consent records, bases, due diligence
 records, approvals, verification records, transfer positions, retention decisions and
 breach records - are retained for [PERIOD], and never for less than the minimum at
-Section 12.
+clause 12.
 
 ## 19. Customer-facing AI
 
@@ -735,15 +735,15 @@ before launch.
 than a person. This is a house standard.
 
 19.3 A route to a human is available and is not made deliberately difficult to find.
-The grievance redressal route at Section 16 must be reachable without going through
+The grievance redressal route at clause 16 must be reachable without going through
 the AI system.
 
 19.4 What the system may commit [ORGANISATION] to is bounded and documented. Where it
 cannot answer, it says so rather than producing a plausible answer.
 
-19.5 Where a customer-facing system collects personal data, the notice at Section 7.2
+19.5 Where a customer-facing system collects personal data, the notice at clause 7.2
 is presented in the flow, in a form that stands on its own, and the withdrawal route
-at Section 7.3 is as easy as the consent route.
+at clause 7.3 is as easy as the consent route.
 
 ## 20. Fairness and monitoring
 
@@ -753,7 +753,7 @@ in this policy.
 
 20.2 Level 4 systems are tested before deployment and at least [annually] for
 disparate outcomes across the groups relevant to the decision, and the results are
-recorded as part of the due diligence record at Section 11.5.
+recorded as part of the due diligence record at clause 11.5.
 
 20.3 [ORGANISATION] monitors use of AI tools on its systems and accounts for
 compliance with this policy, proportionately and in accordance with [ORGANISATION]
@@ -801,7 +801,7 @@ to no more than twice the original figures. **These provisions commence on 13 Ma
 duration of the breach, the type of personal data affected, whether the breach is
 repeated, whether the person gained or avoided loss by it, **what the person did to
 mitigate it and how quickly**, proportionality and deterrence, and the likely impact
-of the penalty. The breach procedure at Section 15 and the records this policy requires
+of the penalty. The breach procedure at clause 15 and the records this policy requires
 exist in part so that mitigation and timeliness can be shown.
 
 22.3 After penalties in **two or more instances**, the Board may refer a Data Fiduciary
@@ -818,9 +818,9 @@ The accompanying research note gives the provision for each.
 22.5 **What remains open**, stated rather than guessed:
 
 - no general or special order on transfers outside India, and no notification
-  restricting transfers to named countries, is held (Section 17);
+  restricting transfers to named countries, is held (clause 17);
 - no specification of the personal data a Significant Data Fiduciary must keep in
-  India is held (Section 17.3);
+  India is held (clause 17.3);
 - no notification of Significant Data Fiduciaries, and no age-based exemption
   notification for children's data, is held;
 - no sector regulator's instrument is held; where one applies it may impose shorter
@@ -833,12 +833,12 @@ meeting whether the position has changed.
 ## 23. Knowledge, skills and acknowledgement
 
 23.1 Staff who use AI tools with personal data complete training covering this policy,
-the notice and consent requirements at Section 7, **the retention minimum at Section
-12**, and **the breach duties at Section 15**, before access is granted and at least
+the notice and consent requirements at clause 7, **the retention minimum at clause
+12**, and **the breach duties at clause 15**, before access is granted and at least
 [annually] thereafter.
 
 23.2 Staff who make or inform Level 4 decisions complete additional training on the
-limits of AI output and on the determination required at Section 10.
+limits of AI output and on the determination required at clause 10.
 
 23.3 Staff acknowledge this policy on joining, on material revision, and at least
 annually.

@@ -15,7 +15,7 @@ automated processing, **prior written authorisation** for defined categories
 
 | File | What it is |
 |---|---|
-| [Bahrain_AI_Acceptable_Use_Policy.md](Bahrain_AI_Acceptable_Use_Policy.md) | The full policy (v1.0), including Section 4 - regulatory clearance before deployment, and Level 4 regulated uses |
+| [Bahrain_AI_Acceptable_Use_Policy.md](Bahrain_AI_Acceptable_Use_Policy.md) | The full policy (v1.0), including clause 4 - regulatory clearance before deployment, and Level 4 regulated uses |
 | [Bahrain_AI_Use_OnePager.md](Bahrain_AI_Use_OnePager.md) | The one-page staff guide - including the Bahrain-specific rule staff most often trip over: AI that watches or identifies people needs the regulator's written permission before it starts |
 | [Bahrain_AI_Governance_Enterprise_Annex.md](Bahrain_AI_Governance_Enterprise_Annex.md) | Enterprise controls, including the Regulatory Filings Register (A2A) that gates deployment on the filing position |
 | [Bahrain_policy_research_note.md](Bahrain_policy_research_note.md) | Every obligation mapped to source and article, corrections recorded openly, findings from reading the enacted Arabic against the official translations |

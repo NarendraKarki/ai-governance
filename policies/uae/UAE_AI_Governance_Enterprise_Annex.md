@@ -83,7 +83,7 @@ purpose logging is implemented and where the logs are held; the named ASO oversi
 owner; certification status and expiry; **whether the System can identify whose personal
 data a given exposure touched**; the retention position; and the next review date.
 
-A3.2 A tool not in the inventory is treated as unapproved under policy Section 7.
+A3.2 A tool not in the inventory is treated as unapproved under policy clause 7.
 
 A3.3 The inventory is reviewed [quarterly], and any A2.6 event reopens the record
 immediately rather than at the next review.
@@ -93,7 +93,7 @@ A3.4 The inventory is the operational record of which regime governs each proces
 
 ## A4. Certification readiness register
 
-**This section exists because the certification framework's implementation timeline is at
+**This clause exists because the certification framework's implementation timeline is at
 the Commissioner's discretion, and because the evidence it requires cannot be produced
 retrospectively.**
 
@@ -133,7 +133,7 @@ way.
 ## A5. The Automated Systems Officer
 
 A5.1 [ORGANISATION] appoints an ASO for Systems used for High Risk Processing, with the
-competencies, status, role and tasks described in policy Section 12.
+competencies, status, role and tasks described in policy clause 12.
 
 A5.2 **The one-month rule is a hard operational constraint** (policy 12.3): no gap of more
 than one month before the operation of such a System, or between an outgoing ASO and a
@@ -162,7 +162,7 @@ that the System is certified.
 
 ## A6. Purposes, limits and the evidence of autonomy
 
-**This section operationalises policy Section 11 and is the part of this annex with no
+**This clause operationalises policy clause 11 and is the part of this annex with no
 counterpart in an ordinary AI governance framework.**
 
 A6.1 For every System, the inventory holds three artefacts before deployment: the
@@ -271,7 +271,7 @@ concentration risk review by the committee.
 
 A9.1 The incident process records **awareness as a timestamp, by a named person, at the
 moment it occurs.** Which clock then runs depends on the regime determined under policy
-Section 3, and the incident record states which regime was applied and why.
+clause 3, and the incident record states which regime was applied and why.
 
 A9.2 **For DIFC processing, the standard is "as soon as practicable in the
 circumstances", with no fixed period.** [ORGANISATION] sets an internal target and, more

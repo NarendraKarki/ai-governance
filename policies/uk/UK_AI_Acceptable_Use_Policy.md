@@ -55,7 +55,7 @@ that attach to it.
 - **Level 1:** No personal, confidential, or regulated data, and output not used to
   make decisions about individuals.
 - **Level 2:** Internal non-personal data, or output that informs work affecting the
-  business. Data handling (Section 6) and output verification (Section 7) apply.
+  business. Data handling (clause 6) and output verification (clause 7) apply.
 - **Level 3:** Personal data, special category data, customer-facing output, or
   decisions affecting individuals or carrying financial or safety impact. All
   controls apply, together with a data protection impact assessment and sign-off by
@@ -69,9 +69,9 @@ analysis of appropriately classified data in approved tools.
 
 5.2 The following are prohibited:
 - any use that breaches the law or [ORGANISATION] policy;
-- entering prohibited data into any AI tool (Section 6.8);
+- entering prohibited data into any AI tool (clause 6.8);
 - allowing an AI tool to make a final decision about an individual without human
-  review (Section 8);
+  review (clause 8);
 - using AI to produce legal, medical, financial, or safety-critical advice relied on
   without qualified human review;
 - using AI to conduct surveillance or assessment of staff except where separately
@@ -117,7 +117,7 @@ organisation has no lawful basis to process in this way.
 6.9 The Information Commissioner's Office is [ORGANISATION]'s data protection
 supervisory authority. A personal data breach may require notification within a
 short statutory period; suspected breaches must be reported immediately under
-Section 11.
+clause 11.
 
 ## 7. Verification of output
 
@@ -144,13 +144,13 @@ must have the authority and time to do so.
 9.1 Rules apply according to how AI is used. In particular:
 - **Developers:** proprietary or confidential source code must not be entered into
   AI tools other than those expressly approved for code; AI-generated code must be
-  reviewed before use (Section 10.3).
+  reviewed before use (clause 10.3).
 - **HR and recruitment:** AI must not be used to make hiring, performance, or
-  disciplinary decisions about individuals without human review (Section 8).
+  disciplinary decisions about individuals without human review (clause 8).
 - **Marketing and communications:** AI-generated external content must be checked
   for accuracy, rights, and brand standards, and disclosed where required
-  (Section 12).
-- **Customer-facing functions:** see Section 13.
+  (clause 12).
+- **Customer-facing functions:** see clause 13.
 
 ## 10. Security and confidentiality
 
@@ -169,7 +169,7 @@ Suspected exposure of personal or confidential data to an AI tool, harmful or
 materially incorrect AI output that has been acted upon, and suspected breaches of
 this policy must be reported immediately to the policy owner and data protection
 lead. Personal data incidents may trigger statutory notification duties
-(Section 6.9).
+(clause 6.9).
 
 Data protection complaints from individuals are handled separately from incidents:
 [ORGANISATION] provides an accessible means of making a complaint, acknowledges

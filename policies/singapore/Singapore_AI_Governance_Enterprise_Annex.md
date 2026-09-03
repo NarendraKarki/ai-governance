@@ -45,7 +45,7 @@ provides independent assurance (A9).
 A2.1 Every AI system used or deployed by [ORGANISATION] - bought, built, or embedded
 in other software - must be recorded in the AI system inventory before use. The record
 states: business owner; purpose; **the role [ORGANISATION] holds for that system,
-organisation or data intermediary**; risk level (policy Section 5); the categories of
+organisation or data intermediary**; risk level (policy clause 5); the categories of
 personal data processed; **the lawful basis and, where one is required, the reference
 to the completed assessment**; supplier and underlying model where known; the point of
 human determination; **processing and storage locations and the transfer basis**;
@@ -53,7 +53,7 @@ human determination; **processing and storage locations and the transfer basis**
 review date.
 
 A2.2 An AI system not in the inventory is treated as an unapproved tool under policy
-Section 3, and its use may engage policy Section 11.
+clause 3, and its use may engage policy clause 11.
 
 A2.3 The inventory is reviewed [quarterly]. Material changes to a recorded system -
 model, supplier, processing location, retention behaviour, or purpose - reopen its
@@ -64,7 +64,7 @@ processes by AI, and must not diverge from the organisation's wider data invento
 
 ## A3. Assessment register
 
-**This section exists because the assessments Singapore law requires are conditions of
+**This clause exists because the assessments Singapore law requires are conditions of
 lawfulness, not documentation. Where an assessment is required and has not been done,
 the processing has no basis - it is not merely unevidenced.**
 
@@ -132,7 +132,7 @@ on that data.
 ## A5. Suppliers and the data intermediary relationship
 
 A5.1 No AI service is procured or renewed without the security and data protection
-review in policy Section 3 and **a contract evidenced or made in writing**. The
+review in policy clause 3 and **a contract evidenced or made in writing**. The
 written contract is the condition on which the supplier's status as a data
 intermediary rests; without it, the supplier holds full obligations it has not agreed
 to, and [ORGANISATION] holds a risk it has not assessed.
@@ -203,7 +203,7 @@ risks the organisation is able to accept on an individual's behalf, and an excep
 purporting to grant them would not protect the individual.
 
 A7.3 An exception permitting an AI tool to be used with personal data changes what is
-authorised for the purposes of policy Section 11. Every such exception names the
+authorised for the purposes of policy clause 11. Every such exception names the
 individuals it covers, the data it covers, and its expiry, so that the boundary of
 authorisation stays legible.
 
@@ -323,7 +323,7 @@ pressure to bypass controls - outside their line management and without detrimen
 through [speak-up channel]. **A concern that a member of staff has been asked to put
 personal data into an unapproved tool is treated as urgent** and routed to the annex
 owner and data protection lead the same day, because of the personal exposure at
-policy Section 11.
+policy clause 11.
 
 ## A12. Enforcement exposure
 

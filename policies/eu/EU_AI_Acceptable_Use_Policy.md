@@ -19,7 +19,7 @@ Two features of the Union framework shape this document. First, **some AI practi
 are prohibited outright** and no assessment, consent or business justification makes
 them lawful. Second, the artificial intelligence regime **commences in stages**: a
 substantial part of it binds today, and the part most people expect to bind - the
-high-risk regime - does not yet. Section 4 states which is which, because planning
+high-risk regime - does not yet. Clause 4 states which is which, because planning
 against the wrong date is the most common error in this area.
 
 ## 2. Scope
@@ -44,7 +44,7 @@ substantially modifies a system, or if it puts its name to a system it has adapt
 
 **Fine-tuning a model, rebranding a vendor's assistant, or embedding a third-party
 model in a product [ORGANISATION] sells can change the role.** No such step may be
-taken without the assessment in Section 4.4.
+taken without the assessment in clause 4.4.
 
 ## 3. Approved tools
 
@@ -65,17 +65,17 @@ Good-faith disclosure will not of itself be treated as a disciplinary matter.
 
 ## 4. What binds today, and what lands next
 
-**Read this section before Section 5.** Obligations under the artificial intelligence
+**Read this clause before clause 5.** Obligations under the artificial intelligence
 regime commence on different dates. Treating a deferred obligation as live wastes
 effort; treating a live one as deferred is a breach.
 
 ### 4.1 In force now
 
-- **The prohibited practices** in Section 6.1. In force since February 2025.
-- **The staff knowledge and skills duty** in Section 20. In force since February 2025.
+- **The prohibited practices** in clause 6.1. In force since February 2025.
+- **The staff knowledge and skills duty** in clause 20. In force since February 2025.
 - **Obligations on general-purpose AI models**, which fall on the model provider
   rather than on [ORGANISATION] as a user. In force since August 2025.
-- **The transparency obligations** in Section 9. **In force since 2 August 2026** -
+- **The transparency obligations** in clause 9. **In force since 2 August 2026** -
   these are new, and are the obligations most likely to affect [ORGANISATION]'s
   existing deployments today.
 - The whole of the data protection regime, which has bound since 2018 and is not
@@ -92,11 +92,11 @@ effort; treating a live one as deferred is a breach.
   already covered by Union product safety legislation.
 
   **This is a deferral, not an exemption.** Systems being procured or built now will
-  be caught. Section 4.3 exists so that the deferral is used rather than wasted.
+  be caught. Clause 4.3 exists so that the deferral is used rather than wasted.
 
 - **Two further prohibitions**, concerning non-consensual intimate imagery and child
   sexual abuse material, which apply from **2 December 2026**. [ORGANISATION] treats
-  these as prohibited from today as a matter of policy; see Section 6.2.
+  these as prohibited from today as a matter of policy; see clause 6.2.
 
 ### 4.3 What the deferral is for
 
@@ -111,7 +111,7 @@ The approval must state when they will apply and who owns readiness.
 ### 4.4 Role change
 
 Any proposal that would make [ORGANISATION] a provider rather than a deployer
-(Section 2.1) requires assessment and sign-off by the policy owner and the data
+(clause 2.1) requires assessment and sign-off by the policy owner and the data
 protection lead before work begins.
 
 ## 5. Levels of use
@@ -126,14 +126,14 @@ the high-risk classification, ahead of its commencement.
 - **Level 1:** No personal, confidential, or regulated data, and output not used to
   make decisions about individuals.
 - **Level 2:** Internal non-personal data, or output that informs work affecting the
-  business. Data handling (Section 7) and output verification (Section 11) apply.
+  business. Data handling (clause 7) and output verification (clause 11) apply.
 - **Level 3:** Personal data, special category data, customer-facing output, or
   decisions affecting individuals or carrying financial or safety impact. All
   controls apply, together with a data protection impact assessment and sign-off by
   the policy owner and data protection lead before use.
 - **Level 4 - high-risk track:** Any system that would fall within the high-risk
   category when that regime commences. Treated as Level 3 **and** recorded with a
-  readiness owner and target date under Section 4.3.
+  readiness owner and target date under clause 4.3.
 
 ## 6. Prohibited practices
 
@@ -180,9 +180,9 @@ disabled or the tool removed from the list.
 ### 6.3 Prohibited by [ORGANISATION]
 
 - any other use that breaches the law or [ORGANISATION] policy;
-- entering prohibited data into any AI tool (Section 7.8);
+- entering prohibited data into any AI tool (clause 7.8);
 - allowing an AI tool to make a final decision about an individual without human
-  review (Section 10);
+  review (clause 10);
 - using AI to produce legal, medical, financial, or safety-critical advice relied on
   without qualified human review;
 - using AI to conduct surveillance or assessment of staff except where separately
@@ -262,7 +262,7 @@ they are interacting with an AI system, unless it is obvious to a reasonably
 well-informed, observant and circumspect person in the circumstances.
 
 9.2 Where [ORGANISATION] deploys an emotion recognition system or a biometric
-categorisation system in a case not prohibited by Section 6.1, the people exposed to
+categorisation system in a case not prohibited by clause 6.1, the people exposed to
 it must be informed of its operation, and the personal data must be processed in
 accordance with data protection law.
 
@@ -276,7 +276,7 @@ detectable as artificially generated or manipulated. The obligation does not ext
 assistive functions for standard editing that do not substantially alter the input
 data or its meaning.
 
-9.5 The obligations in this section are separate from, and additional to, the
+9.5 The obligations in this clause are separate from, and additional to, the
 information duties owed under data protection law.
 
 ## 10. Automated decisions about people
@@ -298,7 +298,7 @@ human intervention, to express their point of view, and to contest the decision.
 10.4 Decisions of that kind must not be based on special category data unless a
 narrow permitted condition applies and suitable safeguards are in place.
 
-10.5 Section 10.1 is a **house standard stricter than the statutory floor**, which
+10.5 Clause 10.1 is a **house standard stricter than the statutory floor**, which
 operates by way of a right the individual must invoke. Requiring review before effect
 is a deliberate choice, recorded as such.
 
@@ -319,22 +319,22 @@ customer-facing or decision-bearing output, verification must be recorded.
 
 - **Developers:** proprietary or confidential source code must not be entered into AI
   tools other than those expressly approved for code; AI-generated code must be
-  reviewed before use (Section 13.3).
+  reviewed before use (clause 13.3).
 - **HR and recruitment:** AI must not be used to make hiring, performance, or
-  disciplinary decisions about individuals without human review (Section 10). Any
+  disciplinary decisions about individuals without human review (clause 10). Any
   tool that scores a candidate's or employee's emotional state is prohibited outright
-  (Section 6.1). Systems used for recruitment or selection, or for decisions on
+  (clause 6.1). Systems used for recruitment or selection, or for decisions on
   promotion, termination, task allocation, or the monitoring and evaluation of
   performance and behaviour, are listed in the high-risk category that commences in
   December 2027 - subject to the narrow statutory derogation, which cannot apply
-  where the system profiles individuals - and must be recorded under Section 4.3.
+  where the system profiles individuals - and must be recorded under clause 4.3.
 - **Security and facilities:** biometric identification and categorisation, and
   emotion inference, are prohibited or tightly constrained. No pilot may be run
   without the policy owner's and data protection lead's approval.
 - **Marketing and communications:** AI-generated external content must be checked for
-  accuracy, rights, and brand standards, and disclosed where required (Sections 9 and
+  accuracy, rights, and brand standards, and disclosed where required (clauses 9 and
   15).
-- **Customer-facing functions:** see Section 16.
+- **Customer-facing functions:** see clause 16.
 
 ## 13. Security and confidentiality
 
@@ -364,7 +364,7 @@ likely to result in a **high** risk, the affected individuals must also be infor
 without undue delay.
 
 **The clock runs from awareness, not from the completion of an investigation**, so the
-internal report under this section must be immediate and is not to be deferred while
+internal report under this clause must be immediate and is not to be deferred while
 facts are gathered.
 
 Individuals may complain to [ORGANISATION] and, independently, to a supervisory
@@ -379,7 +379,7 @@ confirmed before commercial use, and copyright and trade marks must not be infri
 
 15.2 Where AI has materially produced content presented as [ORGANISATION]'s work to
 customers, regulators, or the public, its use must be disclosed where required by
-Section 9 or where non-disclosure would mislead.
+clause 9 or where non-disclosure would mislead.
 
 15.3 Records of approved AI uses, lawful bases relied on, impact assessments,
 processing agreements, transfer bases, high-risk readiness plans, and verification of
@@ -389,14 +389,14 @@ schedule.
 ## 16. Customer-facing AI
 
 16.1 Where AI interacts directly with customers, the customer must be informed they
-are interacting with an AI system (Section 9.1), be able to reach a human where
+are interacting with an AI system (clause 9.1), be able to reach a human where
 appropriate, and receive output that meets [ORGANISATION]'s accuracy and fairness
 standards.
 
 16.2 Individuals must be given the information the law requires at the point their
 personal data is obtained, including the identity of the controller, the purposes and
 legal basis, the recipients, retention, their rights, and - where automated
-decision-making of the kind in Section 10.3 is used - meaningful information about the
+decision-making of the kind in clause 10.3 is used - meaningful information about the
 logic involved and the significance and envisaged consequences.
 
 ## 17. Fairness and non-discrimination
@@ -412,7 +412,7 @@ owner.
 tools accessed, the discovery of unsanctioned tools, and records of policy breaches.
 Monitoring is proportionate, has a recorded lawful basis, and is notified to staff.
 **Monitoring must not extend to inferring employees' emotions**, which is prohibited
-(Section 6.1).
+(clause 6.1).
 
 ## 19. Responsibilities
 
@@ -424,7 +424,7 @@ Monitoring is proportionate, has a recorded lawful basis, and is notified to sta
 - The data protection lead is responsible for data protection sign-off, impact
   assessments, transfer bases, complaints handling, and liaison with the supervisory
   authority.
-- The owner named under Section 4.3 is responsible for high-risk readiness on each
+- The owner named under clause 4.3 is responsible for high-risk readiness on each
   system recorded on that track.
 
 ## 20. Knowledge, skills and acknowledgement

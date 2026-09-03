@@ -25,7 +25,7 @@ The United States regulates AI through a patchwork: a federal baseline that is
 sectoral (credit, health, children's data, financial institutions) plus a general
 unfair-and-deceptive-practices power, and state laws that differ by state. **This
 policy states the federal baseline, California, and Colorado - and nothing else.**
-Section 3 routes each obligation to its source, and Section 22 states what the set
+Clause 3 routes each obligation to its source, and clause 22 states what the set
 does not cover. An organisation reaching consumers in other states must overlay those
 states' laws; assuming California and Colorado cover the country is the error this
 edition exists to prevent.
@@ -41,7 +41,7 @@ technology that **replaces or substantially replaces human decisionmaking** in a
 significant decision. A system whose output a human meaningfully reviews is out.
 
 **The same tool can be inside Colorado's regime and outside California's at the same
-time.** Section 4 turns both tests into one worked determination, because applying
+time.** Clause 4 turns both tests into one worked determination, because applying
 only the test you met first is the most likely failure here.
 
 ### 1.3 A governance framework has legal effect in Colorado
@@ -50,7 +50,7 @@ Colorado's statute names the NIST Artificial Intelligence Risk Management Framew
 and ISO/IEC 42001 in its own text: a risk management program must be reasonable
 considering those frameworks, compliance supports a **rebuttable presumption of
 reasonable care**, and framework compliance plus a cure is an **affirmative defense**
-in an enforcement action. Section 9 builds the risk program on the NIST framework for
+in an enforcement action. Clause 9 builds the risk program on the NIST framework for
 that reason - in this jurisdiction, governance structure is not just good practice;
 it is the statutory safe harbour.
 
@@ -143,9 +143,9 @@ outside.
 5.1 Only AI tools on the [ORGANISATION] Approved AI Tools list may be used with
 [ORGANISATION] or personal information.
 
-5.2 A tool is added to the list only after: the two determinations at Section 4;
-security and privacy review; a written contract meeting Section 13; and, where a
-risk assessment is required under Section 9, that assessment.
+5.2 A tool is added to the list only after: the two determinations at clause 4;
+security and privacy review; a written contract meeting clause 13; and, where a
+risk assessment is required under clause 9, that assessment.
 
 5.3 Use of any tool not on the list - including free or personal-account versions of
 listed tools - is not permitted for [ORGANISATION] work or data.
@@ -165,13 +165,13 @@ Approved tools.
 written contract.
 
 **Level 3 - Personal information.** Any personal information. Approved tools,
-written contract, the notices at Section 8, and registration in the AI system
+written contract, the notices at clause 8, and registration in the AI system
 inventory.
 
 **Level 4 - Consequential.** AI output that makes, or is a substantial factor in, a
 consequential or significant decision about a person - hiring, compensation, credit,
 lending, housing, education, healthcare, insurance, essential services. Everything
-at Level 3, plus Sections 9 to 12, and approval by the AI Governance Committee.
+at Level 3, plus clauses 9 to 12, and approval by the AI Governance Committee.
 
 Where a use sits between two levels, the higher applies. The levels are
 [ORGANISATION]'s own classification, not categories defined in law - but the Level 4
@@ -188,11 +188,11 @@ on the approved list.
 7.2 Entering credentials, keys, secrets, or security configuration into any AI tool.
 
 7.3 Using AI output as the sole basis for a Level 4 decision without the human
-determination at Section 11 - which, for California consumers, is also what keeps a
+determination at clause 11 - which, for California consumers, is also what keeps a
 tool outside the ADMT article's opt-out and access machinery.
 
 7.4 Deploying a high-risk AI system for Colorado consumers without the risk program,
-impact assessment, and notices at Sections 9 and 10.
+impact assessment, and notices at clauses 9 and 10.
 
 7.5 Using AI to generate content presented as the work of a named individual without
 that person's agreement, or to imitate a real person's voice, likeness or signature.
@@ -203,7 +203,7 @@ observation is separately a risk-assessment trigger in California - it is not a 
 zone.
 
 7.7 Removing, weakening, or failing to enforce the content rules in this policy for
-any natural-language system relied on as excluded under Section 4.2 - the exclusion
+any natural-language system relied on as excluded under clause 4.2 - the exclusion
 exists only while the policy is enforced.
 
 7.8 Using AI to produce material that is unlawful, defamatory, harassing, or
@@ -276,7 +276,7 @@ knowing a regulator may read them.
 9.5 The risk management program that frames these assessments follows the NIST AI
 Risk Management Framework's four functions - govern, map, measure, manage -
 proportionate to [ORGANISATION]'s size, the systems' scope, and the data's
-sensitivity, per Section 1.3.
+sensitivity, per clause 1.3.
 
 ## 10. Consumer notices and adverse decisions
 
@@ -295,7 +295,7 @@ action duties apply in parallel.
 10.3 **Opt-outs:** where required, consumers are informed of the right to opt out of
 profiling in furtherance of significant decisions; California consumers receive the
 ADMT opt-out and access rights in the regulations, operated through the methods in
-Section 12.
+clause 12.
 
 10.4 **The public statement:** [ORGANISATION] publishes and periodically updates a
 website statement summarising the types of high-risk AI systems it deploys, how it
@@ -313,7 +313,7 @@ output, has the authority, information, and time to reach a different conclusion
 and records the determination as their own.
 
 11.2 A review that only ratifies the output is not a review - and under the
-California definition it is not human involvement at all (Section 4.5).
+California definition it is not human involvement at all (clause 4.5).
 
 11.3 For each Level 4 use, [ORGANISATION] records before deployment: the decision
 the system informs; the data it uses; tested performance and known limitations; the
@@ -344,9 +344,9 @@ contract requirements; supplier flow-down covers sub-processors.
 
 13.2 AI-specific terms: no use of [ORGANISATION] data to train supplier models
 without express approval; disclosure of material model and capability changes -
-which reopen the Section 4 determinations; disclosure of processing and storage
+which reopen the clause 4 determinations; disclosure of processing and storage
 locations; developer documentation sufficient to complete the impact assessment at
-Section 9 (model cards, dataset cards, known limitations, discrimination testing);
+clause 9 (model cards, dataset cards, known limitations, discrimination testing);
 breach notification without undue delay; assistance with individuals' requests; and
 exit arrangements.
 
@@ -375,9 +375,9 @@ on suspicion - the clock is too short to absorb internal delay.
 14.3 Where a difference in outcomes is found and cannot be justified, the system is
 not deployed, or is withdrawn.
 
-14.4 The affirmative-defense architecture at Section 1.3 rewards exactly this:
+14.4 The affirmative-defense architecture at clause 1.3 rewards exactly this:
 discovering and curing violations through feedback, red-teaming, or internal review,
-while complying with the named frameworks. The monitoring in this section is that
+while complying with the named frameworks. The monitoring in this clause is that
 mechanism, operated deliberately.
 
 ## 15. AI interaction disclosure
@@ -466,7 +466,7 @@ systematic-observation inference about workers is a risk-assessment trigger.
 
 20.2 Jurisdictions not held in this corpus impose further duties on AI in hiring -
 they are named in the README as not held, and an organisation hiring in them must
-obtain those instruments before relying on this section.
+obtain those instruments before relying on this clause.
 
 ## 21. Responsibilities
 
@@ -478,7 +478,7 @@ report suspected incidents immediately.
 **Business owners of AI systems** - the inventory record, the two determinations'
 inputs, the assessments, the supplier relationship, the notices in operation.
 
-**Privacy lead** - the determinations at Sections 3 and 4, assessments, notices,
+**Privacy lead** - the determinations at clauses 3 and 4, assessments, notices,
 individuals' requests, regulator submissions, the ninety-day clock, and the current
 statement of breach obligations.
 
@@ -494,7 +494,7 @@ metrics, and regulatory change.
 state AI and privacy statutes multiplying elsewhere - including in employment and
 biometrics - are not held, and nothing here reflects them.
 
-22.2 It does not state breach-notification deadlines (Section 17.2).
+22.2 It does not state breach-notification deadlines (clause 17.2).
 
 22.3 It does not state the health, children's, credit, or financial-institution
 rules beyond the points cited in the research note - those regimes govern
@@ -510,11 +510,11 @@ verified against the held texts, with the verification dates recorded.
 ## 23. Knowledge, skills and acknowledgement
 
 23.1 Staff who use AI tools with personal information complete training covering
-this policy, the two determinations (Section 4), and the notice duties (Sections 8
+this policy, the two determinations (clause 4), and the notice duties (clauses 8
 and 10), before access is granted and at least [annually] thereafter.
 
 23.2 Staff who make or inform Level 4 decisions complete additional training on the
-limits of AI output and the human determination at Section 11.
+limits of AI output and the human determination at clause 11.
 
 23.3 Staff acknowledge this policy on joining, on material revision, and at least
 annually.
@@ -532,5 +532,5 @@ and source register.
 
 *This document is an educational policy template and does not constitute legal
 advice. It reflects obligations under the United States instruments set out in the
-accompanying research note, applies only within the scope stated in Section 1.1, and
+accompanying research note, applies only within the scope stated in clause 1.1, and
 must be reviewed by the privacy lead or qualified legal counsel before adoption.*

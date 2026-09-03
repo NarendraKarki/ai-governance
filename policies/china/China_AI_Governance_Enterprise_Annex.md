@@ -44,7 +44,7 @@ internal audit provides independent assurance (A10).
 
 ## A2. The two determinations in operation
 
-A2.1 Every AI tool carries both determinations (policy Section 4), recorded
+A2.1 Every AI tool carries both determinations (policy clause 4), recorded
 separately, each with a date, a named decision-maker, and the basis:
 
 - **Service-type routing:** which regimes the tool engages - recommendation,
@@ -83,7 +83,7 @@ position across prompts, logs, embeddings, and caches; the labelling position;
 the point of human determination; filings made (algorithm filing number,
 security assessments) with dates; and the next review date.
 
-A3.2 A tool not in the inventory is unapproved under policy Section 5.
+A3.2 A tool not in the inventory is unapproved under policy clause 5.
 
 A3.3 The inventory is reviewed [quarterly]; any A2.3 event reopens the record
 immediately.
@@ -94,7 +94,7 @@ A4.1 [ORGANISATION] maintains a single register of the machinery PRC law
 attaches to its AI portfolio, each entry with trigger, owner, date, status, and
 evidence:
 
-- **Personal information protection impact assessments** (policy Section 9),
+- **Personal information protection impact assessments** (policy clause 9),
   conducted before the processing, retained at least three years.
 - **Important data risk assessments** - prior assessment before providing or
   entrusting important data, and the annual risk assessment reported to the
@@ -175,7 +175,7 @@ filing and security assessment submissions.
 ## A7. Suppliers
 
 A7.1 No AI service is procured or renewed without the contract terms at policy
-Section 13, and for entrusted processing of personal information or important
+clause 13, and for entrusted processing of personal information or important
 data, the processing-record retention of at least three years.
 
 A7.2 Suppliers of regulated services evidence their filings and assessments;
@@ -285,7 +285,7 @@ senior owner, time-bound (maximum [6 months]), with compensating controls and
 expiry dates, reviewed at every committee meeting.
 
 A12.2 **No exception may be granted against:** the prohibited uses at policy
-Section 7; providing a regulated public service without its filings and
+clause 7; providing a regulated public service without its filings and
 assessments; label integrity; the minors rules; or a cross-border transfer
 with no lawful route.
 
@@ -297,7 +297,7 @@ content of the mandatory labelling standard, or criminal law - none of those
 instruments is held, and the source register says so.
 
 A13.2 Where new CAC instruments, national standards, or amendments are issued,
-the committee records the version relied on and reopens the affected sections.
+the committee records the version relied on and reopens the affected clauses.
 
 ---
 
