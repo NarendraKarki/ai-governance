@@ -397,6 +397,45 @@ explanation, human review and notification as house standards. Built on:
 - The [National AI Plan](https://www.industry.gov.au/sites/default/files/2025-12/national-ai-plan.pdf)
   and the [Guidance for AI Adoption](https://www.industry.gov.au/publications/guidance-for-ai-adoption/our-approach)
 
+### Canada - published, scoped
+
+**[policies/canada/](policies/canada/)** - full policy, enterprise governance annex,
+research note, and source register. Word versions in
+[downloads](policies/canada/downloads/). Scoped honestly: federal PIPEDA plus
+Quebec, with Alberta and British Columbia named as not held. Open gates are in the
+[folder README](policies/canada/README.md).
+
+There is no Canadian AI Act - the artificial intelligence bill died with Bill C-27
+in January 2025 - and the third attempt at federal privacy reform, Bill C-36, had
+first reading on 15 June 2026 and is relied on for nothing. Three findings shape
+this edition. **The only enacted automated-decision duty in Canada is Quebec's**,
+in force since 22 September 2023: inform, explain on request, and hear
+observations through a person able to review - and it turns on the word
+"exclusively", so the set makes that a recorded determination for every system
+and applies the same rights to substantially automated decisions as a house
+standard. The stricter of the two regimes is provincial, with a mandatory
+officer, a privacy impact assessment for every new system, an assessment before
+information leaves Quebec, and administrative penalties up to the greater of $10
+million or 2% of worldwide turnover; the set applies the stricter rule everywhere.
+And the commissioners have said that **an inference about a person is a
+collection** requiring legal authority, and that public availability does not
+make personal information free to take. Built on:
+
+- [Personal Information Protection and Electronic Documents Act](https://laws-lois.justice.gc.ca/eng/acts/P-8.6/) -
+  Justice Laws consolidation current to 21 June 2026: the ten principles,
+  appropriate purposes, valid consent, access, and the breach report and record
+  duties
+- [Law 25 (S.Q. 2021, c. 25)](https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/en/2021/2021C25A.PDF) -
+  the official English annual statute, read for every provision of the
+  private-sector Act it enacts: the person in charge, the incident regime, the
+  privacy impact assessment, section 12.1, the profiling notice, the transfer
+  assessment, the penalties, and the staged commencement
+- [Bill C-36](https://www.parl.ca/DocumentViewer/en/45-1/bill/C-36/first-reading) -
+  first reading text, read and not relied on
+- The privacy commissioners'
+  [Principles for responsible, trustworthy and privacy-protective generative AI technologies](https://www.priv.gc.ca/en/privacy-topics/technology/artificial-intelligence/gd_principles_ai/)
+  (December 2023)
+
 ## Formats
 
 Markdown files are canonical. Word versions of each document are in the
