@@ -55,7 +55,7 @@ Good-faith disclosure will not of itself be treated as a disciplinary matter.
 
 ## 4. Regulatory clearance before deployment
 
-**Read this section before Section 5. It governs whether a system may be deployed
+**Read this clause before clause 5. It governs whether a system may be deployed
 at all, not merely how it is used.**
 
 4.1 **Prior notice.** Automated processing of personal data must be notified to the
@@ -86,7 +86,7 @@ start until the authorisation is held.
 or authorised - purpose, categories of data, recipients, destination of transfers,
 security measures - must be reported to the Authority within the statutory period.
 Changing the model, the vendor, or what data a system is given can be such a change.
-Material changes reopen approval under Section A2.2 of the Enterprise Annex.
+Material changes reopen approval under clause A2.2 of the Enterprise Annex.
 
 4.4 Obtaining authorisation does not remove the need for a lawful basis or, where
 required, the data subject's consent.
@@ -102,12 +102,12 @@ the law itself gates behind prior written authorisation.
 - **Level 1:** No personal, confidential, or regulated data, and output not used to
   make decisions about individuals.
 - **Level 2:** Internal non-personal data, or output that informs work affecting the
-  business. Data handling (Section 7) and output verification (Section 8) apply.
+  business. Data handling (clause 7) and output verification (clause 8) apply.
 - **Level 3:** Personal data, sensitive personal data, customer-facing output, or
   decisions affecting individuals or carrying financial or safety impact. All
   controls apply, together with a data protection impact assessment and sign-off by
   the policy owner and data protection lead before use.
-- **Level 4 - regulated:** Anything within Section 4.2. Treated as Level 3 **and**
+- **Level 4 - regulated:** Anything within clause 4.2. Treated as Level 3 **and**
   blocked from deployment until written authorisation is held. Planning must assume
   the Authority may take the full statutory period to decide, or may not reply.
 
@@ -120,11 +120,11 @@ appropriately classified data in approved tools.
 6.2 The following are prohibited:
 
 - any use that breaches the law or [ORGANISATION] policy;
-- **starting any processing within Section 4.2 before written authorisation is held**;
+- **starting any processing within clause 4.2 before written authorisation is held**;
 - starting notifiable automated processing before notice has been given;
-- entering prohibited data into any AI tool (Section 7.9);
+- entering prohibited data into any AI tool (clause 7.9);
 - allowing an AI tool to make a final decision about an individual without human
-  review (Section 9);
+  review (clause 9);
 - using AI to produce legal, medical, financial, or safety-critical advice relied on
   without qualified human review;
 - using AI to conduct surveillance or assessment of staff except where separately
@@ -144,7 +144,7 @@ electronic means, and obtained before processing.
 7.2 Personal data collected for one purpose must not be further processed in a way
 incompatible with that purpose. Customer or employee data must not be used to train
 or fine-tune an AI model unless that use has been separately assessed and approved,
-and unless the notification and authorisation position in Section 4 has been settled
+and unless the notification and authorisation position in clause 4 has been settled
 for it.
 
 7.3 Only personal data that is adequate, relevant and not excessive for the task may
@@ -160,7 +160,7 @@ tool are within this requirement.
 
 7.6 A data protection impact assessment must be completed, and approved by the data
 protection lead, before processing that involves: solely automated decisions of the
-kind described in Section 9; systematic and extensive automated evaluation of
+kind described in clause 9; systematic and extensive automated evaluation of
 personal aspects, including profiling, on which decisions with legal or similarly
 significant effects are based; large-scale processing of sensitive personal data or
 criminal-proceedings data; systematic monitoring of a publicly accessible area on a
@@ -174,7 +174,7 @@ it cannot be retrieved or deleted on request.
 
 7.8 Sensitive personal data and children's personal data must not be entered into any
 AI tool without the recorded approval of the data protection lead, a valid ground for
-processing it, and where applicable the authorisation required by Section 4.2.
+processing it, and where applicable the authorisation required by clause 4.2.
 
 7.9 The following must never be entered into any AI tool: authentication credentials
 and secrets; payment card data; personal data outside an approved tool and written
@@ -236,7 +236,7 @@ solely automated means. Reconsideration is **obligatory and free of charge**.
 clear procedure, in electronic or similar form, setting out how they object, how the
 objection is decided, and how they are told the outcome within a reasonable period.
 
-9.4 Section 9.1 is a **house standard stricter than the statutory floor**. The law
+9.4 Clause 9.1 is a **house standard stricter than the statutory floor**. The law
 gives the individual a right to demand reconsideration after a decision has been
 made; this policy requires meaningful human review before the decision takes effect.
 This is a deliberate choice, recorded as such.
@@ -258,16 +258,16 @@ customer-facing or decision-bearing output, verification must be recorded.
 
 - **Developers:** proprietary or confidential source code must not be entered into AI
   tools other than those expressly approved for code; AI-generated code must be
-  reviewed before use (Section 12.3).
+  reviewed before use (clause 12.3).
 - **HR and recruitment:** AI must not be used to make hiring, performance, or
-  disciplinary decisions about individuals without human review (Section 9). Screening
-  and scoring of candidates or staff engages Section 9.3 directly.
+  disciplinary decisions about individuals without human review (clause 9). Screening
+  and scoring of candidates or staff engages clause 9.3 directly.
 - **Security and facilities:** camera analytics, badge-photo matching, and any
-  identity verification by biometric means fall within Section 4.2 and must not be
+  identity verification by biometric means fall within clause 4.2 and must not be
   procured or piloted without written authorisation.
 - **Marketing and communications:** AI-generated external content must be checked for
-  accuracy, rights, and brand standards, and disclosed where required (Section 14).
-- **Customer-facing functions:** see Section 15.
+  accuracy, rights, and brand standards, and disclosed where required (clause 14).
+- **Customer-facing functions:** see clause 15.
 
 ## 12. Security and confidentiality
 
@@ -295,7 +295,7 @@ Where a personal data breach has occurred, the Authority must be notified within
 short statutory period **running from the time the breach was discovered**, unless it
 is unlikely to lead to a risk threatening data subjects' rights. Late notification
 must carry the reasons for the delay. Because the clock runs from discovery rather
-than from confirmation or assessment, **the reporting duty in this section is
+than from confirmation or assessment, **the reporting duty in this clause is
 immediate and is not to be deferred pending internal investigation**.
 
 Where [ORGANISATION] has not informed affected individuals, the Authority may require
@@ -348,7 +348,7 @@ owner.
 tools accessed, the discovery of unsanctioned tools, and records of policy breaches.
 Monitoring is proportionate, conducted for the purposes of this policy, and carried
 out in accordance with applicable notification requirements. Monitoring that involves
-visual recording for surveillance purposes is itself subject to Section 4.2.
+visual recording for surveillance purposes is itself subject to clause 4.2.
 
 ## 18. Responsibilities
 
