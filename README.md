@@ -37,7 +37,7 @@ the working.
 | # | In this series | Status |
 |---|---|---|
 | 1 | **AI acceptable use policies** | **Live** - thirteen jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, China, Australia, Canada, and Japan published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
-| 2 | Classifying AI systems by risk | Coming |
+| 2 | **Classifying AI systems by risk** | **Live** - the EU AI Act as consolidated after the Digital Omnibus ([below](#2-classifying-ai-systems-by-risk)) |
 | 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 4 | Bias and fairness testing | Coming |
 | 5 | AI risk registers and model inventories | Coming |
@@ -471,6 +471,37 @@ expected in the Diet in spring 2026, stated and relied on for nothing. Built on:
 - The Personal Information Protection Commission's
   [Outline of the System Reform Policy under the Triennial Review of the APPI](https://www.ppc.go.jp/en/)
   (January 2026), for the pending amendment
+
+## 2. Classifying AI systems by risk
+
+Every obligation in the EU AI Act hangs off one question: where does a given
+system land in the Act's structure? The familiar four-tier pyramid answers it
+badly, because the tiers are not exclusive and they do not commence together.
+This part replaces the pyramid with five questions asked in order, so that a
+real system comes out of the exercise with a defensible classification and the
+date its duties actually bind.
+
+**[classification/eu/](classification/eu/)** - the classification walkthrough,
+a companion explainer on what applies today, worked examples for a bank and a
+hospital, a research note, and a source register. Word versions in
+[downloads](classification/eu/downloads/).
+
+Built on the Artificial Intelligence Act as consolidated after the Digital
+Omnibus:
+
+- [Regulation (EU) 2024/1689, consolidated at 27 July 2026](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20260727) -
+  the operative text: the prohibited practices, both routes into the high-risk
+  category, the Annex III list read item by item, the transparency duties, and
+  the commencement schedule in Article 113
+- [Regulation (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj) -
+  the Digital Omnibus on AI, which deferred the high-risk regime to December
+  2027 and August 2028, narrowed the safety-component tests, and added two
+  prohibitions that apply from December 2026
+
+Commencement is where most published guidance still goes wrong, so every date
+in this set is taken from Article 113 of the consolidated text rather than from
+secondary reporting. The high-risk regime is deferred, not removed - the
+walkthrough classifies systems now and records the date each duty lands.
 
 ## Formats
 
