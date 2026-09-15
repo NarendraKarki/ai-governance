@@ -38,8 +38,8 @@ the working.
 |---|---|---|
 | 1 | **AI acceptable use policies** | **Live** - thirteen jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, China, Australia, Canada, and Japan published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | **Classifying AI systems by risk** | **Live** - the EU AI Act as consolidated after the Digital Omnibus ([below](#2-classifying-ai-systems-by-risk)) |
-| 3 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
-| 4 | Bias and fairness testing | Coming |
+| 3 | **Bias and fairness testing** | **Live** - three fairness criteria that cannot all hold at once, tested on a synthetic bank's credit model ([below](#3-bias-and-fairness-testing)) |
+| 4 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 5 | AI risk registers and model inventories | Coming |
 | 6 | Impact assessments | Coming |
 | 7 | Assessing AI vendors | Coming |
@@ -67,7 +67,7 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 3. Thirteen jurisdictions are live: the UK,
+for the comparison matrix at part 4. Thirteen jurisdictions are live: the UK,
 Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, Oman, the United
 States, China, Australia, Canada, and Japan.
 
@@ -502,6 +502,44 @@ Commencement is where most published guidance still goes wrong, so every date
 in this set is taken from Article 113 of the consolidated text rather than from
 secondary reporting. The high-risk regime is deferred, not removed - the
 walkthrough classifies systems now and records the date each duty lands.
+
+## 3. Bias and fairness testing
+
+"Fair" has at least three meanings, and they are arithmetically incompatible.
+Are both groups approved as often? Are good customers wrongly refused as often?
+Of those approved, do both repay alike? Whenever two groups genuinely differ in
+the outcome being predicted, no threshold levels all three - a result proved in
+2016 and 2017, not a property of any particular model. So the job is not to
+find the fair model. It is to choose which criterion to level, record why
+before the results are seen, and measure the cost to the other two.
+
+**[fairness/](fairness/)** - the testing walkthrough with an eight-step
+protocol and a blank record, a fully worked example on a synthetic bank's
+credit scoring model, a research note, and a source register. Word versions in
+[downloads](fairness/downloads/).
+
+Every number in the worked example is reproducible: `fairness_testing_credit.py`
+generates the 20,000 synthetic applicants, trains every model and prints every
+published table, from a fixed seed. The dataset as generated is in the folder,
+and the package versions used are in `requirements.txt`.
+
+The example shows a credit model that never sees group membership, is properly
+calibrated, and still approves one group 28 points less often while refusing
+that group's good payers three and a half times as often. Levelling the
+approval gap tips the third criterion instead: approved customers from one
+group then default at 16% against 6%, and two identical scores get opposite
+decisions. It also separates the two cases a single tipped test cannot tell
+apart - a proxy feature that carries group membership but is not doing the
+work, and the same feature carrying a historic manual penalty into a model
+trained on past decisions.
+
+Credit scoring is a listed high-risk use under Annex III of the EU AI Act. The
+duty to examine training data for bias, and to keep the record, attaches to it
+and is deferred to December 2027, not removed. The research note maps every
+legal position to article and paragraph in the consolidated text of 27 July
+2026, and records the correction the reading forced: the special-category
+permission for bias testing was deleted from Article 10(5) and re-enacted as
+Article 4a, extended to deployers and to systems that are not high-risk.
 
 ## Formats
 
