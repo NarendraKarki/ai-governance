@@ -39,8 +39,8 @@ the working.
 | 1 | **AI acceptable use policies** | **Live** - thirteen jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, China, Australia, Canada, and Japan published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | **Classifying AI systems by risk** | **Live** - the EU AI Act as consolidated after the Digital Omnibus ([below](#2-classifying-ai-systems-by-risk)) |
 | 3 | **Bias and fairness testing** | **Live** - three fairness criteria that cannot all hold at once, tested on a synthetic bank's credit model ([below](#3-bias-and-fairness-testing)) |
-| 4 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
-| 5 | AI risk registers and model inventories | Coming |
+| 4 | AI risk registers and model inventories | Coming - a register that records what each AI system is, who owns it, and what could go wrong, with a worked example |
+| 5 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 6 | Impact assessments | Coming |
 | 7 | Assessing AI vendors | Coming |
 | 8 | Incident response and human oversight | Coming |
@@ -67,7 +67,7 @@ review anything before adoption.
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
 built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 4. Thirteen jurisdictions are live: the UK,
+for the comparison matrix at part 5. Thirteen jurisdictions are live: the UK,
 Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, Oman, the United
 States, China, Australia, Canada, and Japan.
 
