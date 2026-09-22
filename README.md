@@ -39,7 +39,7 @@ the working.
 | 1 | **AI acceptable use policies** | **Live** - thirteen jurisdictions: UK, Bahrain, EU, India, Singapore, UAE, Oman, US, China, Australia, Canada, and Japan published and verified within their stated scopes; Saudi Arabia published, government data scope ([below](#1-ai-acceptable-use-policies)) |
 | 2 | **Classifying AI systems by risk** | **Live** - the EU AI Act as consolidated after the Digital Omnibus ([below](#2-classifying-ai-systems-by-risk)) |
 | 3 | **Bias and fairness testing** | **Live** - three fairness criteria that cannot all hold at once, tested on a synthetic bank's credit model ([below](#3-bias-and-fairness-testing)) |
-| 4 | AI risk registers and model inventories | Coming - a register that records what each AI system is, who owns it, and what could go wrong, with a worked example |
+| 4 | **AI risk registers and model inventories** | **Live** - two records instead of one spreadsheet, tested on a synthetic retail group with six AI systems ([below](#4-ai-risk-registers-and-model-inventories)) |
 | 5 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
 | 6 | Impact assessments | Coming |
 | 7 | Assessing AI vendors | Coming |
@@ -540,6 +540,36 @@ legal position to article and paragraph in the consolidated text of 27 July
 2026, and records the correction the reading forced: the special-category
 permission for bias testing was deleted from Article 10(5) and re-enacted as
 Article 4a, extended to deployers and to systems that are not high-risk.
+
+## 4. AI risk registers and model inventories
+
+An inventory is a record of fact, and its test is completeness. A risk
+register is a record of judgement, and its test is honesty. Keep both in one
+spreadsheet and the judgement collapses into fact-keeping - every risk
+"medium", every owner "IT". It controls nothing.
+
+**[risk-register/](risk-register/)** - the walkthrough (why two records not
+one, where each one fails on its own, an eight-step protocol, blank records),
+a fully worked example on a synthetic retail group, a research note, and a
+source register. The inventory and register ship as one Excel workbook
+with a Read Me sheet, live summary counts, colour-coded severity bands,
+blank templates, and formulas on the walkthrough's scale. Word versions in
+[downloads](risk-register/downloads/).
+
+The worked example's retail group thought it had two AI systems. Properly
+discovered, it had six - four of them found by a source other than
+procurement, including a shift-scheduling tool that had set rotas,
+unreviewed, for fourteen months. Rating all six against the walkthrough's
+scales produced twenty-four risks, four critical to the people affected -
+including two AI-specific security risks (prompt injection, threshold
+probing) written as harm statements rather than left to a separate IT
+security register. Ranking the six systems by contract value - what the
+group would lose - put the two highest-harm systems last; rating severity to
+people and to the organisation in separate columns is what caught it.
+
+Verified against the consolidated Artificial Intelligence Act of 27 July
+2026 and NIST AI RMF 1.0, both held and hashed - see the source register for
+verification dates and what is not held and therefore not asserted.
 
 ## Formats
 
