@@ -40,10 +40,10 @@ the working.
 | 2 | **Classifying AI systems by risk** | **Live** - the EU AI Act as consolidated after the Digital Omnibus ([below](#2-classifying-ai-systems-by-risk)) |
 | 3 | **Bias and fairness testing** | **Live** - three fairness criteria that cannot all hold at once, tested on a synthetic bank's credit model ([below](#3-bias-and-fairness-testing)) |
 | 4 | **AI risk registers and model inventories** | **Live** - two records instead of one spreadsheet, tested on a synthetic retail group with six AI systems ([below](#4-ai-risk-registers-and-model-inventories)) |
-| 5 | Obligations across jurisdictions | Coming - a comparison matrix across the UK, EU, India, Singapore, and the GCC |
-| 6 | Impact assessments | Coming |
-| 7 | Assessing AI vendors | Coming |
-| 8 | Incident response and human oversight | Coming |
+| 5 | Impact assessments | Coming - the data protection impact assessment most firms already owe, and the fundamental rights impact assessment most firms assume they owe, told apart on one worked example |
+| 6 | Vendor assessment | Coming |
+| 7 | Incident response | Coming |
+| 8 | Human oversight in practice | Coming |
 
 **Educational, not legal advice.** Every artifact is a template for learning
 and adaptation. Have your data protection lead or qualified legal counsel
@@ -66,8 +66,8 @@ review anything before adoption.
 ## 1. AI acceptable use policies
 
 The first artifact of the series: complete, per-jurisdiction policy sets, each
-built on the same skeleton so they can be read side by side - the foundation
-for the comparison matrix at part 5. Thirteen jurisdictions are live: the UK,
+built on the same skeleton so they can be read side by side. Thirteen
+jurisdictions are live: the UK,
 Bahrain, the EU, India, Singapore, Saudi Arabia, the UAE, Oman, the United
 States, China, Australia, Canada, and Japan.
 
