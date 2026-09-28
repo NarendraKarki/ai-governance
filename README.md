@@ -40,7 +40,7 @@ the working.
 | 2 | **Classifying AI systems by risk** | **Live** - the EU AI Act as consolidated after the Digital Omnibus ([below](#2-classifying-ai-systems-by-risk)) |
 | 3 | **Bias and fairness testing** | **Live** - three fairness criteria that cannot all hold at once, tested on a synthetic bank's credit model ([below](#3-bias-and-fairness-testing)) |
 | 4 | **AI risk registers and model inventories** | **Live** - two records instead of one spreadsheet, tested on a synthetic retail group with six AI systems ([below](#4-ai-risk-registers-and-model-inventories)) |
-| 5 | Impact assessments | Coming - the data protection impact assessment most firms already owe, and the fundamental rights impact assessment most firms assume they owe, told apart on one worked example |
+| 5 | **Impact assessments** | **Live**: the DPIA the law already asks for, and the FRIA only some firms owe, told apart on a fictional insurer's underwriting model ([below](#5-impact-assessments)) |
 | 6 | Vendor assessment | Coming |
 | 7 | Incident response | Coming |
 | 8 | Human oversight in practice | Coming |
@@ -570,6 +570,36 @@ people and to the organisation in separate columns is what caught it.
 Verified against the consolidated Artificial Intelligence Act of 27 July
 2026 and NIST AI RMF 1.0, both held and hashed - see the source register for
 verification dates and what is not held and therefore not asserted.
+
+## 5. Impact assessments
+
+An AI impact assessment asks one question before a system goes live: who
+could this harm, and what do we do about it? Written down and answered, that
+question is the assessment. In the UK the law asks for one, a data protection
+impact assessment, whenever a model makes decisions with significant effects
+on people or processes health data at scale. In the EU some firms owe a
+second, a fundamental rights impact assessment under the AI Act, and it can
+build on the first.
+
+**[impact-assessments/](impact-assessments/)**: one Excel workbook with a Read
+Me, a screening sheet that shows which assessment each AI system needs, a
+DPIA and a FRIA written in full for a fictional insurer's underwriting model,
+nine risks to people rated before and after the measures and linked to a
+risk register, a live summary, and blank templates of every sheet.
+
+The worked example's model reads a wearable's step count. Its design notes
+called that lifestyle data; used to judge health risk, it reveals health
+status, so the assessment treated it as health data and changed the lawful
+basis, the consent and the retention before any customer saw a price. The
+workbook also records two positions worth checking in the text itself: the
+AI Act sets no fine of its own for a missing FRIA (Article 99(4) lists
+Article 26, not Article 27), and a high-risk system already in service before
+2 December 2027 is caught only if its design changes significantly
+(Article 111(2)).
+
+Checked against the consolidated Artificial Intelligence Act of 27 July 2026
+and the UK GDPR as amended by the Data (Use and Access) Act 2025; the folder
+README sets out what was read, when, and what is not yet held.
 
 ## Formats
 
