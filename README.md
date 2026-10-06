@@ -41,7 +41,7 @@ the working.
 | 3 | **Bias and fairness testing** | **Live** - three fairness criteria that cannot all hold at once, tested on a synthetic bank's credit model ([below](#3-bias-and-fairness-testing)) |
 | 4 | **AI risk registers and model inventories** | **Live** - two records instead of one spreadsheet, tested on a synthetic retail group with six AI systems ([below](#4-ai-risk-registers-and-model-inventories)) |
 | 5 | **Impact assessments** | **Live**: the DPIA the law already asks for, and the FRIA only some firms owe, told apart on a fictional insurer's underwriting model ([below](#5-impact-assessments)) |
-| 6 | Vendor assessment | Coming |
+| 6 | **Vendor assessment** | **Live**: what normal due diligence misses inside an AI tool you buy, layer by layer, and the contract clause each gap needs, on a fictional law firm's contract-review tool ([below](#6-vendor-assessment)) |
 | 7 | Incident response | Coming |
 | 8 | Human oversight in practice | Coming |
 
@@ -600,6 +600,45 @@ Article 26, not Article 27), and a high-risk system already in service before
 Checked against the consolidated Artificial Intelligence Act of 27 July 2026
 and the UK GDPR as amended by the Data (Use and Access) Act 2025; the folder
 README sets out what was read, when, and what is not yet held.
+
+
+## 6. Vendor assessment
+
+Most AI in a firm is bought, not built, and an AI tool is several companies
+deep: the vendor's product, the foundation model inside it (usually made by
+another company), the cloud it runs on, the vendor's subprocessors, and the
+firm's own data at the centre. A vendor assessment asks what sits in each
+layer before anyone signs, and turns every gap into a contract clause. A
+vendor can pass normal security due diligence and still be a risk: that review
+checks the vendor, not the AI inside it. Most data
+protection laws leave the buyer responsible for the vendor it chooses; under
+UK GDPR, for example, it may only use a processor that provides sufficient
+guarantees.
+
+**[vendor-assessment/](vendor-assessment/)**: one Excel workbook with a Read
+Me, 34 questions across the five layers and the firm's own duties, each marked
+standard due diligence or AI-specific, with a plain reason written to hold in most jurisdictions, the UK and EU legal basis, a
+column for your own jurisdiction's law, and the clause the contract needs, a worked example for
+a fictional law firm buying a generative AI contract-review tool, a live
+status and decision (sign, sign with conditions, or do not sign yet), and a
+blank template with its own summary.
+
+In the worked example the standard questions raised no Reds; all three gaps
+that would have stopped signing were AI-specific (prompts, documents and
+outputs kept in logs for 90 days, the model provider keeping prompts for up
+to 30 days for abuse monitoring, and default terms allowing "service improvement" use of client
+content), all fixed in the contract. It also records a position worth
+checking in the text itself: reviewing contracts for clients is not a
+high-risk use under the EU AI Act, and the model provider owes its
+documentation to the vendor (Article 53(1)(b)), not to the buyer. The
+buyer's leverage is the contract.
+
+The UK and EU column is the verified worked example; other jurisdictions
+may be added as their texts are checked. Checked
+against the UK GDPR as amended by the Data (Use and Access) Act 2025
+(transfers now sit in Article 44A) and the consolidated Artificial
+Intelligence Act of 27 July 2026; the folder README sets out what was read,
+when, and what is not covered.
 
 ## Formats
 
